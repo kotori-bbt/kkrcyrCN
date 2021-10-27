@@ -3,7 +3,7 @@ name: Sync with Paratranz
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 0 * * *
+    - cron: 20 16 * * *
 
 jobs:
   sync:
