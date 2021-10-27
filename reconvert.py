@@ -2,6 +2,7 @@ import json
 import csv
 import os
 import re
+import pandas as pd
 
 if __name__ == '__main__':
     filenames_in = 'paratranz/'
@@ -17,7 +18,8 @@ if __name__ == '__main__':
         f = open(info,newline='\n',encoding='utf-8-sig')
         data = json.load(f)
         with open(outfo, 'w', newline='\n', encoding='utf-8-sig') as f:
+            f.write('Speaker,Original Text,Translated Text,Translator Notes,Edited Text,Editor Notes,,Object ID,String ID\n')
             writer = csv.writer(f);
             for item in data:
-                writer.writerow([item['context'], item['original'],item['translation'],item['id'],item['file'],item['extra'],item['project'],item['key']])
+                writer.writerow([item['context'], item['original'],item['translation'],item['id'],item['file'],item['project'],item['extra'],item['stage'],item['key']])
     f.close()
