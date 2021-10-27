@@ -19,7 +19,6 @@ jobs:
           python -m pip install --upgrade pip
       - name: Update
         run: |
-          rm -rf csv
           rm -rf paratranz
           unzip latest.zip "utf8/*"
           mv utf8 paratranz
