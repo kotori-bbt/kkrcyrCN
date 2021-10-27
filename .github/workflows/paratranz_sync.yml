@@ -17,9 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull from Paratranz
-        env:
-          token: ${{ b2a8dfb6083206a67c55dff92683866e }}
-        run: 'wget -O latest.zip --header="Authorization: $token" https://paratranz.cn/api/projects/3318/artifacts/download'
+        run: 'wget -O latest.zip --header="Authorization: b2a8dfb6083206a67c55dff92683866e" https://paratranz.cn/api/projects/3318/artifacts/download'
       - name: Update
         run: |
           rm -rf paratranz
