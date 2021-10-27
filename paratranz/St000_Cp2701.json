@@ -1,0 +1,32 @@
+﻿[
+  {
+    "id": 111704108,
+    "createdAt": "2021-10-18T09:17:09.000Z",
+    "updatedAt": null,
+    "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2701.bin_0",
+    "original": "（もう朝か……\\n　流石に、昨日はあの後……予知はなかったけど……）",
+    "translation": "",
+    "file": 385963,
+    "stage": 0,
+    "project": 3318,
+    "uid": null,
+    "extra": null,
+    "context": "　",
+    "words": 2
+  },
+  {
+    "id": 111704109,
+    "createdAt": "2021-10-18T09:17:09.000Z",
+    "updatedAt": null,
+    "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2701.bin_1",
+    "original": "（でも、本当に昨日は……生きた心地がしなかった……\\n　あんなことがいつまで続くんだろう？）",
+    "translation": "",
+    "file": 385963,
+    "stage": 0,
+    "project": 3318,
+    "uid": null,
+    "extra": null,
+    "context": "",
+    "words": 2
+  }
+]
