@@ -19,7 +19,7 @@ jobs:
       - name: Pull from Paratranz
         env:
           token: ${{ secrets.PARATRANZ_TOKEN }}
-        run: 'wget -O latest.zip --header="Authorization: $token" https://paratranz.cn/api/projects/2414/artifacts/download'
+        run: 'wget -O latest.zip --header="Authorization: $token" https://paratranz.cn/api/projects/3318/artifacts/download'
       - name: Update
         run: |
           rm -rf paratranz
