@@ -5,7 +5,7 @@ import re
 
 if __name__ == '__main__':
     filenames_in = './paratranz/'
-    filenames_out = './csv/'
+    filenames_out = '/home/runner/work/kkrcyrCN/csv/'
     pathDir = os.listdir(filenames_in)
     for allDir in pathDir:
         child = re.findall(r"(.+?).json",allDir)
