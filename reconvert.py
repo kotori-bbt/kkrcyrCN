@@ -2,7 +2,6 @@ import json
 import csv
 import os
 import re
-import pandas as pd
 
 if __name__ == '__main__':
     filenames_in = 'paratranz/'
