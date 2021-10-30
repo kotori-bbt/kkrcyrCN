@@ -22,6 +22,8 @@ jobs:
           rm -rf paratranz
           unzip latest.zip "utf8/*"
           mv utf8 paratranz
+          cd paratranz
+          mv *.csv csv
       - name: Sort & Reconvert
         run: python reconvert.py
       - name: Add & Commit
