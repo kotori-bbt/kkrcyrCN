@@ -2,14 +2,14 @@
   {
     "id": 111714757,
     "createdAt": "2021-10-18T09:18:33.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-03T12:49:36.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0501.bin_0",
     "original": "ＨＲ",
-    "translation": "",
+    "translation": "班会",
     "file": 386161,
-    "stage": 0,
+    "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "Time",
     "words": 1
