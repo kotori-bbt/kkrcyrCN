@@ -1082,14 +1082,14 @@
   {
     "id": 111707653,
     "createdAt": "2021-10-18T09:17:29.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-04T06:38:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1301.bin_72",
     "original": "「これだけ毎日甲斐甲斐しくお見舞いに通っておいて、\\n　みんなの太一へのメールや、お見舞いを断っておいて……」",
-    "translation": "「你都这样花费时间每天去探望他了，\\n 不让大家探望和发邮件给太一……」",
+    "translation": "「你都这样花费时间每天去探望他了，\\n　 不让大家探望和发邮件给太一……」",
     "file": 386012,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 2

@@ -47,14 +47,14 @@
   {
     "id": 111702831,
     "createdAt": "2021-10-18T09:16:57.000Z",
-    "updatedAt": "2021-10-28T12:37:09.000Z",
+    "updatedAt": "2021-11-04T06:28:35.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22E2.bin_3",
     "original": "「古い建物が多いし、\\n　もしかしたらこれがあの瓦礫の山になるのかも！」",
-    "translation": "「老旧建筑物比比皆是，\\n说不定就是这里会变成那座瓦砾山！」",
+    "translation": "「老旧建筑物比比皆是，\\n　说不定就是这里会变成那座瓦砾山！」",
     "file": 385928,
     "stage": 1,
     "project": 3318,
-    "uid": 24250,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 2

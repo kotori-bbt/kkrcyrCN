@@ -452,14 +452,14 @@
   {
     "id": 111708545,
     "createdAt": "2021-10-18T09:17:38.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-04T07:09:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1401.bin_30",
     "original": "「わたしと太一がうまくいかなければ、\\n　稲葉んにとってチャンス……。そうは思わないの？」",
-    "translation": "「我跟太一不能顺利的话，\\n对稻叶儿来说不就是机会吗……你不这么想吗？」",
+    "translation": "「我跟太一不能顺利的话，\\n　对稻叶儿来说不就是机会吗……你不这么想吗？」",
     "file": 386034,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 2

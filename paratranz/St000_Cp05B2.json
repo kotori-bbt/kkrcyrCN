@@ -122,14 +122,14 @@
   {
     "id": 111701011,
     "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-10-27T10:49:13.000Z",
+    "updatedAt": "2021-11-04T06:28:01.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_8",
     "original": "「うわっ！　な、何なんだよ？\\n　いきなり突き飛ばすことないだろ？」",
-    "translation": "「哇！什、什么啊？\\n话说没有必要突然冲过来吧？」",
+    "translation": "「哇！什、什么啊？\\n　话说没有必要突然冲过来吧？」",
     "file": 385885,
     "stage": 1,
     "project": 3318,
-    "uid": 24291,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 3

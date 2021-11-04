@@ -1187,14 +1187,14 @@
   {
     "id": 111707146,
     "createdAt": "2021-10-18T09:17:26.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-04T06:38:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp0701.bin_79",
     "original": "「すまんな。唯、青木。\\n　今日は部活は終了だ」",
-    "translation": "「抱歉，唯，青木。\\n今天的社团活动就到这里了」",
+    "translation": "「抱歉，唯，青木。\\n　今天的社团活动就到这里了」",
     "file": 386006,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 2
