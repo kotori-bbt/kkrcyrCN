@@ -77,14 +77,14 @@
   {
     "id": 111712698,
     "createdAt": "2021-10-18T09:18:11.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-06T05:04:45.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp0901.bin_5",
     "original": "「だよなぁ……。\\n　〈ふうせんかずら〉の奴、あんな思わせぶりなこと\\n　言っといて……」",
-    "translation": "「也是啦……。\\n　〈风船阁〉那家伙、居然说那种话\\n　糊弄我们",
+    "translation": "「也是啦……。\\n　〈风船葛〉那家伙，居然说那种话\\n　糊弄我们",
     "file": 386113,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "青木",
     "words": 3

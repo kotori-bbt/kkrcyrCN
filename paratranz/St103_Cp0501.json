@@ -557,14 +557,14 @@
   {
     "id": 111713768,
     "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-06T05:45:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0501.bin_37",
     "original": "『オレも伊織ちゃんと一緒で、\\n　何が起こっても不思議じゃないと思う』",
-    "translation": "『我也和伊織一样、\\n　觉得不管发生什么都不奇怪』",
+    "translation": "『我也和伊织一样、\\n　觉得不管发生什么都不奇怪』",
     "file": 386135,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "青木",
     "words": 2

@@ -302,14 +302,14 @@
   {
     "id": 111713705,
     "createdAt": "2021-10-18T09:18:20.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-06T05:45:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0401.bin_20",
     "original": "「伊織……。\\n　冗談でもそんな気色の悪い事、口にすんな」",
-    "translation": "「伊織……。\\n　就算是开玩笑也不要把那么恶心的事情、说出来」",
+    "translation": "「伊织……。\\n　就算是开玩笑也不要把那么恶心的事情、说出来」",
     "file": 386134,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 2

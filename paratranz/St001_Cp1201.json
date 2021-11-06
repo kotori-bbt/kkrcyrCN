@@ -272,14 +272,14 @@
   {
     "id": 111705026,
     "createdAt": "2021-10-18T09:17:14.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-06T12:03:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp1201.bin_18",
     "original": "以前、桐山は、危ない奴に襲われかけたことがある。\\nその経験から思いついたのかもしれない。",
-    "translation": "",
+    "translation": "之前，桐山也有过被危险人物袭击的经历。\\n说不定是通过那段经验想到的。",
     "file": 385976,
-    "stage": 0,
+    "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 24520,
     "extra": null,
     "context": "太一",
     "words": 2

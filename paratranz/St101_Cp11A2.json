@@ -62,14 +62,14 @@
   {
     "id": 111711872,
     "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-06T12:16:21.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_4",
     "original": "「今は〈ふうせんかずら〉の起こしてる現象の最中だ。\\n　デート中に何かあったらどうするんだ！？」",
-    "translation": "「现在是〈风船葛〉の起こしてる現象の最中だ。\\n　デート中に何かあったらどうするんだ！？」",
+    "translation": "「现在正是〈风船葛〉引发的现象出现的时候啊。\\n　约会的时候要是出了什么事该怎么办！？」",
     "file": 386099,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 24520,
     "extra": null,
     "context": "太一",
     "words": 2
