@@ -2,14 +2,14 @@
   {
     "id": 111703880,
     "createdAt": "2021-10-18T09:17:06.000Z",
-    "updatedAt": "2021-10-23T13:05:24.000Z",
+    "updatedAt": "2021-11-10T07:05:24.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp1801.bin_0",
     "original": "（『未来予知』……\\n　これは、『人格入れ替わり』なんかより、\\n　よっぽど異常だ……）",
     "translation": "（（『未来预知』……\\n　比起『人格交换』来说\\n更加不对劲啊）",
     "file": 385954,
-    "stage": 1,
+    "stage": 3,
     "project": 3318,
-    "uid": 24267,
+    "uid": 24520,
     "extra": null,
     "context": "　",
     "words": 3

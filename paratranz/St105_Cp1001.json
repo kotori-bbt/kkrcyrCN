@@ -767,14 +767,14 @@
   {
     "id": 111715088,
     "createdAt": "2021-10-18T09:18:35.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-10T02:53:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp1001.bin_51",
     "original": "「本気に決まってんだろ……。\\n　あ～～～、ずっと言う気はなかったんだ！\\n　こんな風にならなきゃ隠してられたのに……」",
-    "translation": "",
+    "translation": "「废话，肯定是认真的吧……。\\n啊～～～，一直不想说的！\\n明明不到万不得已不会说的……」",
     "file": 386166,
-    "stage": 0,
+    "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 24269,
     "extra": null,
     "context": "稲葉",
     "words": 3

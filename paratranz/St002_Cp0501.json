@@ -92,14 +92,14 @@
   {
     "id": 111705827,
     "createdAt": "2021-10-18T09:17:20.000Z",
-    "updatedAt": "2021-10-28T03:55:00.000Z",
+    "updatedAt": "2021-11-10T09:51:47.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St002_Cp0501.bin_6",
     "original": "「ああ、わかってるよ」",
-    "translation": "「啊啊，我知道」",
+    "translation": "「是是，我知道了啦。」",
     "file": 385991,
     "stage": 1,
     "project": 3318,
-    "uid": 24269,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 1
