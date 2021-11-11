@@ -47,14 +47,14 @@
   {
     "id": 111717677,
     "createdAt": "2021-10-18T09:19:00.000Z",
-    "updatedAt": "2021-11-06T10:01:39.000Z",
+    "updatedAt": "2021-11-11T08:26:58.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St110_Cp0101.bin_3",
     "original": "部室",
-    "translation": "文研部活动室",
+    "translation": "活动室",
     "file": 386213,
     "stage": 1,
     "project": 3318,
-    "uid": 24250,
+    "uid": 24520,
     "extra": null,
     "context": "Location",
     "words": 1
