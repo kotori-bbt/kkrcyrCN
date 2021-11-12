@@ -737,14 +737,14 @@
   {
     "id": 111717667,
     "createdAt": "2021-10-18T09:19:00.000Z",
-    "updatedAt": "2021-11-06T06:53:20.000Z",
+    "updatedAt": "2021-11-12T05:14:23.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St110_Cp0001.bin_49",
     "original": "「……ありがと。\\n　そう言ってくれると、少しだけ気が楽になるわ」",
-    "translation": "「……谢谢。\\n听到你这么说，我心里也轻松了一点」",
+    "translation": "「……谢谢。\\n　听到你这么说，我心里也轻松了一点」",
     "file": 386212,
     "stage": 1,
     "project": 3318,
-    "uid": 24250,
+    "uid": 20131,
     "extra": null,
     "context": "唯",
     "words": 2

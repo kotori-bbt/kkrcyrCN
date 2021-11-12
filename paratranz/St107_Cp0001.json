@@ -107,14 +107,14 @@
   {
     "id": 111715839,
     "createdAt": "2021-10-18T09:18:43.000Z",
-    "updatedAt": "2021-11-09T05:28:17.000Z",
+    "updatedAt": "2021-11-12T05:13:41.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0001.bin_7",
     "original": "「冗談じゃないぞ！\\n　太一、何とかしろ！」",
-    "translation": "「不要开玩笑了！\\n太一，想想办法！」",
+    "translation": "「不要开玩笑了！\\n　太一，想想办法！」",
     "file": 386181,
     "stage": 1,
     "project": 3318,
-    "uid": 24397,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 2

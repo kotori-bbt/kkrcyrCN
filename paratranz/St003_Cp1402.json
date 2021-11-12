@@ -62,14 +62,14 @@
   {
     "id": 111707788,
     "createdAt": "2021-10-18T09:17:29.000Z",
-    "updatedAt": "2021-11-11T11:14:12.000Z",
+    "updatedAt": "2021-11-12T05:09:19.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1402.bin_4",
     "original": "「アタシは……完璧主義だからな」\\n　",
-    "translation": "「我可算是个……完美主义者」\\n",
+    "translation": "「我可算是个……完美主义者」\\n　",
     "file": 386014,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 1

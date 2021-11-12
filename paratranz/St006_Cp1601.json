@@ -137,14 +137,14 @@
   {
     "id": 111711592,
     "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-10-31T03:11:15.000Z",
+    "updatedAt": "2021-11-12T05:00:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_9",
     "original": "「おわ！　いてて！　いきなり引っ張らないで！」",
-    "translation": "「啊哇!痛!不要突然拉我!」",
+    "translation": "「啊哇！痛！不要突然拉我！」",
     "file": 386093,
     "stage": 1,
     "project": 3318,
-    "uid": 24269,
+    "uid": 20131,
     "extra": null,
     "context": "青木",
     "words": 3

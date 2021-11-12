@@ -482,14 +482,14 @@
   {
     "id": 111713763,
     "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-11-12T03:07:12.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0501.bin_32",
     "original": "『お前ら、落ち着け！\\n　つか太一、妹とケンカすんな！』",
-    "translation": "『你们啊、给我冷静店！\\n　话说太一、你不要和妹妹吵架！』",
+    "translation": "『你们啊、给我冷静点！\\n　话说太一、你不要和妹妹吵架！』",
     "file": 386135,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 2

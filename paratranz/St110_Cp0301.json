@@ -137,14 +137,14 @@
   {
     "id": 111717849,
     "createdAt": "2021-10-18T09:19:01.000Z",
-    "updatedAt": "2021-11-07T08:44:06.000Z",
+    "updatedAt": "2021-11-12T05:14:25.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St110_Cp0301.bin_9",
     "original": "「おっ。青木。\\n　お前も部室に行くところか？」",
-    "translation": "「喔，青木。\\n你也是要去活动室吗？」",
+    "translation": "「喔，青木。\\n　你也是要去活动室吗？」",
     "file": 386215,
     "stage": 1,
     "project": 3318,
-    "uid": 24250,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 2

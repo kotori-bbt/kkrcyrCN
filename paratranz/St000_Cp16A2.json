@@ -1022,14 +1022,14 @@
   {
     "id": 111702309,
     "createdAt": "2021-10-18T09:16:53.000Z",
-    "updatedAt": "2021-11-09T14:42:33.000Z",
+    "updatedAt": "2021-11-12T05:00:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp16A2.bin_68",
     "original": "「太一、突っ立ってんじゃねぇ！\\n　すぐに伊織を保健室に連れてけ！」",
-    "translation": "「太一，别光站在那里！\\n　赶快送伊织去医务室!」",
+    "translation": "「太一，别光站在那里！\\n　赶快送伊织去医务室！」",
     "file": 385914,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 2

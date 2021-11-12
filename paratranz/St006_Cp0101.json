@@ -452,14 +452,14 @@
   {
     "id": 111710232,
     "createdAt": "2021-10-18T09:17:54.000Z",
-    "updatedAt": "2021-10-28T11:38:25.000Z",
+    "updatedAt": "2021-11-12T05:03:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_30",
     "original": "「ただそれだけの事だが問題でも？」",
-    "translation": "「虽然只是这样的事，但有问题?」",
+    "translation": "「虽然只是这样的事，但有问题？」",
     "file": 386077,
     "stage": 1,
     "project": 3318,
-    "uid": 24269,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 1

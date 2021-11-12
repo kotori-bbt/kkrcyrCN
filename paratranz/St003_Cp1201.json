@@ -2,14 +2,14 @@
   {
     "id": 111707478,
     "createdAt": "2021-10-18T09:17:28.000Z",
-    "updatedAt": "2021-11-11T10:37:55.000Z",
+    "updatedAt": "2021-11-12T04:32:24.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1201.bin_0",
     "original": "翌日",
     "translation": "次日",
     "file": 386011,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "Time",
     "words": 1
