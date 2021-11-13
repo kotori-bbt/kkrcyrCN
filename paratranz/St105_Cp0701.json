@@ -632,14 +632,14 @@
   {
     "id": 111714915,
     "createdAt": "2021-10-18T09:18:34.000Z",
-    "updatedAt": "2021-11-08T09:50:26.000Z",
+    "updatedAt": "2021-11-13T10:54:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0701.bin_42",
     "original": "「……浅いとか深いじゃないだろ。\\n　コンサートのチケットじゃないんだし」",
-    "translation": "「……那不是靠后靠前的问题吧。\\n更不是音乐会门票的问题吧」",
+    "translation": "「……那不是靠后靠前的问题吧。\\n又不是音乐会的门票。」",
     "file": 386163,
-    "stage": 2,
+    "stage": 1,
     "project": 3318,
-    "uid": 24269,
+    "uid": 24225,
     "extra": null,
     "context": "太一",
     "words": 2

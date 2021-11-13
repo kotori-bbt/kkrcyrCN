@@ -887,14 +887,14 @@
   {
     "id": 111711139,
     "createdAt": "2021-10-18T09:17:59.000Z",
-    "updatedAt": "2021-10-30T03:21:06.000Z",
+    "updatedAt": "2021-11-13T10:32:44.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1101.bin_59",
     "original": "「余所見しすぎて戦力外通知食らってたな」",
-    "translation": "「因为看得太多，被战力外的人通知了啊」",
+    "translation": "「因为一直盯着别处看，所以挨冷板凳了吧。」",
     "file": 386087,
-    "stage": 2,
+    "stage": 1,
     "project": 3318,
-    "uid": 24269,
+    "uid": 24225,
     "extra": null,
     "context": "太一",
     "words": 1
