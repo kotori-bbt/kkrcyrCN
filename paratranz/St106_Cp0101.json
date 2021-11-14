@@ -152,14 +152,14 @@
   {
     "id": 111715348,
     "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-12T04:57:24.000Z",
+    "updatedAt": "2021-11-14T12:55:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_10",
     "original": "「伊織、唯、集合……」",
     "translation": "「伊织、唯、集合……」",
     "file": 386171,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24520,
     "extra": null,
     "context": "稲葉",
     "words": 1
