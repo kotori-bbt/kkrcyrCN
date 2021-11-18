@@ -287,14 +287,14 @@
   {
     "id": 111717393,
     "createdAt": "2021-10-18T09:18:55.000Z",
-    "updatedAt": "2021-11-14T02:24:50.000Z",
+    "updatedAt": "2021-11-18T12:04:59.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St109_Cp0501.bin_19",
     "original": "「えっ？　ちょ、ちょっと雪菜！\\n　あんたは――」",
-    "translation": "「欸？  等，等下啦雪莱！\\n　你——」",
+    "translation": "「欸？  等，等下啦雪菜！\\n　你——」",
     "file": 386204,
     "stage": 1,
     "project": 3318,
-    "uid": 24225,
+    "uid": 20131,
     "extra": null,
     "context": "唯",
     "words": 3

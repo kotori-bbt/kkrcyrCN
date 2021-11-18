@@ -467,14 +467,14 @@
   {
     "id": 111704324,
     "createdAt": "2021-10-18T09:17:11.000Z",
-    "updatedAt": "2021-11-12T04:17:20.000Z",
+    "updatedAt": "2021-11-18T10:03:09.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0301.bin_31",
     "original": "（『未来予知』か）",
-    "translation": "（【未来预知】吗）",
+    "translation": "（『未来预知』吗）",
     "file": 385967,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24293,
+    "uid": 24520,
     "extra": null,
     "context": "",
     "words": 1
