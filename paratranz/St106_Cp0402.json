@@ -62,14 +62,14 @@
   {
     "id": 111715576,
     "createdAt": "2021-10-18T09:18:41.000Z",
-    "updatedAt": "2021-11-15T07:11:53.000Z",
+    "updatedAt": "2021-11-18T14:55:28.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0402.bin_4",
     "original": "「そうじゃないよ！　そうじゃないけどさ、唯！」",
-    "translation": "「不是那样的！　不是那样的啊，小唯！」",
+    "translation": "「不是那样的！　不是那样的啊，唯！」",
     "file": 386177,
     "stage": 3,
     "project": 3318,
-    "uid": 24250,
+    "uid": 24291,
     "extra": null,
     "context": "青木",
     "words": 2

@@ -2,14 +2,14 @@
   {
     "id": 111715367,
     "createdAt": "2021-10-18T09:18:39.000Z",
-    "updatedAt": "2021-11-12T05:16:33.000Z",
+    "updatedAt": "2021-11-18T14:55:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0103.bin_0",
     "original": "「なぁ、太一。\\n　さっきから唯達集まって何話してんだ？」",
-    "translation": "「呐，太一。\\n　从刚才开始小唯她们就聚在一起说什么呢？」",
+    "translation": "「呐，太一。\\n　从刚才开始唯她们就聚在一起说什么呢？」",
     "file": 386173,
     "stage": 3,
     "project": 3318,
-    "uid": 24250,
+    "uid": 24291,
     "extra": null,
     "context": "青木",
     "words": 2

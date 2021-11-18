@@ -92,14 +92,14 @@
   {
     "id": 111716277,
     "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-11-18T11:58:57.000Z",
+    "updatedAt": "2021-11-18T14:57:42.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_6",
     "original": "「あ、いや、いい……\\n　唯と青木の件はチャラにしよう」",
-    "translation": "「啊，不是，算了……\\n　小唯和青木的事就一笔勾销吧」\\n",
+    "translation": "「啊，不是，算了……\\n　唯和青木的事就一笔勾销吧」\\n",
     "file": 386185,
     "stage": 1,
     "project": 3318,
-    "uid": 24816,
+    "uid": 24291,
     "extra": null,
     "context": "稲葉",
     "words": 2

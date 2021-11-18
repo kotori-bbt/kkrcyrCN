@@ -497,14 +497,14 @@
   {
     "id": 111715477,
     "createdAt": "2021-10-18T09:18:40.000Z",
-    "updatedAt": "2021-11-13T07:08:06.000Z",
+    "updatedAt": "2021-11-18T14:57:39.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0301.bin_33",
     "original": "「そうだよ！　唯の言う通り、\\n　あまり人に知られたくないことだと思うし！」",
-    "translation": "「没错！　小唯说得对，\\n　那种事可不想被别人知道！」",
+    "translation": "「没错！　唯说得对，\\n　那种事可不想被别人知道！」",
     "file": 386175,
     "stage": 3,
     "project": 3318,
-    "uid": 24250,
+    "uid": 24291,
     "extra": null,
     "context": "青木",
     "words": 3

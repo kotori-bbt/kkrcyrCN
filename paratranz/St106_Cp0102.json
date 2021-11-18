@@ -92,14 +92,14 @@
   {
     "id": 111715359,
     "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T12:42:40.000Z",
+    "updatedAt": "2021-11-18T14:57:55.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0102.bin_6",
     "original": "「唯、声大きいって！\\n　太一達に聞こえちゃうよ！」",
-    "translation": "「小唯，声音太大了！\\n　会被太一他们听见的啊！」",
+    "translation": "「唯，声音太大了！\\n　会被太一他们听见的啊！」",
     "file": 386172,
     "stage": 3,
     "project": 3318,
-    "uid": 24250,
+    "uid": 24291,
     "extra": null,
     "context": "伊織",
     "words": 2

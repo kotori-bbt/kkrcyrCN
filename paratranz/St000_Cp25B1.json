@@ -167,14 +167,14 @@
   {
     "id": 111702919,
     "createdAt": "2021-10-18T09:16:58.000Z",
-    "updatedAt": "2021-11-10T12:36:51.000Z",
+    "updatedAt": "2021-11-18T14:57:54.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp25B1.bin_11",
     "original": "「唯は別のところにいるが、それがどうした？」",
-    "translation": "「小唯在别的地方，有什么事吗？」",
+    "translation": "「唯在别的地方，有什么事吗？」",
     "file": 385930,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24291,
     "extra": null,
     "context": "稲葉",
     "words": 1

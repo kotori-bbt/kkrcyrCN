@@ -842,14 +842,14 @@
   {
     "id": 111715888,
     "createdAt": "2021-10-18T09:18:43.000Z",
-    "updatedAt": "2021-11-14T01:49:26.000Z",
+    "updatedAt": "2021-11-18T14:57:41.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0001.bin_56",
     "original": "「唯！」",
-    "translation": "「小唯！」",
+    "translation": "「唯！」",
     "file": 386181,
     "stage": 1,
     "project": 3318,
-    "uid": 24293,
+    "uid": 24291,
     "extra": null,
     "context": "稲葉",
     "words": 1

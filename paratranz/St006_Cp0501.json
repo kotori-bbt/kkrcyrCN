@@ -752,14 +752,14 @@
   {
     "id": 111710463,
     "createdAt": "2021-10-18T09:17:56.000Z",
-    "updatedAt": "2021-11-14T11:08:42.000Z",
+    "updatedAt": "2021-11-18T14:55:24.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_50",
     "original": "「ああ、デオドラントスプレーの香りかな？\\n　唯ちゃんは無香料派？」",
-    "translation": "「啊，是除臭剂的香味吗？\\n　小唯是无香料派？」",
+    "translation": "「啊，是除臭剂的香味吗？\\n　唯是无香料派？」",
     "file": 386081,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24291,
     "extra": null,
     "context": "大沢",
     "words": 2

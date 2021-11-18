@@ -1127,14 +1127,14 @@
   {
     "id": 111704245,
     "createdAt": "2021-10-18T09:17:10.000Z",
-    "updatedAt": "2021-11-10T15:35:41.000Z",
+    "updatedAt": "2021-11-18T14:57:38.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0101.bin_75",
     "original": "「唯っ、オレの肩でよかったら！」",
-    "translation": "「小唯，如果不介意的话，我的肩膀借给你！」",
+    "translation": "「唯，如果不介意的话，我的肩膀借给你！」",
     "file": 385965,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24291,
     "extra": null,
     "context": "青木",
     "words": 1
