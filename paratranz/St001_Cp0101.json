@@ -1262,14 +1262,14 @@
   {
     "id": 111704254,
     "createdAt": "2021-10-18T09:17:10.000Z",
-    "updatedAt": "2021-11-10T15:36:14.000Z",
+    "updatedAt": "2021-11-19T10:40:34.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0101.bin_84",
     "original": "「お前らも休みのうちに、ネタの整理ぐらいはしといてくれ」",
-    "translation": "「你们几个在休息的时候，也请至少先收集整理一下素材」",
+    "translation": "「你们几个在休息的时候，也请至少先收集整理一下题材」",
     "file": 385965,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24291,
     "extra": null,
     "context": "",
     "words": 1

@@ -2,14 +2,14 @@
   {
     "id": 111701028,
     "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:11:40.000Z",
+    "updatedAt": "2021-11-19T10:39:00.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_0",
     "original": "「太一もバッサリ言うわね……」",
     "translation": "「太一还挺会总结的嘛……」",
     "file": 385887,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24291,
+    "uid": 24816,
     "extra": null,
     "context": "唯",
     "words": 1
