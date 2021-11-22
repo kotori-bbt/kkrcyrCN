@@ -77,14 +77,14 @@
   {
     "id": 111702975,
     "createdAt": "2021-10-18T09:16:59.000Z",
-    "updatedAt": "2021-11-10T12:53:15.000Z",
+    "updatedAt": "2021-11-21T16:36:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp25D1.bin_5",
     "original": "「あれ～？　唯じゃん。\\n　こんなとこで何やってるの？」",
-    "translation": "「啊咧～？唯酱。\\n　你在这种地方做什么那？」",
+    "translation": "「啊嘞～？唯酱。\\n　你在这种地方做什么那？」",
     "file": 385932,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24291,
     "extra": null,
     "context": "雪菜",
     "words": 3

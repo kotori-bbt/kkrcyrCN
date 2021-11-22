@@ -1472,14 +1472,14 @@
   {
     "id": 111703546,
     "createdAt": "2021-10-18T09:17:03.000Z",
-    "updatedAt": "2021-11-19T11:23:20.000Z",
+    "updatedAt": "2021-11-22T14:33:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0802.bin_98",
     "original": "「あっ！？　だ、だからあんた、\\n　あたしが何言っても全然掃除しなかったの！？」",
     "translation": "「啊！？所，所以你才，\\n　不管我说什么你都不愿意打扫啊！？」",
     "file": 385946,
-    "stage": 1,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 24520,
     "extra": null,
     "context": "唯",
     "words": 3
