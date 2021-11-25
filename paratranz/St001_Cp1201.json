@@ -587,14 +587,14 @@
   {
     "id": 111705047,
     "createdAt": "2021-10-18T09:17:14.000Z",
-    "updatedAt": "2021-11-11T01:40:46.000Z",
+    "updatedAt": "2021-11-25T13:50:58.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp1201.bin_39",
     "original": "「太一、ここはよろしくねっ」",
     "translation": "「太一，这里就交给你了」",
     "file": 385976,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24291,
     "extra": null,
     "context": "唯",
     "words": 1
