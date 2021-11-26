@@ -437,14 +437,14 @@
   {
     "id": 111702138,
     "createdAt": "2021-10-18T09:16:52.000Z",
-    "updatedAt": "2021-11-21T15:01:32.000Z",
+    "updatedAt": "2021-11-26T03:54:48.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp16A1.bin_29",
     "original": "「立ち向かいもせずに逃げてばかりじゃ、\\n　何も始まらないもん」",
-    "translation": "「如果连面对都不愿意面对就一个劲地逃避的话\\n    什么都不会开始」",
+    "translation": "「如果连面对都不愿意面对就一个劲地逃避的话\\n　    什么都不会开始」",
     "file": 385913,
     "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 2

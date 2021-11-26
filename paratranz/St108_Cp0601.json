@@ -1922,14 +1922,14 @@
   {
     "id": 111717056,
     "createdAt": "2021-10-18T09:18:51.000Z",
-    "updatedAt": "2021-11-23T02:44:04.000Z",
+    "updatedAt": "2021-11-26T03:54:49.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St108_Cp0601.bin_128",
     "original": "「それじゃあ、\\n　お礼の代わりに１つだけお願いしてもいい？」",
-    "translation": "「那么，\\n   作为交换，可以听我一个愿望吗？」",
+    "translation": "「那么，\\n　   作为交换，可以听我一个愿望吗？」",
     "file": 386196,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "藤島",
     "words": 2

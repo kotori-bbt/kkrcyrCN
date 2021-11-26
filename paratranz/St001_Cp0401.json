@@ -152,14 +152,14 @@
   {
     "id": 111704339,
     "createdAt": "2021-10-18T09:17:11.000Z",
-    "updatedAt": "2021-11-24T14:08:04.000Z",
+    "updatedAt": "2021-11-26T03:54:48.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0401.bin_10",
     "original": "「ちっ、うまくおさまらねえな。\\n　配置をいじるか」",
-    "translation": "「啧，这图有点长啊。\\n    改一下排版吧」",
+    "translation": "「啧，这图有点长啊。\\n　    改一下排版吧」",
     "file": 385968,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 2

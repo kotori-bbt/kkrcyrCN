@@ -152,14 +152,14 @@
   {
     "id": 111717290,
     "createdAt": "2021-10-18T09:18:54.000Z",
-    "updatedAt": "2021-11-23T08:59:56.000Z",
+    "updatedAt": "2021-11-26T03:55:35.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St109_Cp0301.bin_10",
     "original": "「い、いやよ！\\n　それにあの服……あたしが着ても似合わないし」",
-    "translation": "「不，才不要！\\n而且那件衣服……即使我穿着也不怎么合适」",
+    "translation": "「不，才不要！\\n　而且那件衣服……即使我穿着也不怎么合适」",
     "file": 386202,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "唯",
     "words": 2
