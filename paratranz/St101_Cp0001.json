@@ -1007,14 +1007,14 @@
   {
     "id": 111711786,
     "createdAt": "2021-10-18T09:18:04.000Z",
-    "updatedAt": "2021-11-07T16:33:20.000Z",
+    "updatedAt": "2021-11-27T09:53:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp0001.bin_67",
     "original": "「太一も稲葉んも急に黙るんだもん～」",
-    "translation": "「因为太一跟稻叶都突然沉默不语～」",
+    "translation": "「因为太一跟稻叶儿都突然沉默不语～」",
     "file": 386097,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 1

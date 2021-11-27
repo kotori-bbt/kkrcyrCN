@@ -122,14 +122,14 @@
   {
     "id": 111701779,
     "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:35:04.000Z",
+    "updatedAt": "2021-11-27T09:52:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_8",
     "original": "「稲葉んはどう思ってるだろう」",
-    "translation": "「稻叶会怎么想呢？」",
+    "translation": "「稻叶儿会怎么想呢？」",
     "file": 385903,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 1

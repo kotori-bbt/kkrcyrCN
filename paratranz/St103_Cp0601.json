@@ -917,14 +917,14 @@
   {
     "id": 111713832,
     "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2021-11-18T12:33:24.000Z",
+    "updatedAt": "2021-11-27T09:52:16.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0601.bin_61",
     "original": "「稲葉ん、さすがにそれはマズイんじゃ……？」",
-    "translation": "「稻叶，那样的话不太好吧……？」",
+    "translation": "「稻叶儿，那样的话不太好吧……？」",
     "file": 386136,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 1

@@ -77,14 +77,14 @@
   {
     "id": 111704393,
     "createdAt": "2021-10-18T09:17:12.000Z",
-    "updatedAt": "2021-11-20T01:52:12.000Z",
+    "updatedAt": "2021-11-27T09:52:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0501.bin_5",
     "original": "「おう。気合だね、稲葉ん！」",
-    "translation": "「喔。真有干劲啊，稻叶！」",
+    "translation": "「喔。真有干劲啊，稻叶儿！」",
     "file": 385969,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 1

@@ -32,14 +32,14 @@
   {
     "id": 111716434,
     "createdAt": "2021-10-18T09:18:47.000Z",
-    "updatedAt": "2021-11-18T10:55:17.000Z",
+    "updatedAt": "2021-11-27T13:17:39.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0701.bin_2",
     "original": "「何がだ？」",
-    "translation": "「什么啊？",
+    "translation": "「什么啊？」",
     "file": 386188,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24816,
     "extra": null,
     "context": "稲葉",
     "words": 1

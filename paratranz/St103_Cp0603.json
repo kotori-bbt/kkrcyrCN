@@ -287,14 +287,14 @@
   {
     "id": 111713879,
     "createdAt": "2021-10-18T09:18:22.000Z",
-    "updatedAt": "2021-11-18T12:46:46.000Z",
+    "updatedAt": "2021-11-27T09:52:16.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0603.bin_19",
     "original": "「い、稲葉ん。\\n　どうしよう……」",
-    "translation": "「稲，稻叶。\\n　怎么办……」",
+    "translation": "「稲，稻叶儿。\\n　怎么办……」",
     "file": 386138,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 2

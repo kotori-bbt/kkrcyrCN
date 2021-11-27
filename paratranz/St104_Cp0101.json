@@ -197,14 +197,14 @@
   {
     "id": 111714249,
     "createdAt": "2021-10-18T09:18:26.000Z",
-    "updatedAt": "2021-11-19T03:29:26.000Z",
+    "updatedAt": "2021-11-27T09:52:16.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St104_Cp0101.bin_13",
     "original": "「あはは、稲葉んの自転車じゃなくて良かったね太一」",
-    "translation": "「啊哈哈，不是稻叶的自行车真是太好了啊太一」",
+    "translation": "「啊哈哈，不是稻叶儿的自行车真是太好了啊太一」",
     "file": 386148,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 1

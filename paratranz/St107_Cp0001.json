@@ -47,14 +47,14 @@
   {
     "id": 111715835,
     "createdAt": "2021-10-18T09:18:43.000Z",
-    "updatedAt": "2021-11-20T10:36:38.000Z",
+    "updatedAt": "2021-11-27T11:10:09.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0001.bin_3",
     "original": "「文研部の諸君、ここまでは理解して貰えたかしら？」",
     "translation": "「文研部的诸位，到这里的能够理解吧？」",
     "file": 386181,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24816,
     "extra": null,
     "context": "",
     "words": 1
