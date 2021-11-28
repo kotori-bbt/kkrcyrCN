@@ -77,14 +77,14 @@
   {
     "id": 111705216,
     "createdAt": "2021-10-18T09:17:16.000Z",
-    "updatedAt": "2021-11-11T02:22:04.000Z",
+    "updatedAt": "2021-11-27T17:33:06.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp1502.bin_5",
     "original": "「いつでもいいぞ！　思い切り頼むっ。\\n　アタシも……全力で跳ぶ！」",
     "translation": "「随时准备就绪！　麻烦你发令了。\\n　我也会全力跳下去的！」",
     "file": 385980,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24291,
     "extra": null,
     "context": "稲葉",
     "words": 3

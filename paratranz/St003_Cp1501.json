@@ -2,14 +2,14 @@
   {
     "id": 111707822,
     "createdAt": "2021-10-18T09:17:30.000Z",
-    "updatedAt": "2021-11-08T00:08:18.000Z",
+    "updatedAt": "2021-11-28T09:15:30.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1501.bin_0",
     "original": "その後、二人で少し話したあと、\\nアタシは今日の所は帰ることにした。",
     "translation": "之后，我们稍微聊了一会之后，\\n我决定今天就先回去了",
     "file": 386015,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24816,
     "extra": null,
     "context": "稲葉",
     "words": 2
