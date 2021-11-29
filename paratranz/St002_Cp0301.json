@@ -662,14 +662,14 @@
   {
     "id": 111705710,
     "createdAt": "2021-10-18T09:17:19.000Z",
-    "updatedAt": "2021-11-23T15:24:43.000Z",
+    "updatedAt": "2021-11-28T16:05:28.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St002_Cp0301.bin_44",
     "original": "明るくそう言って歩きだした永瀬だったが\\n顔色は蒼白そのものだった……。",
-    "translation": "虽然永濑说着积极的话跑了起来\\n但是脸色却很苍白……",
+    "translation": "虽然说着积极的话的永濑跑了起来\\n但是脸色却很苍白……",
     "file": 385989,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 24291,
     "extra": null,
     "context": "太一",
     "words": 2
