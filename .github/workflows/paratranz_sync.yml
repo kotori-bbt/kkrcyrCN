@@ -23,8 +23,8 @@ jobs:
           unzip latest.zip "utf8/*"
           mv utf8 paratranz
           cd paratranz
-          mv St200 ../
-          mv St300 ../ 
+          mv St200 ./St200
+          mv St300 ./St300
 
       - name: Sort & Reconvert
         run: python reconvert.py
