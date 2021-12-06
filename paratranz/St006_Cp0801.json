@@ -1187,14 +1187,14 @@
   {
     "id": 111710864,
     "createdAt": "2021-10-18T09:17:57.000Z",
-    "updatedAt": "2021-11-14T14:20:23.000Z",
+    "updatedAt": "2021-12-06T14:38:52.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_79",
     "original": "「はい、唯ちゃん」",
-    "translation": "「啊、唯酱」",
+    "translation": "「啊，唯酱」",
     "file": 386084,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "大沢",
     "words": 1

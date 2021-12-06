@@ -842,14 +842,14 @@
   {
     "id": 111715682,
     "createdAt": "2021-10-18T09:18:41.000Z",
-    "updatedAt": "2021-11-27T08:35:11.000Z",
+    "updatedAt": "2021-12-06T14:37:46.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0403.bin_56",
     "original": "「任せてよ、唯！」",
-    "translation": "「交给我吧、，唯！」",
+    "translation": "「交给我吧，唯！」",
     "file": 386178,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "青木",
     "words": 1

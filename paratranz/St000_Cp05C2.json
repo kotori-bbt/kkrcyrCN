@@ -122,14 +122,14 @@
   {
     "id": 111701020,
     "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-20T09:05:40.000Z",
+    "updatedAt": "2021-12-06T14:38:39.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05C2.bin_8",
     "original": "「そ、それよりさ、話を戻そうよ、稲葉ん」",
-    "translation": "「好吧，比起那个、让我们回到原来的话题吧，稻叶儿～」",
+    "translation": "「好吧，比起那个，让我们回到原来的话题吧，稻叶儿～」",
     "file": 385886,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 1
