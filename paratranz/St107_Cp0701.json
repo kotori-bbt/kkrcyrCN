@@ -137,14 +137,14 @@
   {
     "id": 111716441,
     "createdAt": "2021-10-18T09:18:47.000Z",
-    "updatedAt": "2021-11-18T10:55:32.000Z",
+    "updatedAt": "2021-12-07T12:10:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0701.bin_9",
     "original": "「そうか、了解」",
-    "translation": "「是这样啊，明白了。」",
+    "translation": "「是这样啊，明白了」",
     "file": 386188,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 1

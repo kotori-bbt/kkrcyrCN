@@ -422,14 +422,14 @@
   {
     "id": 111703983,
     "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-22T13:49:46.000Z",
+    "updatedAt": "2021-12-07T12:09:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2101.bin_28",
     "original": "「いや、それは分かった上で言ってるんだが」",
-    "translation": "「没没，这我还是知道的。」",
+    "translation": "「没没，这我还是知道的」",
     "file": 385957,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24293,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 1

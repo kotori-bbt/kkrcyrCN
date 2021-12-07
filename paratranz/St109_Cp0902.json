@@ -2,14 +2,14 @@
   {
     "id": 111717529,
     "createdAt": "2021-10-18T09:18:58.000Z",
-    "updatedAt": "2021-11-25T02:49:14.000Z",
+    "updatedAt": "2021-12-07T12:10:41.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St109_Cp0902.bin_0",
     "original": "「あたしも一緒に謝ってあげる！\\n　だから泣かないで雪菜」",
-    "translation": "「我也陪你一起去道歉！\\n　所以不要哭啦雪菜。」",
+    "translation": "「我也陪你一起去道歉！\\n　所以不要哭啦雪菜」",
     "file": 386209,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "唯",
     "words": 2
