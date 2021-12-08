@@ -617,14 +617,14 @@
   {
     "id": 111707422,
     "createdAt": "2021-10-18T09:17:28.000Z",
-    "updatedAt": "2021-12-05T16:39:30.000Z",
+    "updatedAt": "2021-12-08T04:39:42.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1101.bin_41",
     "original": "（そんな太一の何を支えろと言うんだ伊織？）",
-    "translation": "（你要让我怎么支持这样的太一呢伊织？）",
+    "translation": "（你要让我怎么支持这样的太一呢，伊织？）",
     "file": 386010,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24291,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 1
