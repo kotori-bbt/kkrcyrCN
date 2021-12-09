@@ -182,14 +182,14 @@
   {
     "id": 122770704,
     "createdAt": "2021-12-03T14:52:59.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-12-09T12:58:50.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St200_Cp0001.bin_12",
     "original": "「そんな……、\\n　ふ、２人とも今日の放課後は\\n　クラス会議で遅くなるんじゃなかったの！？」",
-    "translation": "「怎么会……，\\n　你们两个不是因为放学后有班会\\n　会晚点来吗！？」",
+    "translation": "「怎么会……\\n　你们两个不是因为放学后有班会\\n　会晚点来吗！？」",
     "file": 422411,
     "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 20131,
     "extra": null,
     "context": "唯",
     "words": 3

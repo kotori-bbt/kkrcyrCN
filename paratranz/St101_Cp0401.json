@@ -17,14 +17,14 @@
   {
     "id": 111712167,
     "createdAt": "2021-10-18T09:18:08.000Z",
-    "updatedAt": "2021-12-03T10:44:26.000Z",
+    "updatedAt": "2021-12-09T12:58:47.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp0401.bin_1",
     "original": "「えっ！？　こっちに来……、\\n　って、うわぁ！　服についた……！」",
-    "translation": "「呃！？　来我这边……，\\n　是，呜哇！　停衣服上了……！」",
+    "translation": "「呃！？　来我这边……\\n　是，呜哇！　停衣服上了……！」",
     "file": 386106,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 4

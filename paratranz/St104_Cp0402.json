@@ -137,14 +137,14 @@
   {
     "id": 111714448,
     "createdAt": "2021-10-18T09:18:29.000Z",
-    "updatedAt": "2021-11-19T08:14:14.000Z",
+    "updatedAt": "2021-12-09T12:52:27.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St104_Cp0402.bin_9",
     "original": "「太一……。\\n　やっぱりマゾだったんだ……」",
-    "translation": "「太一……。\\n　果然是受虐狂啊……」",
+    "translation": "「太一……\\n　果然是受虐狂啊……」",
     "file": 386153,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "伊織",
     "words": 2

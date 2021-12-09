@@ -827,14 +827,14 @@
   {
     "id": 111702760,
     "createdAt": "2021-10-18T09:16:54.000Z",
-    "updatedAt": "2021-11-22T05:11:27.000Z",
+    "updatedAt": "2021-12-09T12:48:36.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp16E1.bin_55",
     "original": "「みたいじゃなくて、したのよ……。\\n　あたしたち、予知を回避出来なかったのよ……」",
-    "translation": "「不是一样，是已经成真了……。\\n　我们没能避开预知啦……」",
+    "translation": "「不是一样，是已经成真了……\\n　我们没能避开预知啦……」",
     "file": 385918,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "唯",
     "words": 2

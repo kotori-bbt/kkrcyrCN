@@ -467,14 +467,14 @@
   {
     "id": 111713362,
     "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T14:11:45.000Z",
+    "updatedAt": "2021-12-09T12:26:39.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0701.bin_31",
     "original": "「ああ……。一昨日はあのまま、俺と桐山で帰ったんだ。\\n　それで…………あっ」",
-    "translation": "「啊啊……。昨天桐山和我就那样回家了。\\n　然后……啊」",
+    "translation": "「啊啊……昨天桐山和我就那样回家了。\\n　然后……啊」",
     "file": 386125,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 2

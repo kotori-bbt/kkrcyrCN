@@ -542,14 +542,14 @@
   {
     "id": 111714413,
     "createdAt": "2021-10-18T09:18:29.000Z",
-    "updatedAt": "2021-11-19T07:55:17.000Z",
+    "updatedAt": "2021-12-09T12:27:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St104_Cp0401.bin_36",
     "original": "「や、八重樫君……。\\n　あなた、そんなことを思っていたの？」",
-    "translation": "「八、八重樫君……。\\n　你、是那样想的吗？」",
+    "translation": "「八、八重樫君……\\n　你、是那样想的吗？」",
     "file": 386152,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "藤島",
     "words": 2

@@ -242,14 +242,14 @@
   {
     "id": 111708506,
     "createdAt": "2021-10-18T09:17:37.000Z",
-    "updatedAt": "2021-11-28T01:08:09.000Z",
+    "updatedAt": "2021-12-09T12:24:36.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1301.bin_16",
     "original": "「『未来予知』……。\\n　これは……あの時に見たままの光景だ……」",
-    "translation": "「『未来预知』……。\\n　这是……那个时候看到的景象吗……」",
+    "translation": "「『未来预知』……\\n　这是……那个时候看到的景象吗……」",
     "file": 386033,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 2
