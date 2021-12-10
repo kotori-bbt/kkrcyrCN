@@ -2,14 +2,14 @@
   {
     "id": 122770598,
     "createdAt": "2021-12-03T14:52:32.000Z",
-    "updatedAt": null,
+    "updatedAt": "2021-12-09T16:09:07.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St113_Cp0401.bin_0",
     "original": "「やっぱり海っていいな」",
     "translation": "「果然大海真棒啊」",
     "file": 422410,
-    "stage": 1,
+    "stage": 3,
     "project": 3318,
-    "uid": null,
+    "uid": 24520,
     "extra": null,
     "context": "太一",
     "words": 1
