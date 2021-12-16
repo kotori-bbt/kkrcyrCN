@@ -722,14 +722,14 @@
   {
     "id": 111716213,
     "createdAt": "2021-10-18T09:18:44.000Z",
-    "updatedAt": "2021-11-21T03:17:04.000Z",
+    "updatedAt": "2021-12-16T15:54:44.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0301.bin_48",
     "original": "「いや……唯に嘘をつくのはちょっと……」",
     "translation": "「不是……对唯说谎什么的有点……」",
     "file": 386184,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "青木",
     "words": 1
