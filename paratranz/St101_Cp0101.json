@@ -182,14 +182,14 @@
   {
     "id": 111712008,
     "createdAt": "2021-10-18T09:18:06.000Z",
-    "updatedAt": "2021-12-09T12:58:47.000Z",
+    "updatedAt": "2021-12-23T10:33:42.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp0101.bin_12",
     "original": "「だからなんでもな……、ってそうだ数学！」",
     "translation": "「所以没什么啦……对了，数学！」",
     "file": 386102,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24293,
     "extra": null,
     "context": "太一",
     "words": 1

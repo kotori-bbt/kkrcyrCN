@@ -62,14 +62,14 @@
   {
     "id": 111711406,
     "createdAt": "2021-10-18T09:18:00.000Z",
-    "updatedAt": "2021-12-04T02:32:14.000Z",
+    "updatedAt": "2021-12-23T10:27:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1301.bin_4",
     "original": "「唯の携帯！」",
     "translation": "「唯的手机！」",
     "file": 386090,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24816,
+    "uid": 24293,
     "extra": null,
     "context": "",
     "words": 1

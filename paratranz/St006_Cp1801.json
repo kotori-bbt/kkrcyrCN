@@ -47,14 +47,14 @@
   {
     "id": 111711661,
     "createdAt": "2021-10-18T09:18:03.000Z",
-    "updatedAt": "2021-11-16T02:40:40.000Z",
+    "updatedAt": "2021-12-23T10:32:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_3",
     "original": "「青木がボロ雑巾になってる予知以降\\n　他の予知を見た者はいるか？」",
     "translation": "「青木变成破抹布的预知以后\\n　有没有人看到过其他的预知？」",
     "file": 386095,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24520,
+    "uid": 24293,
     "extra": null,
     "context": "稲葉",
     "words": 2

@@ -77,14 +77,14 @@
   {
     "id": 111712556,
     "createdAt": "2021-10-18T09:18:10.000Z",
-    "updatedAt": "2021-12-06T15:30:14.000Z",
+    "updatedAt": "2021-12-23T00:49:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp0702.bin_5",
     "original": "（もしかして、先に部室に行ったのか？\\n　だとしたら俺も早く行かないと……）",
     "translation": "（说不定，先去活动室了？\\n　那样的话我也早点去吧……）",
     "file": 386111,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24293,
     "extra": null,
     "context": "",
     "words": 2

@@ -362,14 +362,14 @@
   {
     "id": 111711339,
     "createdAt": "2021-10-18T09:18:00.000Z",
-    "updatedAt": "2021-12-04T02:29:50.000Z",
+    "updatedAt": "2021-12-23T10:26:41.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1201.bin_24",
     "original": "「あ、警察に連絡とかは無しだから\\n　それと一人で来いよ、そんじゃ」",
     "translation": "「啊，叫警察什么的可别干啊\\n　而且你一个人过来啊，就这样」",
     "file": 386089,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24816,
+    "uid": 24293,
     "extra": null,
     "context": "",
     "words": 2

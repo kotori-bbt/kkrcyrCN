@@ -32,14 +32,14 @@
   {
     "id": 111713534,
     "createdAt": "2021-10-18T09:18:19.000Z",
-    "updatedAt": "2021-12-06T14:44:58.000Z",
+    "updatedAt": "2021-12-23T00:33:56.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp03A1.bin_2",
     "original": "（さて、着替え終わったら、\\n　莉奈のお願いを聞きに行ってやらないとな）",
     "translation": "（那么，衣服换好了，\\n　得去听一下莉奈的请求才行）",
     "file": 386131,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24520,
     "extra": null,
     "context": "太一",
     "words": 2
