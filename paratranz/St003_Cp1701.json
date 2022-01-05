@@ -92,14 +92,14 @@
   {
     "id": 111707920,
     "createdAt": "2021-10-18T09:17:31.000Z",
-    "updatedAt": "2021-12-12T14:11:06.000Z",
+    "updatedAt": "2022-01-05T04:26:09.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1701.bin_6",
-    "original": "「な、なんだよ？\\n　急に人の顔を，じっと見て……」",
+    "original": "「な、なんだよ？\\n　急に人の顔を、じっと見て……」",
     "translation": "「干、干嘛啦？\\n　突然盯着、人家的脸看……」",
     "file": 386017,
     "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 2
