@@ -647,14 +647,14 @@
   {
     "id": 111711123,
     "createdAt": "2021-10-18T09:17:59.000Z",
-    "updatedAt": "2021-12-28T10:39:46.000Z",
+    "updatedAt": "2022-01-06T11:31:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1101.bin_43",
     "original": "「いつも通りでいいと思うぞ。\\n　普通にいこう、普通に」",
     "translation": "「我觉得只要像往常一样就可以了哦。\\n　跟平时一样，平常点」",
     "file": 386087,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24291,
+    "uid": 24293,
     "extra": null,
     "context": "太一",
     "words": 2
