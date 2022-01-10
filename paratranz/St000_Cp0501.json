@@ -47,14 +47,14 @@
   {
     "id": 111703235,
     "createdAt": "2021-10-18T09:17:02.000Z",
-    "updatedAt": "2021-12-07T11:59:23.000Z",
+    "updatedAt": "2022-01-10T03:20:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0501.bin_3",
     "original": "「俺と稲葉は愉快ってキャラじゃないだろ」",
     "translation": "「我和稻叶不是啥愉快的角色吧」",
     "file": 385943,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24816,
     "extra": null,
     "context": "太一",
     "words": 1

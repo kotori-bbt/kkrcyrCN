@@ -2,14 +2,14 @@
   {
     "id": 111700992,
     "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-12-07T11:58:18.000Z",
+    "updatedAt": "2022-01-10T03:20:37.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05A2.bin_0",
     "original": "「そろそろ本題を話すべきだと思うんだが」",
     "translation": "「我觉得差不多该进入正题了」",
     "file": 385884,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24816,
     "extra": null,
     "context": "太一",
     "words": 1

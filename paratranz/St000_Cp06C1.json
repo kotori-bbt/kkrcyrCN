@@ -1202,14 +1202,14 @@
   {
     "id": 111701258,
     "createdAt": "2021-10-18T09:16:46.000Z",
-    "updatedAt": "2021-12-07T11:58:29.000Z",
+    "updatedAt": "2022-01-10T03:30:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp06C1.bin_80",
     "original": "「うわああっ！？　す、すまん永瀬！\\n　触る気は全くなかったんだ！！」",
-    "translation": "「呜哇啊啊！？ 抱，抱歉永濑！\\n　完全没打算过摸的」",
+    "translation": "「呜哇啊啊！？ 抱，抱歉永濑！\\n　我不是故意要摸的」",
     "file": 385891,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24816,
     "extra": null,
     "context": "太一",
     "words": 3

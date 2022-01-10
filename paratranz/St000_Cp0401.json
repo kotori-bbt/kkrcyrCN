@@ -182,14 +182,14 @@
   {
     "id": 111703216,
     "createdAt": "2021-10-18T09:17:02.000Z",
-    "updatedAt": "2021-12-11T06:23:38.000Z",
+    "updatedAt": "2022-01-10T03:18:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0401.bin_12",
     "original": "「ストレートすぎるな永瀬は。\\n　一応、お前らの顧問なんだぞ俺は」",
-    "translation": "「太直白了啊永濑。\\n　无论怎么说，我可是你们的顾问呢。」",
+    "translation": "「你这也太直接了永濑。\\n　无论怎么说，我可是你们的顾问呢。」",
     "file": 385942,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24293,
+    "uid": 24816,
     "extra": null,
     "context": "後藤",
     "words": 2
