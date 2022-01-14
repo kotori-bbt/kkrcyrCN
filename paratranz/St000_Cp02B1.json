@@ -242,14 +242,14 @@
   {
     "id": 111700958,
     "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-11-12T11:07:02.000Z",
+    "updatedAt": "2022-01-14T14:35:38.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp02B1.bin_16",
     "original": "（アタシのプリントを見せてやるか。\\n　同じ部活のよしみだ）",
-    "translation": "（给他看我的讲义吧。\\n　看在同一个部团的交情上）",
+    "translation": "（给他看我的讲义吧。\\n　看在同一个社团的交情上）",
     "file": 385883,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 26752,
     "extra": null,
     "context": "稲葉",
     "words": 2
