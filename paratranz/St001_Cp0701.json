@@ -2792,14 +2792,14 @@
   {
     "id": 111704823,
     "createdAt": "2021-10-18T09:17:12.000Z",
-    "updatedAt": "2021-11-27T08:43:53.000Z",
+    "updatedAt": "2022-01-19T15:35:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0701.bin_186",
     "original": "「あ、いや、“倒れるかもしれない”だろ！\\n　だから俺は……」",
-    "translation": "「啊，不，应该“说不定会倒下”！\\n　所以我……」",
+    "translation": "「啊，不，应该是“说不定会倒下”！\\n　所以我……」",
     "file": 385971,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 2
