@@ -47,14 +47,14 @@
   {
     "id": 111703755,
     "createdAt": "2021-10-18T09:17:05.000Z",
-    "updatedAt": "2021-11-19T12:42:00.000Z",
+    "updatedAt": "2022-01-20T13:09:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp1301.bin_3",
     "original": "「くそっ……！　また……なのかよ」",
-    "translation": "「可恶……！ 又要……来这出啊！」",
+    "translation": "「可恶……！　又要……来这出啊！」",
     "file": 385950,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 26752,
     "extra": null,
     "context": "稲葉",
     "words": 2

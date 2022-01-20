@@ -2,14 +2,14 @@
   {
     "id": 111705366,
     "createdAt": "2021-10-18T09:17:18.000Z",
-    "updatedAt": "2021-11-28T12:47:20.000Z",
+    "updatedAt": "2022-01-19T16:07:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp1801.bin_0",
     "original": "――その後、なにがあったかをすべて話した時の\\nみんなの反応はすさまじかった。",
-    "translation": "ー—在那之后，我将事情的原委说清的时候\\n大家都惊呆了。",
+    "translation": "——在那之后，我将事情的原委说清的时候\\n大家都惊呆了。",
     "file": 385984,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 2

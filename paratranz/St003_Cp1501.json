@@ -122,14 +122,14 @@
   {
     "id": 111707830,
     "createdAt": "2021-10-18T09:17:30.000Z",
-    "updatedAt": "2021-12-09T14:31:29.000Z",
+    "updatedAt": "2022-01-20T13:10:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1501.bin_8",
     "original": "「え？　ご、ごっさん……？」",
-    "translation": "「诶？ 阿，阿后……？」",
+    "translation": "「诶？　阿，阿后……？」",
     "file": 386015,
     "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 26752,
     "extra": null,
     "context": "太一",
     "words": 2

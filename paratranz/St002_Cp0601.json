@@ -212,14 +212,14 @@
   {
     "id": 111705893,
     "createdAt": "2021-10-18T09:17:21.000Z",
-    "updatedAt": "2021-11-24T11:40:45.000Z",
+    "updatedAt": "2022-01-20T13:11:59.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St002_Cp0601.bin_14",
     "original": "「永瀬！　いないのか永瀬！」",
-    "translation": "「永濑！ 不在吗永濑！」",
+    "translation": "「永濑！　不在吗永濑！」",
     "file": 385992,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 26752,
     "extra": null,
     "context": "太一",
     "words": 2

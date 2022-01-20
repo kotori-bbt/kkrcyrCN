@@ -962,14 +962,14 @@
   {
     "id": 111715101,
     "createdAt": "2021-10-18T09:18:35.000Z",
-    "updatedAt": "2021-11-20T05:50:23.000Z",
+    "updatedAt": "2022-01-20T10:53:21.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp1001.bin_64",
     "original": "「ここまで盛り上がって、おさまりがつくか。\\n　さあ帰るぞ」",
-    "translation": "「气氛这么热烈，能平息吗。\\n　撒，回去了」",
+    "translation": "「气氛这么热烈，能平息吗。\\n　走吧，回去了」",
     "file": 386166,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 2

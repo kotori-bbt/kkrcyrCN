@@ -1607,14 +1607,14 @@
   {
     "id": 122769955,
     "createdAt": "2021-12-03T14:41:09.000Z",
-    "updatedAt": "2021-12-03T14:41:32.000Z",
+    "updatedAt": "2022-01-20T13:04:48.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0201.bin_107",
     "original": "「ふぁ、ふぉうふぁふぃでふ……\\n　（は、恥ずかしいです……）」",
-    "translation": "「ha，haohaixiu……\\n　（好，好害羞……）」",
+    "translation": "「ＨＡ，ＨＡＯＨＡＩＸＩＵ……\\n　（好，好害羞……）」",
     "file": 422397,
-    "stage": 2,
+    "stage": 1,
     "project": 3318,
-    "uid": null,
+    "uid": 26752,
     "extra": null,
     "context": "紫乃",
     "words": 2

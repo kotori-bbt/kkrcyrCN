@@ -317,14 +317,14 @@
   {
     "id": 111708536,
     "createdAt": "2021-10-18T09:17:38.000Z",
-    "updatedAt": "2022-01-14T16:57:47.000Z",
+    "updatedAt": "2022-01-20T13:10:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1401.bin_21",
     "original": "（でも、そういうことじゃないでしょ？）",
-    "translation": "（但是， 并不是这样的吧？）",
+    "translation": "（但是，　并不是这样的吧？）",
     "file": 386034,
     "stage": 3,
     "project": 3318,
-    "uid": 24291,
+    "uid": 26752,
     "extra": null,
     "context": "",
     "words": 1

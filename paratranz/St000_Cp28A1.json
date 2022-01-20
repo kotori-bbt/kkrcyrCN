@@ -77,14 +77,14 @@
   {
     "id": 111703073,
     "createdAt": "2021-10-18T09:17:01.000Z",
-    "updatedAt": "2021-11-26T03:54:48.000Z",
+    "updatedAt": "2022-01-20T13:11:50.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp28A1.bin_5",
     "original": "（このまま、俺達はこの現象を乗り切ることが\\n　できるのか？）",
-    "translation": "（但这样下去，\\n　   我们有打破这个现象的可能吗？）",
+    "translation": "（但这样下去，\\n　　　　我们有打破这个现象的可能吗？）",
     "file": 385939,
     "stage": 3,
     "project": 3318,
-    "uid": 20131,
+    "uid": 26752,
     "extra": null,
     "context": "",
     "words": 2

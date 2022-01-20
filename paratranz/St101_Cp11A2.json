@@ -47,14 +47,14 @@
   {
     "id": 111711871,
     "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:08.000Z",
+    "updatedAt": "2022-01-20T13:10:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_3",
     "original": "「こんな事って、……そんな言い方……」",
-    "translation": "「你说 这种事，……你这个说法……」",
+    "translation": "「你说　这种事，……你这个说法……」",
     "file": 386099,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 26752,
     "extra": null,
     "context": "稲葉",
     "words": 1

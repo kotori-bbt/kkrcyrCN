@@ -317,14 +317,14 @@
   {
     "id": 111713506,
     "createdAt": "2021-10-18T09:18:18.000Z",
-    "updatedAt": "2021-12-06T10:16:47.000Z",
+    "updatedAt": "2022-01-20T12:54:47.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp01B1.bin_21",
     "original": "「……や、やっちゃダメ？」",
-    "translation": "「……做、做了不可以吗？」",
+    "translation": "「……不、不可以做吗？」",
     "file": 386130,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 26752,
     "extra": null,
     "context": "莉奈",
     "words": 1

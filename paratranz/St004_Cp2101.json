@@ -377,14 +377,14 @@
   {
     "id": 111708832,
     "createdAt": "2021-10-18T09:17:40.000Z",
-    "updatedAt": "2021-11-30T15:13:14.000Z",
+    "updatedAt": "2022-01-20T13:10:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp2101.bin_25",
     "original": "（言ったー！！　すごいよ稲葉ん！！）",
-    "translation": "（说出来了！！　好棒啊 稻叶儿！！）",
+    "translation": "（说出来了！！　好棒啊　稻叶儿！！）",
     "file": 386041,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 26752,
     "extra": null,
     "context": "伊織",
     "words": 2
