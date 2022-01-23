@@ -17,14 +17,14 @@
   {
     "id": 111701672,
     "createdAt": "2021-10-18T09:16:48.000Z",
-    "updatedAt": "2021-12-07T11:58:52.000Z",
+    "updatedAt": "2022-01-23T14:46:35.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10E1.bin_1",
     "original": "「大丈夫なのアンタ……\\n　すっごい不安なんだけど」",
-    "translation": "「你没问题吗……\\n　虽然感觉很不安啊」",
+    "translation": "「你没问题吗……\\n　感觉很不安啊」",
     "file": 385898,
     "stage": 3,
     "project": 3318,
-    "uid": 20131,
+    "uid": 26752,
     "extra": null,
     "context": "唯",
     "words": 2
