@@ -362,14 +362,14 @@
   {
     "id": 111708271,
     "createdAt": "2021-10-18T09:17:34.000Z",
-    "updatedAt": "2022-01-22T07:52:21.000Z",
+    "updatedAt": "2022-01-25T15:50:44.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0801.bin_24",
     "original": "「えっ、次の新聞？　あっ、そっか。\\n　そろそろ文研新聞の準備しなきゃいけない時期よね」",
     "translation": "「诶，下次的报刊？啊，对啊。\\n　是时候准备文研报了啊」",
     "file": 386026,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24293,
     "extra": null,
     "context": "唯",
     "words": 3

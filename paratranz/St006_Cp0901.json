@@ -92,14 +92,14 @@
   {
     "id": 111710914,
     "createdAt": "2021-10-18T09:17:58.000Z",
-    "updatedAt": "2021-12-04T01:50:02.000Z",
+    "updatedAt": "2022-01-26T14:48:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0901.bin_6",
     "original": "「たまたまかもしれないけど\\n　わたしが文研部に行くといつも仲が良さそうだから…」",
     "translation": "「也许是偶然\\n　因为我去文研部的时候，他们总是关系很好的样子……」",
     "file": 386085,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "大沢",
     "words": 2

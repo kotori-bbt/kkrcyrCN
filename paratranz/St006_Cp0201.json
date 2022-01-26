@@ -452,14 +452,14 @@
   {
     "id": 111710271,
     "createdAt": "2021-10-18T09:17:55.000Z",
-    "updatedAt": "2021-12-03T15:22:23.000Z",
+    "updatedAt": "2022-01-26T13:08:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0201.bin_30",
     "original": "「あの奥の窓際に立ってる子。\\n　知らない？　陸上部の」",
-    "translation": "「就那个在里面的窗边站着的人。\\n　不知道吗？陆上部的」",
+    "translation": "「就那个在里面的窗边站着的人。\\n　不知道吗？田径部的」",
     "file": 386078,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "雪菜",
     "words": 3

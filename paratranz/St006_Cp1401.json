@@ -1577,14 +1577,14 @@
   {
     "id": 111711519,
     "createdAt": "2021-10-18T09:18:01.000Z",
-    "updatedAt": "2022-01-20T13:10:13.000Z",
+    "updatedAt": "2022-01-26T15:23:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_105",
     "original": "「ネバーマインド…」",
-    "translation": "「never　mind…」",
+    "translation": "「ｎｅｖｅｒ　ｍｉｎｄ…」",
     "file": 386091,
     "stage": 3,
     "project": 3318,
-    "uid": 26752,
+    "uid": 20131,
     "extra": null,
     "context": "青木",
     "words": 1

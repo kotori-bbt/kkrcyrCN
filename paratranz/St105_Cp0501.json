@@ -767,14 +767,14 @@
   {
     "id": 111714808,
     "createdAt": "2021-10-18T09:18:33.000Z",
-    "updatedAt": "2021-11-20T04:13:06.000Z",
+    "updatedAt": "2022-01-26T13:08:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0501.bin_51",
     "original": "「陸上部だって、その！\\n　走ったり、跳んだりするわ！」",
-    "translation": "「陆上部也是，那个！\\n　会边跑，边跳的！」",
+    "translation": "「田径部也是，那个！\\n　会边跑，边跳的！」",
     "file": 386161,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "大沢",
     "words": 2
