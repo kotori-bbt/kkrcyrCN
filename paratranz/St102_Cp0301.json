@@ -362,14 +362,14 @@
   {
     "id": 111713121,
     "createdAt": "2021-10-18T09:18:14.000Z",
-    "updatedAt": "2021-11-17T16:29:19.000Z",
+    "updatedAt": "2022-01-27T09:46:48.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0301.bin_24",
     "original": "「なにブツブツ言ってるの～？\\n　ほらほら、早く――わっ！？」",
-    "translation": "「你在头痛摸摸说什么啊～？\\n　诶诶，快点——哇！？」",
+    "translation": "「你在偷偷摸摸说什么啊～？\\n　诶诶，快点——哇！？」",
     "file": 386121,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "唯",
     "words": 2

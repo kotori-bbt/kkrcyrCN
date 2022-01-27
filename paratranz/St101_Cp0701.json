@@ -977,14 +977,14 @@
   {
     "id": 111712526,
     "createdAt": "2021-10-18T09:18:09.000Z",
-    "updatedAt": "2021-12-04T03:12:52.000Z",
+    "updatedAt": "2022-01-27T11:35:30.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp0701.bin_65",
     "original": "「はっ！？」",
-    "translation": "「哈っ！？」",
+    "translation": "「哈！？」",
     "file": 386110,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "稲葉",
     "words": 1

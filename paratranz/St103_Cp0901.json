@@ -632,14 +632,14 @@
   {
     "id": 111714003,
     "createdAt": "2021-10-18T09:18:24.000Z",
-    "updatedAt": "2021-12-06T11:38:12.000Z",
+    "updatedAt": "2022-01-27T08:37:36.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0901.bin_42",
     "original": "「いい……って、\\n　風邪ひいたら学校行けないぞ？」",
-    "translation": "「随便……、\\n　感冒的话就不能去学校了哦？」",
+    "translation": "「随便……\\n　感冒的话就不能去学校了哦？」",
     "file": 386142,
-    "stage": 5,
+    "stage": 3,
     "project": 3318,
-    "uid": 24816,
+    "uid": 20131,
     "extra": null,
     "context": "太一",
     "words": 2

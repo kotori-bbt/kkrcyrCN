@@ -482,14 +482,14 @@
   {
     "id": 111716759,
     "createdAt": "2021-10-18T09:18:49.000Z",
-    "updatedAt": "2021-11-22T10:28:05.000Z",
+    "updatedAt": "2022-01-27T13:27:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St108_Cp0301.bin_32",
     "original": "「オレにかまわず先へ行けー。オレはもうダメだー」",
-    "translation": "「别扶我了，你快撤，我已经活不长了」",
+    "translation": "「别扶我了，你快撤，我已经活不长了」（注释）",
     "file": 386192,
     "stage": 3,
     "project": 3318,
-    "uid": 24520,
+    "uid": 20131,
     "extra": null,
     "context": "",
     "words": 1
