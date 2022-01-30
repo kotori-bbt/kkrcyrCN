@@ -527,14 +527,14 @@
   {
     "id": 111703267,
     "createdAt": "2021-10-18T09:17:02.000Z",
-    "updatedAt": "2021-11-19T10:33:54.000Z",
+    "updatedAt": "2022-01-30T15:48:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0501.bin_35",
     "original": "「なら、次はもう少しまともなネタを考えてこいよ」",
     "translation": "「那你下次想个至少像样点的主题吧」",
     "file": 385943,
-    "stage": 3,
+    "stage": 5,
     "project": 3318,
-    "uid": 24816,
+    "uid": 24293,
     "extra": null,
     "context": "稲葉",
     "words": 1
