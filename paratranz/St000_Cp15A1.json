@@ -617,14 +617,14 @@
   {
     "id": 111701862,
     "createdAt": "2021-10-18T09:16:51.000Z",
-    "updatedAt": "2021-11-19T17:45:13.000Z",
+    "updatedAt": "2022-02-06T14:13:47.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp15A1.bin_41",
     "original": "『オレは伝えた方がいいと思うけど、\\n　でも、唯の言うことも分かるんだよな……』",
-    "translation": "『我也觉得告诉她比较好。\\n　但是，唯的意思我也明白……』",
+    "translation": "『我也觉得告诉她比较好。\\n　但是，我也明白唯的意思……』",
     "file": 385909,
-    "stage": 5,
+    "stage": 1,
     "project": 3318,
-    "uid": 24291,
+    "uid": 26752,
     "extra": null,
     "context": "青木",
     "words": 2
