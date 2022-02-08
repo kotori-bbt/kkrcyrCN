@@ -932,14 +932,14 @@
   {
     "id": 111709928,
     "createdAt": "2021-10-18T09:17:51.000Z",
-    "updatedAt": "2022-01-25T14:57:27.000Z",
+    "updatedAt": "2022-02-07T18:01:08.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1801.bin_62",
     "original": "「善は急げって言うじゃん。\\n　治るのも早いほうがいいでしょ？」",
-    "translation": "「择日不如撞日。\\n　还是能快点治好的好吧？」",
+    "translation": "「好事不宜迟。\\n　还是能快点治好的好吧？」",
     "file": 386069,
     "stage": 3,
     "project": 3318,
-    "uid": 20131,
+    "uid": 24291,
     "extra": null,
     "context": "青木",
     "words": 2
