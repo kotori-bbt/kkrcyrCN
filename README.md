@@ -1,5 +1,5 @@
 # kkrcyrCN
-A fan-translated chinese patch auto-sync of the game ココロコネクト ヨチランダム from paratranz.com
+A fan-translated chinese patch strings auto-sync of the game ココロコネクト ヨチランダム from paratranz.com
 
 
 ## Contributing
