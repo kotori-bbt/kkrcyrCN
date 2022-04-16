@@ -1,137 +1,63 @@
-﻿[
+[
   {
-    "id": 111701003,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-11-12T16:52:27.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_0",
     "original": "「脱線して悪かったな。\\n　今度こそ真面目に本題に入る！」",
-    "translation": "「跑题真的抱歉了啊\\n　这次会认真进入正题讨论的！」",
-    "file": 385885,
+    "translation": "「抱歉刚跑题了。\\n　这次真的谈正经事了！」",
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111701004,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-11-12T16:52:55.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_1",
     "original": "（くそっ、こっちは最初からそのつもりだったんだよ。\\n　伊織と青木のペースにハマっちまうなんて、情けない）",
     "translation": "（可恶，我可是一开始就要做这个的啊。\\n　被带到伊织和青木的节奏里去了，真是丢脸）",
-    "file": 385885,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111701005,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-11-12T16:52:59.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_2",
     "original": "「なんと～～！？」\\n「な、何よコレ！？」\\n「ぶふぉっ！！」",
     "translation": "「竟然～～！？」\\n「这，这什么啊！?」\\n「噗呼哦！！」",
-    "file": 385885,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "伊織＆唯＆青木",
-    "words": 3
+    "context": "伊織＆唯＆青木"
   },
   {
-    "id": 111701006,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-11-12T16:53:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_3",
     "original": "「おい！\\n　まだ何も話してないだろ！\\n　黙ってることもできねーのかお前らは！」",
     "translation": "「喂！\\n　我还什么都没说吧！\\n　你们连闭个嘴都做不到是吗！」",
-    "file": 385885,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "稲葉",
-    "words": 3
+    "context": "稲葉"
   },
   {
-    "id": 111701007,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2022-01-16T15:40:17.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_4",
     "original": "「アタシの話は聞きたくないってのか！？\\n　上等だ！　アタシは今から何も喋らん！」",
-    "translation": "「你是不想听我说的话吗！？\\n　行啊，我现在开始什么都不说了！」",
-    "file": 385885,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "translation": "「你们是不想听我说话吗！？\\n　行啊，我现在开始什么都不说了！」",
+    "stage": 5
   },
   {
-    "id": 111701008,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-12-01T08:55:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_5",
     "original": "「ち、違うよ稲葉ん！\\n　話を聞きたいのはやまやまなんだけど……」",
     "translation": "「不，不是的稻叶儿！\\n　我们其实很想听你说……」",
-    "file": 385885,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111701009,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2022-01-16T15:40:49.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_6",
     "original": "「だったらなんだ？\\n　ちゃんとアタシが納得いく説明を\\n　してくれるんだろうな！？」",
-    "translation": "「那又怎么样？\\n　你们会好好地给我一个\\n　能让我信服的说明吧！？」",
-    "file": 385885,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "稲葉",
-    "words": 3
+    "translation": "「那又怎么样？\\n　你们会好好地给我\\n　一个能让我信服的说明吧！？」",
+    "stage": 5,
+    "context": "稲葉"
   },
   {
-    "id": 111701010,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-11-12T16:55:47.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_7",
     "original": "「そんなの後よ！\\n　それより太一！　今すぐ稲葉から離れなさい！」",
     "translation": "「那些待会儿再说啊！\\n　太一！现在马上从稻叶身边离开！」",
-    "file": 385885,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "唯",
-    "words": 3
+    "context": "唯"
   },
   {
-    "id": 111701011,
-    "createdAt": "2021-10-18T09:16:44.000Z",
-    "updatedAt": "2021-11-12T16:55:50.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05B2.bin_8",
     "original": "「うわっ！　な、何なんだよ？\\n　いきなり突き飛ばすことないだろ？」",
     "translation": "「哇！什、什么啊？\\n　话说没有必要突然冲过来吧？」",
-    "file": 385885,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "太一",
-    "words": 3
+    "context": "太一"
   }
 ]

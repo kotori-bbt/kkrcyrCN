@@ -1,212 +1,96 @@
-﻿[
+[
   {
-    "id": 111708304,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2022-01-11T15:22:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_0",
     "original": "「ゴメンっ。……わたし帰るね」",
     "translation": "「抱歉。……我要回去了」",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "伊織",
-    "words": 1
+    "context": "伊織"
   },
   {
-    "id": 111708305,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-15T05:05:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_1",
     "original": "「帰るって、どうしたの伊織？」",
     "translation": "「回去，怎么啦伊织？」",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 1
+    "context": "唯"
   },
   {
-    "id": 111708306,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-15T05:05:34.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_2",
     "original": "「なんか用事でも思い出したの？」",
     "translation": "「想起什么事了吗？」",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 1
+    "context": "青木"
   },
   {
-    "id": 111708307,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-15T05:05:37.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_3",
     "original": "「……そうなんだよー。\\n　お母さんに頼まれてた事あってさ～」",
-    "translation": "「……是啊～。\\n　我妈叫我要干的事～」",
-    "file": 386027,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "translation": "「……是啊～。\\n　我妈叫我去干的事～」",
+    "stage": 3,
+    "context": "伊織"
   },
   {
-    "id": 111708308,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2022-01-11T15:22:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_4",
     "original": "「待て伊織、お前……」",
     "translation": "「等会伊织，你……」",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111708309,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2022-01-11T15:22:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_5",
     "original": "「じゃ、そゆことで、ごめんねー」",
     "translation": "「那，就这样，抱歉啦～」",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "伊織",
-    "words": 1
+    "context": "伊織"
   },
   {
-    "id": 111708310,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-15T05:05:42.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_6",
     "original": "「待てって……！」",
     "translation": "「等等啊……！」",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111708311,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-15T05:06:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_7",
     "original": "放課後",
     "translation": "放学后",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111708312,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-15T05:06:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_8",
     "original": "廊下",
     "translation": "走廊",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111708313,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-15T05:06:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_9",
     "original": "「はぁ、はぁ、はぁ、はぁ、はぁ！」",
     "translation": "「哈啊，哈啊，哈啊，哈啊，哈啊！」",
-    "file": 386027,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "伊織",
-    "words": 1
+    "context": "伊織"
   },
   {
-    "id": 111708314,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-21T14:22:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_10",
     "original": "（ごめん、稲葉ん。ごめん、みんな。\\n　こんなわたしで、ごめん……）",
     "translation": "（抱歉，稻叶儿。抱歉，大家。\\n　这样子的我，抱歉……）",
-    "file": 386027,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111708315,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-21T14:53:45.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_11",
     "original": "（あれ以上、あの場所にいられなかった。\\n　それでも笑っちゃう自分ってなんなんだろう）",
     "translation": "（我再也，无法在那个地方待下去了。\\n　即便如此却还是会笑的自己又是怎么回事呢）",
-    "file": 386027,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111708316,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-21T14:54:28.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_12",
     "original": "（あれでよかったのかな？\\n　それとも他にやり様はあったの？\\n　わたしはなにを演じればよかったんだろう？）",
     "translation": "（那样真的好吗？\\n　还是说还有别的办法吗？\\n　我该怎么演才好？）",
-    "file": 386027,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111708317,
-    "createdAt": "2021-10-18T09:17:35.000Z",
-    "updatedAt": "2021-12-21T14:54:43.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp0901.bin_13",
     "original": "（どうすればいいのか、もう分からない……）",
     "translation": "（怎么办才好呢，真的不知道啊……）",
-    "file": 386027,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   }
 ]

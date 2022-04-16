@@ -1,287 +1,135 @@
-﻿[
+[
   {
-    "id": 111716271,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-11-21T03:24:06.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_0",
     "original": "放課後",
     "translation": "放学后",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111716272,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-11-21T03:24:06.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_1",
     "original": "校門",
     "translation": "校门",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111716273,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-11-21T03:24:09.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_2",
     "original": "「尻がーーーーーーーーーーーーーーーーーー！！！！！」",
     "translation": "「我的屁股啊ーーーーーーーーーーーーーーーーーー！！！！！」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "青木",
-    "words": 1
+    "context": "青木"
   },
   {
-    "id": 111716274,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-11-21T03:24:12.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_3",
     "original": "「これは青木君の悲鳴……」",
     "translation": "「这是青木君的悲鸣……」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "藤島",
-    "words": 1
+    "context": "藤島"
   },
   {
-    "id": 111716275,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-11-21T03:24:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_4",
     "original": "「ちっ、失敗か……」",
     "translation": "「切，失败了么……」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111716276,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:24:40.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_5",
     "original": "「はい？　貴方の勝ちでしょう？\\n　この状況は？」",
     "translation": "「啊？　是你赢了吧？\\n　现在这样的话？」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "藤島",
-    "words": 3
+    "context": "藤島"
   },
   {
-    "id": 111716277,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:25:40.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_6",
     "original": "「あ、いや、いい……\\n　唯と青木の件はチャラにしよう」",
     "translation": "「啊，不是，算了……\\n　唯和青木的事就一笔勾销吧」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111716278,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:25:41.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_7",
     "original": "「え？　どうして？」",
     "translation": "「欸？　为什么？」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "藤島",
-    "words": 2
+    "context": "藤島"
   },
   {
-    "id": 111716279,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:25:47.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_8",
     "original": "「まぁ、いいじゃないか。\\n　勝負は別のカップルへ移行という事だ」",
     "translation": "「嘛，不也挺好的嘛。\\n　在别的情侣身上再决胜负吧」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111716280,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:25:50.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_9",
     "original": "「貴方がそれで良いのなら……」",
     "translation": "「你觉得那样能接受的话……」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "藤島",
-    "words": 1
+    "context": "藤島"
   },
   {
-    "id": 111716281,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:25:52.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_10",
     "original": "「さて、誰と誰にしたモノか……」",
     "translation": "「那么，是谁和谁呢……」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111716282,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2022-01-27T13:05:03.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_11",
     "original": "「あ、それなら提案があるわ。\\n　八重樫君と永瀬さんなんてどうかしら？」",
     "translation": "「啊，这样的话我有个提议。\\n　八重樫君和永瀬同学怎么样？」",
-    "file": 386185,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "藤島",
-    "words": 2
+    "stage": 5,
+    "context": "藤島"
   },
   {
-    "id": 111716283,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:26:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_12",
     "original": "「おお、いいねぇ……\\n　あの二人にはいい加減イラついてたんだ」",
     "translation": "「哦哦，好啊……\\n　我也正好开始烦他们了」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111716284,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:26:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_13",
     "original": "「決まりね」",
     "translation": "「决定了哦？」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "藤島",
-    "words": 1
+    "context": "藤島"
   },
   {
-    "id": 111716285,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:26:16.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_14",
     "original": "「決まりだな。\\n　シロクロはっきりさせてやろう」",
     "translation": "「决定了。\\n　这回要好好决个胜负」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111716286,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:26:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_15",
     "original": "「それじゃぁまた明日」",
     "translation": "「那明天见」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "藤島",
-    "words": 1
+    "context": "藤島"
   },
   {
-    "id": 111716287,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:26:19.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_16",
     "original": "「ああ」",
     "translation": "「嗯」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111716288,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:26:51.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_17",
     "original": "「うふふふ……」",
     "translation": "「唔呼呼呼……」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "藤島",
-    "words": 1
+    "context": "藤島"
   },
   {
-    "id": 111716289,
-    "createdAt": "2021-10-18T09:18:45.000Z",
-    "updatedAt": "2021-12-17T04:26:52.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St107_Cp0401.bin_18",
     "original": "「ふふふ……」",
     "translation": "「呼呼呼……」",
-    "file": 386185,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   }
 ]

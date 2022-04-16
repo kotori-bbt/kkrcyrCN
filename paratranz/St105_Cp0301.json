@@ -1,242 +1,101 @@
-﻿[
+[
   {
-    "id": 111714656,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2021-12-14T16:03:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_0",
     "original": "５時間目",
     "translation": "第五节课",
-    "file": 386159,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111714657,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2022-01-20T13:10:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_1",
     "original": "１－３教室",
     "translation": "一年三班　教室",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "stage": 5,
+    "context": "Location"
   },
   {
-    "id": 111714658,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2021-12-14T16:04:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_2",
     "original": "（ん？　なんだこれ？　\\n　机の中から、手紙が……）",
     "translation": "（嗯？　这是什么？　\\n　抽屉里面，有一封信……）",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 3
+    "stage": 5,
+    "context": "太一"
   },
   {
-    "id": 111714659,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2021-12-14T16:04:24.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_3",
     "original": "机の中をまさぐった時、\\n見覚えのない柄の封筒が出てきた。",
     "translation": "在翻抽屉的时候，\\n发现了一个没见过的信封。",
-    "file": 386159,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714660,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2021-12-14T16:04:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_4",
     "original": "（誰からだろ？\\n　もしかして永瀬からの……秘密の手紙とか）",
     "translation": "（是谁的呢？\\n　该不会是永濑给我的……秘密信件吧）",
-    "file": 386159,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714661,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2021-12-14T16:04:42.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_5",
     "original": "突然照れ臭くなりながらも、\\n先生に見つからないよう、そっと封を開くと――",
     "translation": "突然变得有点不好意思起来了，\\n为了不被老师发现，悄悄的打开的信条――",
-    "file": 386159,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714662,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2022-01-14T14:40:25.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_6",
     "original": "『八重樫太一君へ\\n突然の手紙でごめんなさい。\\nあなたにしか話せない重大なお話があります。",
-    "translation": "『致八重樫太一同学\\n很抱歉突然写信给你。\\n我有一件只能和你说的很重要的事。",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "translation": "『致八重樫太一君\\n很抱歉这么突然写信给你。\\n我有一件只能和你说的很重要的事。",
+    "stage": 3
   },
   {
-    "id": 111714663,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2022-01-19T12:05:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_7",
     "original": "次の休み時間に、一人で屋上に来てください。\\nＰＳ・文化研究部は――ねらわれています。\\n　　　　　　　　　　　　　　　大沢美咲』",
     "translation": "下一个休息时间，请独自一人来屋顶。\\nＰＳ·文化研究部――被盯上了。\\n　　　　　　　　　　　　　　　大泽美咲』",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111714664,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2022-01-19T12:05:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_8",
     "original": "（文研部が……ねらわれてる？\\n　この、大沢美咲って……）",
     "translation": "（文研部……被盯上了？\\n　这个、大泽美咲是……）",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714665,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2022-01-19T12:05:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_9",
     "original": "俺は、その名前を知っていた。\\n大沢美咲は同級生で、クラスでもおとなしい子だ。",
     "translation": "我，知道那个名字。\\n大泽美咲是同年级的，在班里非常文静的人。",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714666,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2022-01-19T12:05:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_10",
     "original": "その大沢が、一体なにを知らせようとしてるんだろう。\\n俺はあわてて、手紙の主の方に目を向ける。",
     "translation": "那个大泽，到底打算要告诉我什么。\\n我慌慌张张的，朝寄信人的方向看去。",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714667,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2022-01-19T12:05:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_11",
     "original": "――すこし離れた席の大沢は、\\n何事もなかったかのように、静かに授業を受けていた。",
     "translation": "――坐在稍远地方的大泽，\\n仿佛什么事都没有一样，安静的听着课。",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714668,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2021-12-14T16:06:37.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_12",
     "original": "（なにがモテ期だ。なにが永瀬の手紙だ。\\n　……うかれてる場合か）",
     "translation": "（什么受欢迎时期啊。什么永濑的信啊。\\n　……这是该飘飘然的时候吗）",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714669,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2021-12-14T16:06:01.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_13",
     "original": "今、水面下でなにかが起きつつある。\\n――おそらく俺達全員に関わる重大なことが。",
     "translation": "现在在水面下正发生着些什么。\\n――恐怕是关系到我们全员的重大事情。",
-    "file": 386159,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111714670,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2022-01-19T12:05:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_14",
     "original": "大沢の手紙には、それがハッキリ書かれている。\\nもしかして『例のアイツ』がからんでいるのか。\\nそれとも……",
     "translation": "在大泽的信里写得很清楚。\\n该不会和『那个家伙』有密切关系吗。\\n还是说……",
-    "file": 386159,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111714671,
-    "createdAt": "2021-10-18T09:18:32.000Z",
-    "updatedAt": "2021-12-14T16:06:50.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St105_Cp0301.bin_15",
     "original": "（とにかく行って、聞いてみよう。\\n　次の休み時間に屋上だな）",
     "translation": "（总之先去，问一下吧。\\n　下一个休息时间的屋顶）",
-    "file": 386159,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   }
 ]

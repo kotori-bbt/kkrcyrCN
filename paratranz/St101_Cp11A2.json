@@ -1,227 +1,102 @@
-﻿[
+[
   {
-    "id": 111711868,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:28:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_0",
     "original": "（だけど、予知を口実に使うなんて……）",
     "translation": "（但是，把预知当做借口……）",
-    "file": 386099,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "stage": 3,
+    "context": "太一"
   },
   {
-    "id": 111711869,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:28:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_1",
     "original": "（いくらなんでも、この状況下でそれはマズイだろ）",
     "translation": "（不管怎样，在这种情况下也太不应该了）",
-    "file": 386099,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111711870,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:28:35.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_2",
     "original": "「稲葉、今はこんな事してる場合じゃないだろ！？」",
     "translation": "「稻叶，现在不是做这种事的时候吧！？」",
-    "file": 386099,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111711871,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2022-01-20T13:10:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_3",
     "original": "「こんな事って、……そんな言い方……」",
     "translation": "「你说　这种事，……你这个说法……」",
-    "file": 386099,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "stage": 5,
+    "context": "稲葉"
   },
   {
-    "id": 111711872,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_4",
     "original": "「今は〈ふうせんかずら〉の起こしてる現象の最中だ。\\n　デート中に何かあったらどうするんだ！？」",
     "translation": "「现在正是〈风船葛〉引发的现象出现的时候啊。\\n　约会的时候要是出了什么事该怎么办！？」",
-    "file": 386099,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "context": "太一"
   },
   {
-    "id": 111711873,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:12.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_5",
     "original": "「そうだけど……でも……」",
     "translation": "「虽然是这样……但是……」",
-    "file": 386099,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111711874,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_6",
     "original": "「しかも、こんなやり方、稲葉らしくないだろ」",
     "translation": "「而且，这种做法，不像稻叶的作风」",
-    "file": 386099,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111711875,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2022-01-27T11:35:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_7",
     "original": "「……っ！　…………ごめん」",
     "translation": "「……！　…………对不起」",
-    "file": 386099,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "stage": 5,
+    "context": "稲葉"
   },
   {
-    "id": 111711876,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:17.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_8",
     "original": "（しまった、言い過ぎたかな？）",
-    "translation": "（糟了，我说的过分了点？）",
-    "file": 386099,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "translation": "（糟了，我说的过分了吗？）",
+    "stage": 3,
+    "context": "太一"
   },
   {
-    "id": 111711877,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_9",
     "original": "「と、とにかく\\n　今回の現象が収まったらいくらでも一緒に\\n　遊びに行けるんだから、それまで頑張ろう」",
-    "translation": "「总，总之\\n　等这次的现象结束以后\\n　要怎么玩我都陪你，那之前先努力吧」",
-    "file": 386099,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "translation": "「总，总之\\n　等这次的现象结束以后\\n　要怎么玩我都陪你，在那之前先努力吧」",
+    "stage": 3
   },
   {
-    "id": 111711878,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:27.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_10",
     "original": "「……わかった」",
     "translation": "「……我知道了」",
-    "file": 386099,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111711879,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_11",
     "original": "しばらくして、予知現象は終わりを告げた。",
     "translation": "不久，我们被告知预知现象结束了。",
-    "file": 386099,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111711880,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_12",
     "original": "しかし、稲葉は少しの間ふてくされて\\n俺とデートをしてくれることはなかった。",
     "translation": "但是，稻叶开始闹别扭\\n也不跟我约会了。",
-    "file": 386099,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111711881,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-09T12:26:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_13",
     "original": "いくら大変な状況だったとしても\\nもう少し俺も稲葉のことを\\n考えるべきだったのかもしれない……。",
-    "translation": "就算是再怎样糟糕的情况\\n我也应该为稻叶\\n多考虑考虑才是……",
-    "file": 386099,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "translation": "就算是再怎样糟糕的情况\\n我也应该为稻叶\\n多考虑考虑才对……",
+    "stage": 3
   },
   {
-    "id": 111711882,
-    "createdAt": "2021-10-18T09:18:05.000Z",
-    "updatedAt": "2021-12-04T05:29:37.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St101_Cp11A2.bin_14",
     "original": "　\\n　　　　　　　　　―ＢＡＤ　ＥＮＤ―",
     "translation": "　\\n　　　　　　　　　―ＢＡＤ　ＥＮＤ―",
-    "file": 386099,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "　",
-    "words": 2
+    "context": "　"
   }
 ]

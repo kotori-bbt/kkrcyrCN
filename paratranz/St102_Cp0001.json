@@ -1,227 +1,106 @@
-﻿[
+[
   {
-    "id": 111713014,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:41:59.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_0",
     "original": "放課後",
     "translation": "放学后",
-    "file": 386118,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111713015,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:00.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_1",
     "original": "部室",
     "translation": "活动室",
-    "file": 386118,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111713016,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:03.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_2",
     "original": "「１年１組、青木義文君。\\n　まだ校内に残っていたら至急、職員室に来なさい」",
     "translation": "「一年一班，青木义文同学。\\n　如果还在校内，请速来职员室」",
-    "file": 386118,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "平田先生",
-    "words": 2
+    "context": "平田先生"
   },
   {
-    "id": 111713017,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_3",
     "original": "「繰り返します。\\n　１年１組、青木義文君……」",
     "translation": "「重复一遍\\n　一年一班，青木义文同学……」",
-    "file": 386118,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111713018,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:08.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_4",
     "original": "「うおっ！？\\n　忘れてた！\\n　今日は数学の補習があったんだった！」",
     "translation": "「唔喔！？\\n　我忘了！\\n　今天有数学补习的！」",
-    "file": 386118,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 3
+    "context": "青木"
   },
   {
-    "id": 111713019,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_5",
     "original": "「補習って……どうするんだ？\\n　まだこっちの話も終わってないのに」",
-    "translation": "「补习……是干嘛？\\n　这边事情还没结束呢」",
-    "file": 386118,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "translation": "「补习……那怎么办？\\n　这边的事情都还没结束呢」",
+    "stage": 3,
+    "context": "太一"
   },
   {
-    "id": 111713020,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_6",
     "original": "「今はこっちが優先だ。\\n　どうせ受けても出来の悪さは変わらないんだろ」",
     "translation": "「现在这边更重要。\\n　反正去补习了也改变不了什么吧」",
-    "file": 386118,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111713021,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_7",
     "original": "「そんなことないよ！？\\n　いや、勢いで否定したけど稲葉っちゃんの言う通りかも」",
-    "translation": "「没那回事！？\\n　啊不，虽然反驳了一下但是说不定稻叶酱说的有道理」",
-    "file": 386118,
+    "translation": "「才没那回事呢！？\\n　啊不，虽然反驳了一下但是说不定稻叶酱说的有道理」",
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 2
+    "context": "青木"
   },
   {
-    "id": 111713022,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:25.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_8",
     "original": "「それでもサボったらダメよ。\\n　ちゃんと受けた方がいいわ」",
     "translation": "「那也不能缺勤哦。\\n　还是去补习比较好啊」",
-    "file": 386118,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 2
+    "context": "唯"
   },
   {
-    "id": 111713023,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:39.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_9",
     "original": "「青木の頭の出来の悪さは変わんなくても、\\n　平田先生をずっと待たせるのは可哀相だもんね」",
-    "translation": "「就算青木的笨脑袋改变不了，\\n　让平田老师一直等也太可怜了诶」",
-    "file": 386118,
+    "translation": "「就算改变不了青木的笨脑袋，\\n　让平田老师一直等也太可怜了诶」",
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111713024,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2022-01-27T09:33:24.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_10",
     "original": "「伊織ちゃんまでヒドイ！\\n　でも事実だから否定できない！」",
-    "translation": "「连伊织酱也那么过分！\\n　不过我否定不了这个事实啊！」",
-    "file": 386118,
+    "translation": "「连伊织酱也好过分！\\n　不过我否定不了这个事实啊！」",
     "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "青木",
-    "words": 2
+    "context": "青木"
   },
   {
-    "id": 111713025,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:43.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_11",
     "original": "「しょうがねえな……さっさと行ってこい」",
     "translation": "「真没办法啊……快去」",
-    "file": 386118,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111713026,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:42:45.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_12",
     "original": "「おっしゃ、そんならオレは補習行って来る！\\n　ごめんみんな！　またな～！」",
     "translation": "「好嘞，那我补习完再来了！\\n　抱歉啊！待会见～！」",
-    "file": 386118,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 3
+    "context": "青木"
   },
   {
-    "id": 111713027,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2022-01-27T09:35:49.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_13",
     "original": "「本当はもう少し詰めておきたかったんだがな。\\n　つっても、今は判断材料が少なすぎることも確か、か。\\n　今日はこれで解散だ」",
-    "translation": "「其实我是想再多搞一点。\\n　不过，现在能决定的材料确实太少了…吗?\\n　那今天到此解散」",
-    "file": 386118,
+    "translation": "「其实我是想再多准备一点的。\\n　不过，现在的线索确实太少了。\\n　那今天就此解散」",
     "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "稲葉",
-    "words": 3
+    "context": "稲葉"
   },
   {
-    "id": 111713028,
-    "createdAt": "2021-10-18T09:18:13.000Z",
-    "updatedAt": "2021-12-04T05:43:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0001.bin_14",
     "original": "「じゃあ、俺たちも帰るか」",
-    "translation": "「那咱们也回去吧」",
-    "file": 386118,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "translation": "「那么，咱也都回去吧」",
+    "stage": 3,
+    "context": "太一"
   }
 ]

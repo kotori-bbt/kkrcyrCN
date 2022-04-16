@@ -1,197 +1,83 @@
-﻿[
+[
   {
-    "id": 111713922,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:25:24.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_0",
     "original": "放課後",
     "translation": "放学后",
-    "file": 386140,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111713923,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:25:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_1",
     "original": "通学路",
     "translation": "放学路上",
-    "file": 386140,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111713924,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:25:27.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_2",
     "original": "「はぁ……」",
     "translation": "「哈……」",
-    "file": 386140,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111713925,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-09T12:26:56.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_3",
     "original": "（やりすぎた……。\\n　稲葉に言われるまでもなく、やりすぎた……）",
-    "translation": "（做得有点过分了……\\n　不用稻叶说也知道，做得有点过分了……）",
-    "file": 386140,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "translation": "（做得有点过分了……\\n　不用稻叶说我也清楚，我做得有点过分了……）",
+    "stage": 3
   },
   {
-    "id": 111713926,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:27:47.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_4",
     "original": "（いや、ただ心配なだけだったんだ。\\n　しかし、配慮にかけていた……）",
     "translation": "（不对，我只是有点担心而已。\\n　只是，在关心妹妹……）",
-    "file": 386140,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111713927,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:27:58.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_5",
     "original": "「着信拒否か……」",
     "translation": "「拉黑名单吗……」",
-    "file": 386140,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111713928,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-09T12:52:16.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_6",
     "original": "（着信拒否だなんて……。\\n　莉奈は、もう一生口を聞いてくれないかも知れない……）",
     "translation": "（拉黑名单什么的……\\n　莉奈，可能一辈子都不会理我了……）",
-    "file": 386140,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111713929,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2022-01-16T16:06:54.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_7",
     "original": "（自業自得とは言え、\\n　何をやってるんだ、俺は……）",
-    "translation": "（虽说是自作自受，\\n　但我到底在干什么啊……）",
-    "file": 386140,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "translation": "（虽说是在自作自受，\\n　但到底都是在干些什么啊我……）",
+    "stage": 3
   },
   {
-    "id": 111713930,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:28:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_8",
     "original": "「とにかく……」",
     "translation": "「总之……」",
-    "file": 386140,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111713931,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:28:43.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_9",
     "original": "（とにかく、帰ったら土下座でもなんでもして謝ろう。\\n　『未来予知』の事を話すわけにはいかないから難しいが、\\n　それでも、何度でも謝って説明しよう……）",
-    "translation": "（总之，回去之后不管是用下跪还是什么其他的方式都要向她道歉。\\n　想要不和她说起『未来预知』的事情解释起来可能会很困难，\\n　就算是那样，无论要多少次都要跟她好好道歉并解释清楚……）",
-    "file": 386140,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "translation": "（总之，回去之后不管是用下跪还是什么其他的方式都要向她道歉。\\n　想在不和她提起关于『未来预知』的情况下解释起来可能会很困难，\\n　就算是那样，无论要多少次都要跟她好好道歉并解释清楚……）",
+    "stage": 3
   },
   {
-    "id": 111713932,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:28:45.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_10",
     "original": "「はぁ……」",
     "translation": "「哈……」",
-    "file": 386140,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111713933,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2021-12-06T11:28:51.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_11",
     "original": "（せっかく、週末買い物に出かける約束をしたのに、\\n　これじゃあ、パァだな……）",
     "translation": "（难得，约好了周末要一起出去购物的，\\n　变成现在这样，看来是没戏了……）",
-    "file": 386140,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111713934,
-    "createdAt": "2021-10-18T09:18:23.000Z",
-    "updatedAt": "2022-01-16T16:07:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0701.bin_12",
     "original": "（はは……。\\n　空模様まで俺の気持ちとそっくりだ）",
     "translation": "（哈哈……\\n　就连天空的样子也和我心情完全一致呢）",
-    "file": 386140,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   }
 ]

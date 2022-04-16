@@ -1,107 +1,47 @@
-﻿[
+[
   {
-    "id": 111702816,
-    "createdAt": "2021-10-18T09:16:57.000Z",
-    "updatedAt": "2021-11-23T09:55:19.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22C2.bin_0",
     "original": "休み時間",
     "translation": "休息时间",
-    "file": 385926,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111702817,
-    "createdAt": "2021-10-18T09:16:57.000Z",
-    "updatedAt": "2021-11-23T09:55:21.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22C2.bin_1",
     "original": "校舎裏",
-    "translation": "教学楼背面",
-    "file": 385926,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "translation": "教学楼后面",
+    "stage": 3,
+    "context": "Location"
   },
   {
-    "id": 111702818,
-    "createdAt": "2021-10-18T09:16:57.000Z",
-    "updatedAt": "2021-11-23T09:55:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22C2.bin_2",
     "original": "「老朽化してる建物って、\\n　ここしか思いだせなかったんだよね」",
     "translation": "「老化的建筑物，\\n　我只想得到这里啊」",
-    "file": 385926,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111702819,
-    "createdAt": "2021-10-18T09:16:57.000Z",
-    "updatedAt": "2021-11-23T09:55:28.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22C2.bin_3",
     "original": "「時間は少ないし、パパッと終わらせて教室に戻らなきゃ」",
     "translation": "「时间不多，得赶紧弄完赶回教室才行」",
-    "file": 385926,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111702820,
-    "createdAt": "2021-10-18T09:16:57.000Z",
-    "updatedAt": "2021-11-23T09:55:30.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22C2.bin_4",
     "original": "「なんか、予想以上に古いなぁ。\\n　今すぐにでも崩れてきそう……」",
     "translation": "「感觉，比想象中还要破旧啊。\\n　看上去马上就要倒了一样……」",
-    "file": 385926,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111702821,
-    "createdAt": "2021-10-18T09:16:57.000Z",
-    "updatedAt": "2021-11-23T09:55:36.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22C2.bin_5",
     "original": "「でも、『未来予知』で見た場所ってここだったっけ？\\n　なんか違う気がするんだよね」",
     "translation": "「不过，『未来预知』里看到的是这里吗？\\n　感觉不太像呢」",
-    "file": 385926,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111702822,
-    "createdAt": "2021-10-18T09:16:57.000Z",
-    "updatedAt": "2021-11-23T09:55:52.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22C2.bin_6",
     "original": "「あの映像ってどの辺りから見た映像なんだろ？\\n　『未来予知』が一度しか見えないのは不便だな」",
     "translation": "「那幅景象是从哪里看的呢？\\n　『未来预知』只能看一次还真是不方便呢」",
-    "file": 385926,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   }
 ]

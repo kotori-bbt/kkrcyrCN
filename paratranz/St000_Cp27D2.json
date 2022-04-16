@@ -1,92 +1,41 @@
-﻿[
+[
   {
-    "id": 111703057,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:47:17.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27D2.bin_0",
     "original": "朝",
     "translation": "早上",
-    "file": 385937,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111703058,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:47:19.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27D2.bin_1",
     "original": "唯の部屋",
     "translation": "唯的房间",
-    "file": 385937,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111703059,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:47:39.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27D2.bin_2",
     "original": "（予知能力って便利だなって思ってたのに、\\n　こんなの全然便利じゃないし、ちっとも楽しくない……）",
-    "translation": "（本以为有预知能力是一件很便利的事情，\\n　但现在这样完全谈不上便利，也一点都令人高兴不起来……）",
-    "file": 385937,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "唯",
-    "words": 2
+    "translation": "（本以为有预知能力是一件很便利的事情，\\n　但现在这样完全谈不上便利，也一点都不能令人高兴……）",
+    "stage": 3,
+    "context": "唯"
   },
   {
-    "id": 111703060,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:47:45.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27D2.bin_3",
     "original": "（もう、学校に行くのもつらい……\\n　いっそのこと、しばらく休んじゃおうかな）",
     "translation": "（真是的，现在连去学校都很痛苦……\\n　干脆，暂时休息一阵子吧）",
-    "file": 385937,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111703061,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:48:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27D2.bin_4",
     "original": "（……なんて、無理よね。\\n　あたしたち５人で頑張るんだから、\\n　そんな勝手なことしちゃダメ）",
     "translation": "（……这果然，是不行的吧。\\n　约定好了要五个人一起努力，\\n　我不能做这么自私的事）",
-    "file": 385937,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111703062,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:48:50.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27D2.bin_5",
     "original": "（それに、もしあたしがいないせいで未来を回避\\n　できなかったら……悔やんでも悔やみきれないもの）",
     "translation": "（而且，如果因为我的缺席而导致未来没能回避的话，\\n　……我一定会追悔莫及的）",
-    "file": 385937,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   }
 ]

@@ -1,77 +1,35 @@
-﻿[
+[
   {
-    "id": 111703063,
-    "createdAt": "2021-10-18T09:17:01.000Z",
-    "updatedAt": "2021-11-23T10:48:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27E2.bin_0",
     "original": "朝",
     "translation": "早上",
-    "file": 385938,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111703064,
-    "createdAt": "2021-10-18T09:17:01.000Z",
-    "updatedAt": "2021-11-23T10:48:58.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27E2.bin_1",
     "original": "青木の部屋",
     "translation": "青木的房间",
-    "file": 385938,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111703065,
-    "createdAt": "2021-10-18T09:17:01.000Z",
-    "updatedAt": "2021-12-07T12:12:37.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27E2.bin_2",
     "original": "（最初は太一が稲葉っちゃんの胸を揉むとか\\n　宿題忘れて怒られるだとか、\\n　そんなお気楽なのばっかだったのになぁ）",
     "translation": "（最初明明只是太一揉了稻叶酱的胸部，\\n　或是因忘记写作业而被训这样的，\\n　笑一笑就过去的琐事而已）",
-    "file": 385938,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "青木",
-    "words": 3
+    "stage": 5,
+    "context": "青木"
   },
   {
-    "id": 111703066,
-    "createdAt": "2021-10-18T09:17:01.000Z",
-    "updatedAt": "2021-11-23T10:49:52.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27E2.bin_3",
     "original": "（なんか、どんどん内容がエスカレートしてるよなぁ。\\n　オレたち、最終的にはどうなっちゃうんだろ？）",
     "translation": "（可渐渐的，感觉内容变得越来越夸张了。\\n　我们...最终会变成什么样呢？）",
-    "file": 385938,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111703067,
-    "createdAt": "2021-10-18T09:17:01.000Z",
-    "updatedAt": "2021-11-23T10:50:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27E2.bin_4",
     "original": "「でもま、唯も太一も稲葉っちゃんも\\n　伊織ちゃんもいるんだ。\\n　オレはオレで、やれることをやるだけか！」",
     "translation": "「不过，还有唯、太一、稻叶酱、\\n　伊织酱，还有大家在。\\n　我只需要尽己所能，做好自己能做的事！」",
-    "file": 385938,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   }
 ]

@@ -1,182 +1,84 @@
-﻿[
+[
   {
-    "id": 111701028,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-19T10:39:00.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_0",
     "original": "「太一もバッサリ言うわね……」",
-    "translation": "「太一还挺会总结的嘛……」",
-    "file": 385887,
+    "translation": "「太一说话还挺干脆的嘛......」",
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 1
+    "context": "唯"
   },
   {
-    "id": 111701029,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:12:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_1",
     "original": "「そこも含めて定番ネタだからっ。\\n　やっぱりツッコミ役がいると場が引き締まるね！」",
-    "translation": "「老梗就是这样嘛。\\n　果然有吐槽的话收包袱收的也很舒服啊！」",
-    "file": 385887,
+    "translation": "「虽然吐槽这部分也是传统艺能就是了。\\n　果然有人吐槽的话收包袱收的也很舒服啊！」",
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111701030,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:13:19.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_2",
     "original": "「全然引き締まってる気はしないんだけど」",
     "translation": "「我可不觉得有收掉包袱的感觉」",
-    "file": 385887,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "唯",
-    "words": 1
+    "context": "唯"
   },
   {
-    "id": 111701031,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:13:54.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_3",
     "original": "「伊織と青木が余計に調子に乗るから、\\n　むしろ逆効果な時もあるけどな」",
-    "translation": "「因为伊织和青木会更起劲地闹\\n　倒不如说有时会出现反效果」",
-    "file": 385887,
+    "translation": "「因为伊织和青木会蹬鼻子上脸\\n　倒不如说有时反而会起反效果」",
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111701032,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:14:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_4",
     "original": "「調子に乗った覚えはないんだけど……って、\\n　ここで反応するからダメなんだよね？」",
-    "translation": "「我可不记得我有瞎起劲……啊，\\n　是不是不该吐槽这种地方啊？」",
-    "file": 385887,
+    "translation": "「我可不记得我有蹬鼻子上脸……啊，\\n　是不是不该接这个话茬来着？」",
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "青木",
-    "words": 2
+    "context": "青木"
   },
   {
-    "id": 111701033,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2022-01-10T03:26:19.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_5",
     "original": "「青木のくせに賢いな。\\n　よし、青木の努力を無駄にしないためにも、\\n　早速、今日の議題について話そう」",
     "translation": "「青木难得聪明一回嘛。\\n　好吧，为了不浪费青木的努力，\\n　我们赶快谈谈今天的议题吧」",
-    "file": 385887,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 3
+    "context": "稲葉"
   },
   {
-    "id": 111701034,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:14:42.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_6",
     "original": "「なんと～～！？」\\n「な、何よコレ！？」\\n「ぶふぉっ！！」",
     "translation": "「竟然～～！？」\\n「这，这什么啊！?」\\n「噗呼哦！！」",
-    "file": 385887,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "伊織＆唯＆青木",
-    "words": 3
+    "context": "伊織＆唯＆青木"
   },
   {
-    "id": 111701035,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:14:56.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_7",
     "original": "「おい！\\n　まだ何も話してないだろ！\\n　黙ってることもできねーのかお前らは！」",
     "translation": "「喂！\\n　我还什么都没说吧！\\n　你们连闭个嘴都做不到是吗！」",
-    "file": 385887,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "稲葉",
-    "words": 3
+    "context": "稲葉"
   },
   {
-    "id": 111701036,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:15:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_8",
     "original": "（い、今のは何！？\\n　太一が稲葉の胸を、も、も、もみくちゃに！？）",
     "translation": "（刚，刚才那是什么！？\\n　太一在，在，在大揉特揉稻叶的胸！？）",
-    "file": 385887,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "唯",
-    "words": 2
+    "context": "唯"
   },
   {
-    "id": 111701037,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:15:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_9",
     "original": "（太一がそんなことするなんて……最低っ！\\n　やっぱり太一も男の子なんだ！）",
     "translation": "（太一竟然做那种事……真差劲！\\n　果然太一也是男孩子啊！）",
-    "file": 385887,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111701038,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:15:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_10",
     "original": "「太一！　今すぐ稲葉から離れなさいっ！！」",
     "translation": "「太一！现在马上从稻叶身边离开！」",
-    "file": 385887,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111701039,
-    "createdAt": "2021-10-18T09:16:45.000Z",
-    "updatedAt": "2021-11-12T17:15:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp05D2.bin_11",
     "original": "「うわっ！　な、何なんだよ？\\n　いきなり突き飛ばすことないだろ？」",
     "translation": "「哇！什、什么啊？\\n　话说没有必要突然冲过来吧？」",
-    "file": 385887,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "太一",
-    "words": 3
+    "context": "太一"
   }
 ]

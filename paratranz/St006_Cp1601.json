@@ -1,272 +1,119 @@
-﻿[
+[
   {
-    "id": 111711583,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:13:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_0",
     "original": "「――――」",
     "translation": "「――――」",
-    "file": 386093,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 1
+    "context": "青木"
   },
   {
-    "id": 111711584,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:13:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_1",
     "original": "「そんじゃオレらも帰るか…」",
-    "translation": "「那咱们也回去吧…」",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "translation": "「那咱们也回家吧…」",
+    "stage": 3
   },
   {
-    "id": 111711585,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:13:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_2",
     "original": "「うん…青木…」",
     "translation": "「嗯…青木…」",
-    "file": 386093,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 1
+    "context": "唯"
   },
   {
-    "id": 111711586,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:13:23.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_3",
     "original": "「！」",
     "translation": "「！」",
-    "file": 386093,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 1
+    "context": "青木"
   },
   {
-    "id": 111711587,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:13:24.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_4",
     "original": "「無理するな…」",
     "translation": "「别勉强啊…」",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111711588,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:13:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_5",
     "original": "「ううん…無理するわよ…」",
     "translation": "「不…我就要勉强…」",
-    "file": 386093,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 1
+    "context": "唯"
   },
   {
-    "id": 111711589,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:13:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_6",
     "original": "「青木が沢山あたしの事を心配してくれて\\n　沢山あたしのために頑張ってくれた…」",
     "translation": "「青木都这么担心我了\\n　还为了我这么努力…」",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111711590,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:13:58.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_7",
     "original": "「だから…あたしも…」",
     "translation": "「所以…我也要…」",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111711591,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:00.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_8",
     "original": "「頑張る！」",
     "translation": "「努力！」",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111711592,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:03.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_9",
     "original": "「おわ！　いてて！　いきなり引っ張らないで！」",
-    "translation": "「啊哇！痛！不要突然拉我！」",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 3
+    "translation": "「啊哇！痛！不要这么突然拉我啊！」",
+    "stage": 3,
+    "context": "青木"
   },
   {
-    "id": 111711593,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_10",
     "original": "「あ！　ごめん！」",
     "translation": "「啊！抱歉！」",
-    "file": 386093,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 2
+    "context": "唯"
   },
   {
-    "id": 111711594,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:06.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_11",
     "original": "「ははは…大丈夫、大丈夫…」",
     "translation": "「哈哈哈…没事，没事…」",
-    "file": 386093,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 1
+    "context": "青木"
   },
   {
-    "id": 111711595,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:09.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_12",
     "original": "（すげぇ、痛ぇ…）",
     "translation": "（真的，好痛…）",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111711596,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_13",
     "original": "「ん？」",
     "translation": "「嗯？」",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111711597,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_14",
     "original": "（唯の手、震えてる）",
     "translation": "（唯的手，在颤抖）",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111711598,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_15",
     "original": "「帰ろう、青木」",
     "translation": "「回去了，青木」",
-    "file": 386093,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 1
+    "context": "唯"
   },
   {
-    "id": 111711599,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_16",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 386093,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "青木",
-    "words": 1
+    "context": "青木"
   },
   {
-    "id": 111711600,
-    "createdAt": "2021-10-18T09:18:02.000Z",
-    "updatedAt": "2021-12-03T09:14:16.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_17",
     "original": "「おう」",
     "translation": "「噢」",
-    "file": 386093,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   }
 ]

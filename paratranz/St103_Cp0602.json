@@ -1,122 +1,58 @@
-﻿[
+[
   {
-    "id": 111713852,
-    "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2022-01-16T16:01:45.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0602.bin_0",
     "original": "「二人とも、ちょっと、\\n　話……聞いてくれるか？」",
     "translation": "「你们两位，稍微打扰下，\\n　可以……听我说几句吗？」",
-    "file": 386137,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "stage": 5,
+    "context": "太一"
   },
   {
-    "id": 111713853,
-    "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2021-12-06T11:08:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0602.bin_1",
     "original": "「話？　妹のことで相談か？」",
     "translation": "「有话要说？　是要谈论关于妹妹的事情吗？」",
-    "file": 386137,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111713854,
-    "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2021-12-06T11:08:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0602.bin_2",
     "original": "「あ、ああ……」",
     "translation": "「啊，啊啊……」",
-    "file": 386137,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111713855,
-    "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2022-01-27T07:55:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0602.bin_3",
     "original": "「心配なのは分かるけどさ。\\n　そういう風に思いつめてたら、太一の方がもたないよ？」",
-    "translation": "「你担心的心情我能够理解。\\n　但是太一你那么钻牛角尖的话，你会受不了哦？」",
-    "file": 386137,
+    "translation": "「你担心的心情我能够理解。\\n　但是你再那么钻牛角尖的话，太一你会受不了哦？」",
     "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111713856,
-    "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2021-12-06T11:09:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0602.bin_4",
     "original": "「ああ……」",
     "translation": "「啊啊……」",
-    "file": 386137,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111713857,
-    "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2021-12-06T11:09:58.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0602.bin_5",
     "original": "「そもそも、心配する必要は無いんだがな」",
     "translation": "「原本，就没有必要这么担心吧」",
-    "file": 386137,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111713858,
-    "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2021-12-06T11:10:02.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0602.bin_6",
     "original": "「ど、どういう事だよ？」",
     "translation": "「什，什么意思啊？」",
-    "file": 386137,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111713859,
-    "createdAt": "2021-10-18T09:18:21.000Z",
-    "updatedAt": "2021-12-06T11:10:03.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St103_Cp0602.bin_7",
     "original": "「さっきもメールで言ったろ？」",
     "translation": "「刚才邮件上不是也说了吗？」",
-    "file": 386137,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   }
 ]

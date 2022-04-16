@@ -1,257 +1,112 @@
-﻿[
+[
   {
-    "id": 111703996,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:48:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_0",
     "original": "休み時間",
     "translation": "休息时间",
-    "file": 385958,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111703997,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2022-01-20T13:11:53.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_1",
     "original": "１－３教室",
     "translation": "一年三班　教室",
-    "file": 385958,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "stage": 5,
+    "context": "Location"
   },
   {
-    "id": 111703998,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:48:40.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_2",
     "original": "「じゃあ、これから調査に行ってくる」",
     "translation": "「那我去调查了」",
-    "file": 385958,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111703999,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_3",
     "original": "「うん。わたしたちも行ってみるよ」",
     "translation": "「嗯。我们也去看看」",
-    "file": 385958,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "伊織",
-    "words": 1
+    "context": "伊織"
   },
   {
-    "id": 111704000,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_4",
     "original": "「くれぐれも気をつけろ。\\n　近付きすぎて予知が現実のものに……なんてのは\\n　勘弁してくれよ」",
     "translation": "「一定要小心。\\n　要是靠的太近导致预知成了现实的话……那可真是\\n　饶了我吧」",
-    "file": 385958,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "稲葉",
-    "words": 3
+    "context": "稲葉"
   },
   {
-    "id": 111704001,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:30.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_5",
     "original": "「ああ。２人も気を付けて」",
     "translation": "「嗯，你们两个也要小心」",
-    "file": 385958,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111704002,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:36.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_6",
     "original": "「さて、と……みんな行ったかな？」",
     "translation": "「差不多……大家都已经去了吧？」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111704003,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:37.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_7",
     "original": "「俺も中庭に行こう」",
     "translation": "「我也去中庭吧」",
-    "file": 385958,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Choice",
-    "words": 1
+    "context": "Choice"
   },
   {
-    "id": 111704004,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:39.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_8",
     "original": "「永瀬は校舎裏だったな」",
     "translation": "「永濑是教学楼后面吧」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111704005,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:41.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_9",
     "original": "「稲葉は校庭だったか」",
     "translation": "「稻叶是运动场吧」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111704006,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:43.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_10",
     "original": "「桐山は体育館裏だったな」",
-    "translation": "「桐山是体育馆后吧」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "translation": "「桐山是体育馆后面吧」",
+    "stage": 5
   },
   {
-    "id": 111704007,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:44.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_11",
     "original": "「青木は裏庭か」",
     "translation": "「青木是学校后院吧」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111704008,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:49:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_12",
     "original": "「永瀬は校舎裏だったな。\\n　一番に選んだ場所だったが、\\n　あそこに何かあったのか？」",
     "translation": "「永濑是教学楼后面吧。\\n　抢着第一个选，\\n　是那里发生什么事了吗？」",
-    "file": 385958,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "太一",
-    "words": 3
+    "context": "太一"
   },
   {
-    "id": 111704009,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:50:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_13",
     "original": "「稲葉は校庭だったか。\\n　人の多い場所だからしっかりチェックしてるだろうな」",
     "translation": "「稻叶是运动场吧。\\n　那里人很多，她应该在好好检查吧」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111704010,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:50:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_14",
     "original": "「桐山は体育館裏だったな。\\n　そう言えば、サッカーボールが見えたような\\n　気がするな……」",
-    "translation": "「桐山是体育馆后吧。\\n　说起来，好像有看到\\n　足球啊……」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "translation": "「桐山是体育馆后面吧。\\n　说起来，好像有看到\\n　足球啊……」",
+    "stage": 5
   },
   {
-    "id": 111704011,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:50:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_15",
     "original": "「ということは、体育館裏が予知が実現する場所なのか？」",
-    "translation": "「那也就是说，体育馆后就是预知实现的地点吗？」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "translation": "「那也就是说，体育馆后面就是预知实现的地点吗？」",
+    "stage": 5
   },
   {
-    "id": 111704012,
-    "createdAt": "2021-10-18T09:17:07.000Z",
-    "updatedAt": "2021-11-23T09:50:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp2201.bin_16",
     "original": "「青木は裏庭か。\\n　あの辺りの建物は古びてるからな。\\n　気をつけて偵察に向かってほしいな」",
     "translation": "「青木是学校后院吧。\\n　那边的建筑物都有些年头了。\\n　希望他调查的时候小心点啊」",
-    "file": 385958,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   }
 ]

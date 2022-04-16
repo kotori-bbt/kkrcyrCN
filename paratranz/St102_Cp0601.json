@@ -1,257 +1,116 @@
-﻿[
+[
   {
-    "id": 111713314,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:57:51.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_0",
     "original": "翌日",
     "translation": "次日",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "　",
-    "words": 1
+    "context": "　"
   },
   {
-    "id": 111713315,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:57:52.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_1",
     "original": "朝",
     "translation": "早上",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111713316,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:57:53.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_2",
     "original": "太一の部屋",
     "translation": "太一的房间",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111713317,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:57:55.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_3",
     "original": "頬に残った桐山の唇の感触が気になって、\\n昨日はなかなか眠ることが出来なかった。",
     "translation": "脸颊上还有桐山嘴唇的触感，\\n昨天都没怎么睡好。",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "context": "太一"
   },
   {
-    "id": 111713318,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2022-01-27T10:13:38.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_4",
     "original": "事故とは言え、あれは衝撃的過ぎた。\\nまさか俺が桐山に、頬とはいえ、キスされるとは。",
-    "translation": "说是事故，那是太过冲击了吧。\\n虽然只是脸颊，但我居然被桐山，Ｋｉｓｓ了。",
-    "file": 386124,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "translation": "说是事故，那是过大的冲击了吧。\\n虽然只是脸颊，但我居然被桐山，Ｋｉｓｓ了。",
+    "stage": 5
   },
   {
-    "id": 111713319,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:58:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_5",
     "original": "とか考えていたら、またあの感触が蘇ってしまった。\\n一体、どんな顔をして桐山に会えばいいんだろうか？",
     "translation": "想着想着，那感觉又来了。\\n到底该带着什么样的表情去见桐山好呢？",
-    "file": 386124,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111713320,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:59:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_6",
     "original": "「いや、もう元に戻ってる可能性も……っと、電話？\\n　……桐山か。はい、もしもし？」",
     "translation": "「不对，说不定她已经恢复正常了……额，电话？\\n　……桐山吗。嗯，喂？」",
-    "file": 386124,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111713321,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:58:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_7",
     "original": "『あ、太一、おはよう。\\n　今さ、太一の家の前にいるんだけど、\\n　もしかしてもう学校に行ってる？』",
     "translation": "『啊，太一，早上好呀。\\n　我现在在太一家门口哦，\\n　你不会已经去学校了吧？』",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 3
+    "context": "唯"
   },
   {
-    "id": 111713322,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:59:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_8",
     "original": "「いや、まだ家……って、家の前に！？」",
-    "translation": "「没，还在家……额，在家门口！？」",
-    "file": 386124,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "translation": "「没，还在家……哎，在家门口！？」",
+    "stage": 3,
+    "context": "太一"
   },
   {
-    "id": 111713323,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:59:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_9",
     "original": "『あっ、太一が見えたっ！\\n　あはは、まだ制服に着替えてないの～？』",
-    "translation": "『啊，看到太一了！\\n　啊哈哈，还没换校服啊～？』",
-    "file": 386124,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 2
+    "translation": "『啊，看到太一了！\\n　啊哈哈，还没换好校服啊～？』",
+    "stage": 3,
+    "context": "唯"
   },
   {
-    "id": 111713324,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:59:38.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_10",
     "original": "「これから着替えるとこだったんだ。\\n　それにしても、こんなに朝早くにどうしたんだ？」",
     "translation": "「正想换呢。\\n　话说，大早上的这是要干嘛？」",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "context": "太一"
   },
   {
-    "id": 111713325,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:59:43.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_11",
     "original": "『えへへ～。\\n　離れてるのが寂しくなって、迎えにきちゃった。\\n　一緒に学校行こうよ』",
-    "translation": "『诶嘿嘿～。\\n　离开你我好寂寞，就来接你了。\\n　一起去学校吧』",
-    "file": 386124,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 3
+    "translation": "『诶嘿嘿～。\\n　离开你我好寂寞，就来接你了。\\n　一起去学校吧~』",
+    "stage": 3,
+    "context": "唯"
   },
   {
-    "id": 111713326,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:59:49.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_12",
     "original": "「あ、ああ。少しだけ待っててくれ！」",
     "translation": "「啊，啊啊。稍微等我一下！」",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111713327,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T13:59:56.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_13",
     "original": "『５分以内に準備する！\\n　じゃないと寂しいから\\n　部屋の中まで行っちゃうからね』",
     "translation": "『五分钟以内准备好！\\n　不然我太寂寞\\n　就会进来房间里的呢』",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "唯",
-    "words": 3
+    "context": "唯"
   },
   {
-    "id": 111713328,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T14:00:00.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_14",
     "original": "「３分で行く！　だから待っててください！」",
     "translation": "「三分钟就行！所以请等下啊！」",
-    "file": 386124,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "context": "太一"
   },
   {
-    "id": 111713329,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T14:00:16.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_15",
     "original": "（元に戻ってるかもとか思ったけど、\\n　今日も変わらずか……）",
     "translation": "（还在想有没有变回来，\\n　看来没变啊……）",
-    "file": 386124,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111713330,
-    "createdAt": "2021-10-18T09:18:16.000Z",
-    "updatedAt": "2021-12-08T14:01:25.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St102_Cp0601.bin_16",
     "original": "（男に怯える桐山を見るよりはよっぽどいいけど、\\n　このままじゃダメだよな、やっぱり……）",
     "translation": "（虽然比恐男的桐山好一点，\\n　但这样下去不行吧，果然……）",
-    "file": 386124,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   }
 ]

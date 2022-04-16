@@ -1,122 +1,53 @@
-﻿[
+[
   {
-    "id": 111703049,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:43:01.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27C2.bin_0",
     "original": "朝",
     "translation": "早上",
-    "file": 385936,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111703050,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:43:03.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27C2.bin_1",
     "original": "伊織の部屋",
     "translation": "伊织的房间",
-    "file": 385936,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111703051,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:43:21.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27C2.bin_2",
     "original": "（『人格入れ替わり』の時、わたしが〈ふうせんかずら〉に\\n　殺されかけたみたいに……誰かが深い傷を負うまで\\n　この現象は止まらないの？）",
     "translation": "（就像『人格交换』的时候，我差点被〈风船葛〉\\n　杀掉一样……在某个人受到严重伤害之前，\\n　这个现象是不会停止的吗？）",
-    "file": 385936,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "伊織",
-    "words": 3
+    "context": "伊織"
   },
   {
-    "id": 111703052,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:43:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27C2.bin_3",
     "original": "（やめてくれよ……\\n　あんな思いをするの、わたしだけで十分だ。\\n　もう誰も傷つけるなよ……）",
     "translation": "（放过我们吧……\\n　那种回忆，只有我一个人有就足够了。\\n　不要再去伤害任何人了……）",
-    "file": 385936,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111703053,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:45:08.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27C2.bin_4",
     "original": "（怖かったんだぞ……本当に……怖かったんだぞ。\\n　あんなツライ思い、みんなに味わわせるなよ……）",
-    "translation": "（那时我真的好害怕……真的……相当的害怕啊。\\n　那种痛苦的回忆，我不要也让大家体验啊……）",
-    "file": 385936,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "translation": "（那时我真的好害怕……真的……相当地害怕啊。\\n　那种痛苦的回忆，不要也让大家体验啊……）",
+    "stage": 3
   },
   {
-    "id": 111703054,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:45:34.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27C2.bin_5",
     "original": "「どうせなら、もう一度わたしが……」",
     "translation": "「实在不行的话，让我再来一次也……」",
-    "file": 385936,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111703055,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:46:27.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27C2.bin_6",
     "original": "（ああ……ダメだ。\\n　わたしよりも早く、\\n　犠牲になろうとする太一が想像できるよ……）",
     "translation": "（啊……不可以。\\n　我已经能想象到太一为我牺牲的样子了……）",
-    "file": 385936,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111703056,
-    "createdAt": "2021-10-18T09:17:00.000Z",
-    "updatedAt": "2021-11-23T10:47:08.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp27C2.bin_7",
     "original": "（みんなのために。太一のために……\\n　『未来予知』は絶対に回避しなきゃ）",
     "translation": "（为了大家。也为了太一……\\n　绝对要回避掉『未来预知』才行）",
-    "file": 385936,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   }
 ]

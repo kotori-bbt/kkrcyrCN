@@ -1,167 +1,72 @@
-﻿[
+[
   {
-    "id": 111701771,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:27:59.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_0",
     "original": "朝",
     "translation": "早上",
-    "file": 385903,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111701772,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:28:01.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_1",
     "original": "伊織の部屋",
     "translation": "伊织的房间",
-    "file": 385903,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111701773,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:28:23.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_2",
     "original": "（未来の映像が一瞬見えるだけだから、\\n　『人格入れ替わり』に比べたらまだマシだけどさ……）",
-    "translation": "（因为只是在一瞬间看见未来的影像，\\n　比起『人格替换』的话还是要好一点……）",
-    "file": 385903,
+    "translation": "（因为只是在一瞬间看见未来的影像，\\n　比起『人格交换』的话还是要好一点……）",
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111701774,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2022-02-04T14:28:51.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_3",
     "original": "（でも、いきなり自分が死んじゃう未来とか、\\n　見せられるかもしれないもんね……\\n　そんなもの見ちゃったら、今度こそわたしは……）",
     "translation": "（但是，自己突然间死去的未来什么的，\\n　也许也能看见吧……\\n　如果看见那么糟糕的东西，我这次一定要……）",
-    "file": 385903,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111701775,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:30:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_4",
     "original": "（ううん、わたしは１人じゃないんだ。\\n　今度こそ、大丈夫って思わなきゃ）",
     "translation": "（不对~，我并不是孤单一人。\\n　这次，我想一定没关系的）",
-    "file": 385903,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111701776,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:39:16.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_5",
     "original": "（そうだよね……わたしは１人じゃない。\\n　うん……みんなと一緒だから、\\n　きっと乗り越えていけるはずだよね？　そうだよね……）",
     "translation": "（就是这样……我并不是孤单一人。\\n　嗯……因为和大家在一起，\\n　一定能挺过去的吧？　就是这样呢……）",
-    "file": 385903,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 4
+    "stage": 5
   },
   {
-    "id": 111701777,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:30:45.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_6",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 385903,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Choice",
-    "words": 1
+    "context": "Choice"
   },
   {
-    "id": 111701778,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:35:02.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_7",
     "original": "「太一はどう思ってるだろう」",
     "translation": "「太一会怎么想呢？」",
-    "file": 385903,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111701779,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-27T09:52:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_8",
     "original": "「稲葉んはどう思ってるだろう」",
     "translation": "「稻叶儿会怎么想呢？」",
-    "file": 385903,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111701780,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:35:09.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_9",
     "original": "「唯はどう思ってるだろう」",
     "translation": "「唯会怎么想呢？」",
-    "file": 385903,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111701781,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:35:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C2.bin_10",
     "original": "「青木はどう思ってるだろう」",
     "translation": "「青木会怎么想呢？」",
-    "file": 385903,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   }
 ]

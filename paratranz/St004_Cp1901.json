@@ -1,287 +1,125 @@
-﻿[
+[
   {
-    "id": 111708639,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_0",
     "original": "５時間目",
     "translation": "第五节课",
-    "file": 386039,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111708640,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2022-01-20T13:12:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_1",
     "original": "１－３教室",
     "translation": "一年三班　教室",
-    "file": 386039,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "stage": 5,
+    "context": "Location"
   },
   {
-    "id": 111708641,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_2",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 386039,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "伊織",
-    "words": 1
+    "context": "伊織"
   },
   {
-    "id": 111708642,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_3",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 386039,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111708643,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_4",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 386039,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111708644,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:42.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_5",
     "original": "（太一はずいぶん顔色が良くなったし、\\n　稲葉んにはわたしの気持ちは伝えてある……）",
     "translation": "（太一的脸色变得好多了，\\n　我的想法也已经传递给稻叶儿了……）",
-    "file": 386039,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111708645,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:46.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_6",
     "original": "（なのに、なんで稲葉んは動かないの？\\n　もう昼休みなのに、朝から一度も\\n　太一に話しかけようとしてない）",
     "translation": "（但是，为什么稻叶儿还不行动呢？\\n　已经都午休了，从早上开始\\n　没有和太一说过一次话吧）",
-    "file": 386039,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111708646,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2022-01-01T15:53:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_7",
     "original": "（むしろ前より距離を置いてる…？）",
-    "translation": "（倒不如说还比原来距离的更远了…？）",
-    "file": 386039,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "translation": "（倒不如说还比原来的距离更远了…？）",
+    "stage": 3
   },
   {
-    "id": 111708647,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:50.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_8",
     "original": "（なんで、稲葉ん？　どうして話しかけないの？）",
     "translation": "（为什么，稻叶儿？　为什么不去搭话呢？）",
-    "file": 386039,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111708648,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:53.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_9",
     "original": "「……わたしにはもう関係ない」",
     "translation": "「……已经跟我没关系了」",
-    "file": 386039,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Choice",
-    "words": 1
+    "context": "Choice"
   },
   {
-    "id": 111708649,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:16:55.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_10",
     "original": "「稲葉んに告白してもらうしかない」",
     "translation": "「必须让稻叶儿去告白」",
-    "file": 386039,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111708650,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:17:02.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_11",
     "original": "（……わたしにはもう関係ない。\\n　後は二人の問題だ）",
     "translation": "（……跟我已经没关系了。\\n　后面就是他们俩人的问题了）",
-    "file": 386039,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111708651,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2022-01-01T15:54:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_12",
     "original": "（でも、黙ってても、うまく行くならいいけど、\\n　うまく行かなかったら……）",
     "translation": "（但是，就算不说话，要是能顺利就没什么，\\n　要是不顺利的话……）",
-    "file": 386039,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111708652,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:17:09.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_13",
     "original": "（このままじゃだめだ）",
     "translation": "（这样是不成的）",
-    "file": 386039,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111708653,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:17:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_14",
     "original": "（稲葉んに告白してもらうしかない）",
     "translation": "（必须让稻叶儿去告白）",
-    "file": 386039,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111708654,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2022-01-20T13:10:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_15",
     "original": "（二人がギクシャクしちゃうなんておかしい）",
-    "translation": "（两人产生隔阂了　，很奇怪啊）",
-    "file": 386039,
-    "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "translation": "（两人产生隔阂了，很奇怪啊）",
+    "stage": 3
   },
   {
-    "id": 111708655,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2022-01-14T17:28:39.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_16",
     "original": "（これは二人の問題かも知れないけど、\\n　二人は付き合うのが正しい形なんだ）",
     "translation": "（虽说这是他们俩人之间的问题，\\n　两人开始交往才是正确的形式）",
-    "file": 386039,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111708656,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:19:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_17",
     "original": "「稲葉ん、今日の放課後、ちょっと時間くれる？\\n　とっても大事な話があるんだ」",
     "translation": "「稻叶儿，今天放学后，能抽出点时间吗？\\n　有很重要的事要对你说」",
-    "file": 386039,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111708657,
-    "createdAt": "2021-10-18T09:17:39.000Z",
-    "updatedAt": "2021-11-28T01:19:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St004_Cp1901.bin_18",
     "original": "「…ああ、わかった」",
     "translation": "「…啊啊，知道了」",
-    "file": 386039,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   }
 ]

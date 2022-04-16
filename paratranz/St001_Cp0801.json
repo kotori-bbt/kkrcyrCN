@@ -1,272 +1,121 @@
-﻿[
+[
   {
-    "id": 111704856,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:39:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_0",
     "original": "「太一、お前は……」",
     "translation": "「太一，你……」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111704857,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:39:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_1",
     "original": "「お前は……残酷な奴だな」",
     "translation": "「你……真是个残酷的家伙」",
-    "file": 385972,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111704858,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:39:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_2",
     "original": "「えっ、残酷？」",
     "translation": "「呃，残酷？」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111704859,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:39:17.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_3",
     "original": "「こんな時に言うかよ。死んでも守るとか……。\\n　どうなっても……知らないからな」",
     "translation": "「这种时候还要说啊。拼死都要守护我什么的…。\\n　会发生什么事情……我可不管了啊」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111704860,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-27T16:57:59.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_4",
     "original": "「ああ、本望だよ」",
     "translation": "「嗯，这是我所期望的」",
-    "file": 385972,
-    "stage": 3,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "stage": 5,
+    "context": "太一"
   },
   {
-    "id": 111704861,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:39:23.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_5",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111704862,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:39:25.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_6",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111704863,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:39:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_7",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111704864,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:39:27.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_8",
     "original": "「あのさ……」",
     "translation": "「那个……」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111704865,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2022-01-19T15:39:03.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_9",
     "original": "「コンコーン、ノックノーック。\\n　おーい、誰かいるかぁ。もっしもーし！」",
     "translation": "「咚咚，Ｋｎｏｃｋ　Ｋｎｏｃｋ～～。\\n　喂～，有人在吗。喂喂！！」",
-    "file": 385972,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "stage": 5,
+    "context": "伊織"
   },
   {
-    "id": 111704866,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:41:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_10",
     "original": "「いや～、ごめんごめん。掃除遅れちゃってさぁ。\\n　ガンコな汚れにご用心みたいな……」",
     "translation": "「哎呀～，对不起。我因为值日来晚了。\\n　我可是对那些顽固的污渍都有用心地去……」",
-    "file": 385972,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111704867,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-27T16:58:15.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_11",
     "original": "「てかわたし、もう来てよかったのかな……？\\n　もしかして、まだだった？」",
     "translation": "「话说我，是不是来得不是时候……？\\n　或许，应该再等等……？」",
-    "file": 385972,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111704868,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:43:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_12",
     "original": "「あー、そだ。わたしちょっと唯と青木の様子見てくる。\\n　どこかで迷子になってるかもしれないし！」",
-    "translation": "「啊，对了。我去先看一下唯和青木怎么样了去。\\n　说不定他们在哪里迷路了！」",
-    "file": 385972,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "translation": "「啊，对了。我去先看一下唯和青木怎么样了吧。\\n　说不定他们在哪里迷路了！」",
+    "stage": 3
   },
   {
-    "id": 111704869,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:43:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_13",
     "original": "「じゃあ、また後で！」",
     "translation": "「那么，待会见！」",
-    "file": 385972,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 111704870,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:43:25.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_14",
     "original": "「永瀬……？　どうしたんだろう？」",
     "translation": "「永濑……？　怎么了吗？」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "context": "太一"
   },
   {
-    "id": 111704871,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:43:31.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_15",
     "original": "「痛っ。\\n　な、なにするんだよ、稲葉……？」",
     "translation": "「好疼。\\n　你，你做什么啊，稻叶……？」",
-    "file": 385972,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111704872,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:44:11.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_16",
     "original": "「いいから、黙って殴られとけ」",
     "translation": "「别管了，你就让我打一下吧」",
-    "file": 385972,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111704873,
-    "createdAt": "2021-10-18T09:17:13.000Z",
-    "updatedAt": "2021-11-21T08:44:19.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St001_Cp0801.bin_17",
     "original": "「勘違いするなよ。\\n　今のは……伊織の分だからな」",
     "translation": "「不要搞错了。\\n　刚才……那是伊织的份」",
-    "file": 385972,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   }
 ]
