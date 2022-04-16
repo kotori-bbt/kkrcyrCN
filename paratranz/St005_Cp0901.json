@@ -31,14 +31,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_4",
     "original": "「つい、で人のお昼の邪魔しないでよね」",
     "translation": "「不要一没注意到，就影响别人的午餐啊」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_5",
     "original": "「藤島が何か企んでいると思ってな。\\n　アタシたちなりに動こうとしたんだが」",
     "translation": "「因为感觉到藤岛暗地里有什么小算盘。\\n　所以我们也就必须要有点行动」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -51,8 +51,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_7",
     "original": "「ああ、その通りだな。返す言葉もない」",
-    "translation": "「啊啊，那样才行。我无言以对」",
-    "stage": 5,
+    "translation": "「啊啊，那样才对。我无法反驳」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -79,8 +79,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_11",
     "original": "「でも、そこまで心配することなのか？\\n　大沢って、結構いいヤツだし、\\n　友達として付き合うにはもってこいだと思うが」",
-    "translation": "「但是，是值得那么担心的事吗？\\n　大泽同学，人相当好啊，\\n　作为朋友而相处感觉很合适的」",
-    "stage": 5,
+    "translation": "「但是，是值得那么担心的事吗？\\n　大泽同学，人相当好啊，\\n　作为朋友来相处感觉很合适的」",
+    "stage": 3,
     "context": "太一"
   },
   {
@@ -113,7 +113,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_16",
     "original": "「まさか、本格的に、そっちの道に走ろうとか、\\n　そういう意味じゃないよね！？」",
     "translation": "「该不会，认真地，要走上那条道路，\\n　不会这样吧！？」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {
@@ -162,7 +162,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_23",
     "original": "（青木？　ずっと黙ってたのに、急になんなの）",
     "translation": "（青木？　一直都是沉默着，突然想到什么了吗）",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -190,14 +190,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_27",
     "original": "（あ……。そう言えば、\\n　青木がちゃんと喋ったのって久しぶりかも）",
     "translation": "（啊……。说起来，\\n　青木好像好久没正经地说过话了）",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_28",
     "original": "（ここしばらく、ああ、とか、うん、とか、\\n　そんな単語ばっかで素っ気なかったし……）",
     "translation": "（之前一阵，啊啊，什么的，嗯，什么的，\\n　也就说说这些单词罢了……）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_29",
@@ -209,7 +209,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_30",
     "original": "「なあ、あの子はただの友達だよな？\\n　恋愛対象はあくまで男、っていうか、オレだよな？\\n　オレだよね？」",
     "translation": "「那，跟那女生只是朋友吧？\\n　恋爱对象肯定是男生，不如说，是我吧？\\n　是我没错吧？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -258,13 +258,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_37",
     "original": "「そりゃ、まあ……唯がああいう顔、\\n　オレの前でしてくれたことなかったから……」",
     "translation": "「那是因为，嘛……唯那种表情，\\n　从来没在我面前流露过……」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_38",
     "original": "「ああいう顔、って？\\n　あたし、今と違う顔してたの？」",
-    "translation": "「那种表情，是什么？\\n　我，跟现在的表情有什么不一样吗？」",
+    "translation": "「那种表情，是什么？\\n　我现在的表情，有什么不一样吗？」",
     "stage": 3,
     "context": "唯"
   },
@@ -272,34 +272,34 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_39",
     "original": "「うん。休み時間とか、昼とかね。\\n　女子間で、ああいう風に笑ってると、\\n　ああ、割って入れないな、って感じになるよ」",
     "translation": "「嗯。课间时候什么的，午休时候什么的。\\n　在女生间，那样的笑着，\\n　啊啊，加入不进去啊，就是这种感觉」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_40",
     "original": "「それに、唯はまだ男性恐怖症を乗り越えてないから\\n　あんまり強引に迫ったら、\\n　かえって怖がるかと思って……」",
     "translation": "「而且，唯还没有克服男性恐惧症\\n　太过于强硬地接近的话，\\n　你反而会觉得可怕的吧……」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_41",
     "original": "（青木……\\n　そこまで考えてくれてたんだ……）",
     "translation": "（青木……\\n　居然那么为我着想……）",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_42",
     "original": "「ほう……\\n　少しは考えるということを学習したようだな」",
     "translation": "「哎……\\n　终于学会稍微多想想啦」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_43",
     "original": "「唯がマジで嫌がることはしたくないし。\\n　それに、まさか唯が女の子と付き合うことは\\n　ないだろって思ったから」",
     "translation": "「会让唯讨厌的事情真的不想做。\\n　而且，也从来没想过\\n　唯会跟女生交往」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -312,13 +312,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_45",
     "original": "「だから、ここで宣誓させてもらいます！」",
     "translation": "「所以说，我在这宣誓！」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_46",
     "original": "「オレは唯が好きです！\\n　唯をそっちの道には行かせません！\\n　唯を射止めるのは、このオレです！」",
     "translation": "「我喜欢唯！\\n　不能让唯走上那条道路！\\n　能让唯倾心的，只能是我啊！」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_47",
@@ -336,8 +336,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_49",
     "original": "（青木が静かなら物足りないし、迫られたら鬱陶しい。\\n　身勝手すぎるよね……）",
-    "translation": "（青木安静的时候感觉不太够，行动起来又有点烦。\\n　这么想太过于自私了吧……）",
-    "stage": 5
+    "translation": "（青木安静的时候感觉不太好，行动起来又有点烦。\\n　这么想太过于自私了吧……）",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_50",
@@ -348,7 +348,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_51",
     "original": "（どうしようもなく、身勝手だ……）",
-    "translation": "（非常的，自私啊……）",
-    "stage": 5
+    "translation": "（非常地，自私啊……）",
+    "stage": 3
   }
 ]
