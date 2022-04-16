@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull from Paratranz
-        run: 'wget -O latest.zip --header="Authorization: b2a8dfb6083206a67c55dff92683866e" https://paratranz.cn/api/projects/3318/artifacts/download'
+        run: 'wget -O latest.zip --header="Authorization: 78a7edf21e3b6d9084e2e0cb66f67f55" https://paratranz.cn/api/projects/3318/artifacts/download'
       - name: Setup Python
         run: |
           python -m pip install --upgrade pip
