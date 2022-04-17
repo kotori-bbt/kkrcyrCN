@@ -42,15 +42,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_6",
     "original": "「青木……あんたがこんなに早いなんて意外ね。\\n　珍しく早起きしたの？」",
-    "translation": "「青木……这么早真是意外啊。\\n　少见的早起了吗？」",
-    "stage": 5,
+    "translation": "「青木……这么早真是意外啊。\\n　少见地早起了吗？」",
+    "stage": 3,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_7",
     "original": "「おう。唯と一緒に学校行きたいと思って\\n　目覚まし３個セットしたよ」",
     "translation": "「嗯。为了能跟唯一起上学\\n　我可是设了3个闹钟」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -90,7 +90,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_13",
     "original": "「青木に話があるの」",
     "translation": "「我有些话要对青木说」",
-    "stage": 3,
+    "stage": 5,
     "context": "Choice"
   },
   {
@@ -103,13 +103,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_15",
     "original": "「大沢さんに話があるの」",
     "translation": "「我有些话要对大泽同学说」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_16",
     "original": "「青木に話があるの」",
     "translation": "「我有些话要对青木说」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -137,7 +137,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_20",
     "original": "「嫌いだからとかそういうんじゃないからね？\\n　大沢さんは、あたしの大事な友達だよ」",
     "translation": "「不是因为讨厌你什么之类的啊？\\n　大泽同学是，我非常重要的朋友」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -151,7 +151,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_22",
     "original": "「よ……よかったの？\\n　少なくとも、あの子のこと、\\n　嫌い……じゃなかったよね」",
     "translation": "「这……这样好吗？\\n　至少，那个女孩，\\n　你不讨厌……的吧」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -164,8 +164,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_24",
     "original": "「でも、今話したいのは、あんただから」",
-    "translation": "「但是，现在有话说的，是跟你」",
-    "stage": 5
+    "translation": "「但是，现在我有话想说，和你」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_25",
@@ -185,13 +185,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_27",
     "original": "「あ、ああ……。\\n　唯が来いって言うなら、\\n　オレはどこにでも行くけど」",
     "translation": "「啊，啊啊……\\n　唯说让我去的话，\\n　我到哪都会去的」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_28",
     "original": "「みんなが来ないうちに行きましょ」",
-    "translation": "「趁大家还没来的之前快走吧」",
+    "translation": "「趁大家还没来之前快走吧」",
     "stage": 3,
     "context": "唯"
   },
@@ -206,13 +206,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_30",
     "original": "「大沢さんに話があるの」",
     "translation": "「我有些话要对大泽同学说」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_31",
     "original": "「え？　わたしに話？\\n　な、なに？」",
-    "translation": "「诶？　有话对我说？\\n　什，什么呢？」",
+    "translation": "「诶？　有话对我说？\\n　是，是什么呢？」",
     "stage": 3,
     "context": "大沢"
   },
@@ -248,7 +248,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_36",
     "original": "「うん。でもね、それでも青木ってあたしを責めずに\\n　何度でも声をかけてくれるんだ」",
     "translation": "「嗯。但是，就算这样青木也不会责骂我，\\n　无论何时都会跟我搭话的」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -280,8 +280,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_41",
     "original": "「でも……もう少し大沢さんのことが知りたいなって\\n　思うようになってきた。\\n　だから、また、一緒にご飯食べたりしませんか？」",
-    "translation": "「但是……我还想更加了解一些\\n　大泽同学的事。\\n　所以，再次，一起吃午饭吗？」",
-    "stage": 5
+    "translation": "「但是……我还想更多地了解一些\\n　大泽同学的事。\\n　所以，再次，一起吃午饭吗？」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_42",
@@ -343,24 +343,24 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_50",
     "original": "あたし、女の子に逃げようとしてた。\\nそれを大沢さんに気付かれた。",
     "translation": "我，往女生那边逃避了。\\n这个大泽同学也注意到了吧。",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_51",
     "original": "そりゃ、いい気はしないよね。\\n大沢さんを理由にして男性恐怖症から逃げようと\\nしてるんだもん。",
-    "translation": "这么做我也觉得不太好。\\n以大泽同学为理由而从男性恐惧症那里\\n逃避。",
+    "translation": "我也觉得这么做不太好。\\n以大泽同学为理由而从男性恐惧症那里\\n逃避。",
     "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_52",
     "original": "あたしは大沢さんと仲良くしたい。\\nでも、今すぐに青木と仲直りなんて難しくて……",
     "translation": "我想跟大泽同学关系更好。\\n但是，现在立刻跟青木和好还很困难……",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1501.bin_53",
     "original": "今日、学校が終わったあたしは、\\n逃げるように家に帰った……",
     "translation": "今天，我在放学之后，\\n像逃避这什么似的回家了……",
-    "stage": 3
+    "stage": 5
   }
 ]

@@ -51,7 +51,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_7",
     "original": "「ああ、その通りだな。返す言葉もない」",
-    "translation": "「啊啊，那样才对。我无法反驳」",
+    "translation": "「啊啊，正是如此。我无法反驳」",
     "stage": 3,
     "context": "稲葉"
   },
@@ -264,7 +264,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp0901.bin_38",
     "original": "「ああいう顔、って？\\n　あたし、今と違う顔してたの？」",
-    "translation": "「那种表情，是什么？\\n　我现在的表情，有什么不一样吗？」",
+    "translation": "「那种表情，是什么意思？？\\n　我现在的表情，有什么不一样吗？」",
     "stage": 3,
     "context": "唯"
   },

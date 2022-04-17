@@ -24,7 +24,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_3",
     "original": "「いない……と思うけど。\\n　唯、オレに話って……」",
     "translation": "「我觉得……是没有人在。\\n　唯，要跟我说……」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -38,27 +38,27 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_5",
     "original": "「え？」",
     "translation": "「诶？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_6",
     "original": "「青木は、あたしの男性恐怖症を気遣って\\n　あたしに近づかないようにまでしてくれたのに……」",
     "translation": "「青木，明明一直都很在意我的男性恐惧症\\n　所以才不会贸然接近我的……」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_7",
     "original": "「気付かないどころか、\\n　逆にイライラして、当たり散らして。\\n　本当に、ごめんなさい」",
     "translation": "「我不只是没注意到，\\n　反而很烦躁，乱发脾气。\\n　真的感到，对不起」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_8",
     "original": "「ゆ、唯。謝る必要なんてないって。\\n　オレが勝手にやったことなんだから」",
     "translation": "「唯，唯。没必要道歉的。\\n　只是我想这么做罢了」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -71,7 +71,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_10",
     "original": "「結果的に唯を無視する形になった。\\n　ゴメン……」",
     "translation": "「最后变成了无视唯。\\n　对不起……」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_11",
@@ -103,7 +103,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_15",
     "original": "「いーや。\\n　自己犠牲野郎の太一には負ける。\\n　唯を好きな気持ちなら勝てるけどな！」",
-    "translation": "「不ー不。\\n　这点还是不如自我牺牲笨蛋的太一啊。\\n　可是如果论喜欢唯的感情的话我肯定比他强的！」",
+    "translation": "「不ー不。\\n　这点还是不如自我牺牲的笨蛋太一啊。\\n　可是如果论喜欢唯的感情的话我肯定比他强的！」",
     "stage": 3,
     "context": "青木"
   },
@@ -131,14 +131,14 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_19",
     "original": "「ありがとう青木。あたしが嫌がっても、\\n　ずっとあたしのこと心配してくれて。\\n　だから、あたしは青木を助けたい」",
-    "translation": "「谢谢青木。就算我没说过需要，\\n　你也在一直为我担心。\\n　所以，我想要帮助青木」",
+    "translation": "「谢谢你青木。就算被我嫌弃，\\n    你也一直在担心我。\\n    所以，我想帮助青木」",
     "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_20",
     "original": "「え？」",
     "translation": "「诶？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -159,7 +159,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_23",
     "original": "「これからだって、\\n　太一たちが一緒なら何とか回避出来るって。\\n　だから、唯は来なくていい」",
     "translation": "「这不是才正打算这么做嘛，\\n    太一他们会跟着的，肯定能回避掉的。\\n    所以，唯不用一起来也行的」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_24",
@@ -172,7 +172,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_25",
     "original": "「う……。\\n　でも、唯は、男が……」",
     "translation": "「唔……\\n　但是，唯，对男生……」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -186,20 +186,20 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_27",
     "original": "「だけど、その方法が全然思い付かない。\\n　だから、青木も一緒に考えてくれない？」",
     "translation": "「但是，完全想不到有什么办法。\\n　所以，青木也跟我一起想想吧？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_28",
     "original": "「もちろん！\\n　唯に頼まれたならいくらでも考えるよ！」",
     "translation": "「当然！\\n　就算唯不拜托我我也会考虑的啊！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_29",
     "original": "「あー、でも……。\\n　知恵だったら稲葉っちゃんのほうが……。\\n　男性恐怖症を軽くしたのは太一だし……」",
     "translation": "「啊ー，但是……\\n　论聪明的话还是稻叶更……\\n　让你的男性恐惧症变轻的也是太一……」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_30",
@@ -224,13 +224,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_33",
     "original": "「青木の気持ちに応えられないのに\\n　都合のいいお願いだと思うけど……。\\n　頼っても、いい？」",
     "translation": "「明明还没有回复青木的感情\\n　还提出这么自私的愿望……\\n　可以拜托你，吗？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_34",
     "original": "「当たり前だろ！\\n　唯に頼まれて嫌って言ったこと、\\n　これまでに１度でもあった！？」",
-    "translation": "「当然！\\n　被唯拜托了而说不愿意，\\n　我之前有过吗！？」",
-    "stage": 5,
+    "translation": "「当然！\\n　被唯拜托了却说不愿意，\\n　我之前有过吗！？」",
+    "stage": 3,
     "context": "青木"
   },
   {
@@ -250,7 +250,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1601.bin_37",
     "original": "「よし！\\n　放課後までに何か考えておく！\\n　だから期待しててくれよ唯！」",
     "translation": "「好了！\\n　到放学前我会想出办法的！\\n　所以到时候就期待着吧唯！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {

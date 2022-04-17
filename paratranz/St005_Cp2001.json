@@ -79,14 +79,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_11",
     "original": "「誤解してるようだから言うけど、\\n　大沢さんとはなんでもないから。\\n　本当に、ただのいい友達なんだ」",
     "translation": "「为了不让你误会我先说明一下，\\n　我跟大泽同学之间什么都没有。\\n　真的，只是朋友而已」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_12",
     "original": "「じゃあやっぱり、オレが特別……」",
     "translation": "「那么果然，我才是特别的……」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -100,7 +100,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_14",
     "original": "「えー？\\n　でも、長い時間２人っきりってのはオレが\\n　初めてなんだろ？」",
     "translation": "「诶ー？\\n　但是，我是第一个与唯长时间两人独处的\\n　人吧？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -114,13 +114,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_16",
     "original": "「じゃ、じゃあ……。\\n　手、つないでいい？」",
     "translation": "「那，那么……\\n　牵手，可以吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_17",
     "original": "「ば、バカ……！\\n　そういうのは、さりげなくやるもんじゃないの？\\n　って別にいいって言ってるわけじゃなくて！」",
-    "translation": "「笨，笨蛋……！\\n　这种事，就是要若无其事似的做才行吧？\\n　再说了，我也没说可以！」",
+    "translation": "「笨，笨蛋……！\\n　这种事，就是要若无其事似地做才行吧？\\n　再说了，我也没说可以！」",
     "stage": 3,
     "context": "唯"
   },
@@ -134,8 +134,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_19",
     "original": "「ひょろ長い兄ちゃん、可愛い彼女連れてんなあ」",
-    "translation": "「那边那个个高的小哥，女朋友相当可爱啊」",
-    "stage": 5,
+    "translation": "「那边那个个高的小哥，你女朋友相当可爱啊」",
+    "stage": 3,
     "context": "不良Ａ"
   },
   {
@@ -191,7 +191,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_27",
     "original": "「お前も可愛い彼女を、しかも２人も連れてるなあ。\\n　片方寄越せよ。\\n　いや、両方をだな」",
     "translation": "「你这家伙的女朋友也相当漂亮啊，而且还带着两个人。\\n　给我一个吧。\\n　不，两个都给我吧」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良Ｄ"
   },
   {
@@ -233,7 +233,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_33",
     "original": "「余計なことしてんじゃねえよ！」",
     "translation": "「别多管闲事！」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良Ｄ"
   },
   {
@@ -254,7 +254,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_36",
     "original": "「雑魚が。そこで寝てろ。\\n　おい、こいつの彼女たちが\\n　人連れてくるってよ」",
     "translation": "「杂鱼。躺那吧。\\n　喂，这家伙的女朋友们\\n　去叫人了啊」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良Ｄ"
   },
   {
@@ -282,7 +282,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_40",
     "original": "（怖い！\\n　あの時……。\\n　あの男に襲われた時と、おんなじ……！）",
     "translation": "（好可怕！\\n　跟那个时候……\\n　被那个男的袭击时，一模一样……！）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_41",
@@ -302,28 +302,28 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_43",
     "original": "「やめろ！　唯に触るな！」",
     "translation": "「住手！　不许碰唯！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_44",
     "original": "「じゃあ、彼女、行こうぜ……。\\n　って、何カッコつけてんだ？\\n　俺らの邪魔しようっての？」",
     "translation": "「那么，美女，走吧……\\n　喂，你装什么？\\n　你想妨碍我们？」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良Ｃ"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_45",
     "original": "「ばっ……。\\n　あんたは逃げなさいよ！\\n　予知通りになっちゃうでしょ！」",
     "translation": "「笨蛋……\\n　你快跑呀！\\n　这样下去就会跟预知一样了啊！」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_46",
     "original": "「唯には……。\\n　指一本触れさせない！」",
     "translation": "「唯的……\\n　唯的手指你们一根也别想碰！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -385,7 +385,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_55",
     "original": "「ぐ……ふっ」",
     "translation": "「咕……啊」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良Ｃ"
   },
   {
@@ -406,7 +406,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_58",
     "original": "「徹底的に痛い目に遭わせてやるぜ！」",
     "translation": "「这回得让你吃点苦头！」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良Ａ"
   },
   {
@@ -434,13 +434,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_62",
     "original": "「指一本……」",
     "translation": "「碰到唯……」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_63",
     "original": "「触れさせない……！」",
     "translation": "「一根手指……！」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_64",
@@ -453,27 +453,27 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_65",
     "original": "「くっそ……。\\n　こいつ、ゾンビかよ」",
     "translation": "「可恶……\\n　这家伙是僵尸吗」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良Ｂ"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_66",
     "original": "「唯に……」",
     "translation": "「唯她……」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_67",
     "original": "「手を……」",
     "translation": "「不可以……」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_68",
     "original": "「出すな……！」",
     "translation": "「碰……！」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_69",
@@ -486,7 +486,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_70",
     "original": "（あたしは……何してんのよ！\\n　青木を助けるって言った、\\n　あれはウソなの！？）",
     "translation": "（我到底……在做什么啊！\\n　明明说好了要帮青木的，\\n　那都是骗人的吗！？）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_71",
@@ -498,7 +498,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_72",
     "original": "（あたしのことを思って、\\n　身を引こうとすらしてくれていた）",
     "translation": "（为了我，\\n　都已经做好牺牲自己的准备了）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_73",
@@ -510,19 +510,19 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_74",
     "original": "（恐怖に負けちゃいけない！\\n　『青木のため』に、できることをする！）",
     "translation": "（不能向恐惧低头啊！\\n　『为了青木』啊，我一定要做些什么！）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_75",
     "original": "「よくも……青木を……。\\n　ひどい目に、遭わせてくれたわね……」",
-    "translation": "「真是……让青木……\\n　遭受了，这么惨的经历……」",
-    "stage": 5
+    "translation": "「真是……让青木……\\n　经历了这么悲惨的事情……」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp2001.bin_76",
     "original": "「ばっ……！\\n　やめろ、唯！\\n　唯が傷ついたら、オレは……！」",
     "translation": "「啊……！\\n　住手，唯！\\n　要是唯受伤了的话，我……！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
