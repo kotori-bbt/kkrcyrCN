@@ -38,7 +38,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_5",
     "original": "「そりゃかなわない訳だ…」",
     "translation": "「那样的话当然是打不过了…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -72,21 +72,21 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_10",
     "original": "「それより唯こそ大丈夫？\\n　怪我とかしてね？」",
-    "translation": "「话说唯才是 没事吧？\\n　没有伤着吧？」",
+    "translation": "「话说唯才是没事吧？\\n　没有伤着吧？」",
     "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_11",
     "original": "「うん…ぶつかって倒れただけ…\\n　ちょっと服が汚れちゃったかな…」",
     "translation": "「嗯…就是撞了一下摔倒了…\\n　衣服有点脏了…」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_12",
     "original": "「よかった…」",
     "translation": "「太好了…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -100,7 +100,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_14",
     "original": "「オレ…唯に何かあったら…\\n　それこそどうにかなっちまうところ…」",
     "translation": "「我…要是让唯出了什么事…\\n　我才是真的追悔莫及…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -121,7 +121,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_17",
     "original": "「なんで…謝るの？」",
     "translation": "「为什么要…道歉呢？」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -141,25 +141,25 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_20",
     "original": "「あの時、唯の気持ちにちゃんと気がつけてたら\\n　こんな事にならなかったかもしれないのに…」",
     "translation": "「当时我要是注意到唯的感受的话\\n　也许就不会变成这样了…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_21",
     "original": "「本当…ごめん…」",
     "translation": "「真的…很抱歉…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_22",
     "original": "「あたしこそ、ごめん」",
     "translation": "「我才是，抱歉」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_23",
     "original": "「今回の事で自分がどれだけ大切に思われてるか…\\n　とっても、とってもよくわかった…」",
-    "translation": "「因为这次的事才知道自己被看得多么重要…\\n　非常，非常清楚的知道了…」",
+    "translation": "「因为这次的事才知道自己被看得多么重要…\\n　非常，非常清楚地知道了…」",
     "stage": 3
   },
   {
@@ -179,7 +179,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_26",
     "original": "「あ…う、うん…」",
     "translation": "「啊…唔，嗯…」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -192,7 +192,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_28",
     "original": "「大した事ある！\\n　青木がこんなになって！」",
-    "translation": "「是大事！\\n　青木你都这个样子了！」",
+    "translation": "「是大事啊！\\n　青木你都这个样子了！」",
     "stage": 3,
     "context": "唯"
   },
@@ -200,13 +200,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_29",
     "original": "「だから大丈夫だって」",
     "translation": "「都说没事啦」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_30",
     "original": "「唯がそんなに心配してくれるんなら\\n　もう少しやられときゃよかったか？」",
-    "translation": "「早知道唯会这么担心我\\n　我再受重点伤就好了」",
+    "translation": "「早知道唯会这么担心我\\n　我再伤得重点就好了」",
     "stage": 3
   },
   {
@@ -275,7 +275,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_40",
     "original": "「それじゃ唯、青木の事は任せたぞ？」",
     "translation": "「那唯，青木就交给你了哦？」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -295,7 +295,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_43",
     "original": "「お！　めずらしく稲葉っちゃんが誉めてくれた！」",
-    "translation": "「哦！能听到稻叶酱的夸奖真罕见！」",
+    "translation": "「哦！能听到稻叶酱的夸奖真罕见啊！」",
     "stage": 3,
     "context": "青木"
   },
@@ -316,21 +316,21 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_46",
     "original": "「ああ、またな青木、桐山」",
     "translation": "「啊啊，再见了青木，桐山」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_47",
     "original": "「気をつけて帰るんだよ～」",
     "translation": "「回家路上要小心啊～」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_48",
     "original": "「調書っておまわりさんに色々質問されるアレでしょ？\\n　なんか面倒くさいなぁ…」",
     "translation": "「做笔录的话好像要被巡警问各种各样的事情吧？\\n　感觉好麻烦啊…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_49",
@@ -357,7 +357,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_52",
     "original": "「おいおい、なら戻って二人を送るべきなんじゃ…」",
     "translation": "「喂喂，那我们不应该送送他们俩吗…」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
@@ -377,8 +377,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1501.bin_55",
     "original": "「おまえ結構にぶいな？」",
-    "translation": "「你很迟钝吧？」",
-    "stage": 5,
+    "translation": "「你很迟钝啊？」",
+    "stage": 3,
     "context": "稲葉"
   },
   {

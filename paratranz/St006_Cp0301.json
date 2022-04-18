@@ -57,7 +57,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_8",
     "original": "（明らかに唯が変だ！\\n　絶対に何かある！）",
     "translation": "（唯明显很奇怪！\\n　绝对是发生了什么！）",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -78,20 +78,20 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_11",
     "original": "「なんでもあるだろ？」",
     "translation": "「肯定有发生什么了吧？」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_12",
     "original": "「ずいぶん遅れて来たかと思えば\\n　デカい溜息ばかりついて」",
-    "translation": "「不仅来的很晚，\\n　还一直在大叹气」",
-    "stage": 5
+    "translation": "「不仅来得很晚，\\n　还一直在大叹气」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_13",
     "original": "「そそ、そんな事ないってば！」",
     "translation": "「才才，才没有这种事！」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -146,7 +146,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_21",
     "original": "「余計な事かもしれないけど…\\n　その…心配だから聞くぞ…」",
     "translation": "「虽然我可能属于多管闲事了…\\n　但那个…我是因为担心你才问的哦…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -160,7 +160,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_23",
     "original": "「あの子に…その…何かされたのか…？\\n　大沢美咲さんに…」",
     "translation": "「那个人…那个…对你做了什么…？\\n　那个大泽美咲」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -215,7 +215,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_31",
     "original": "「そういや朝…\\n　校舎裏で大沢美咲とコソコソ話をしてたのを見たぞ…」",
     "translation": "「这么说…\\n　早上我们看到你们在校舍后面偷偷摸摸谈话了哦…」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -235,8 +235,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_34",
     "original": "「違う違う！　アレはそんなじゃないよ！」",
-    "translation": "「不是不是！　那个不关那事！」",
-    "stage": 5,
+    "translation": "「不是不是！　这个不关那事！」",
+    "stage": 3,
     "context": "唯"
   },
   {
@@ -341,14 +341,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_49",
     "original": "「ＴＰＯはわきまえているつもりだが？」",
     "translation": "「我可是知道你在什么时候在哪里又干了什么的哦？」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0301.bin_50",
     "original": "「唯！　悩みなら分かち合おう！」",
     "translation": "「唯！　有烦恼的话跟我们分担一下吧！」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {

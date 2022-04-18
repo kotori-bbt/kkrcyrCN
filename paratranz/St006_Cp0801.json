@@ -42,7 +42,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_6",
     "original": "「思い出したくないな…\\n　まさに男じゃないと理解できない感覚だった、うん」",
     "translation": "「我不想再去回忆了…\\n　不愧是只有男生才能理解的感觉，嗯」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_7",
@@ -87,7 +87,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_13",
     "original": "「いや、稲葉っちゃんは味わってないから\\n　そう思えるのであって…」",
-    "translation": "「不，稻叶酱是因为没尝过\\n　所以才敢这么说……」",
+    "translation": "「不，稻叶酱是因为没体验过\\n　所以才敢这么说……」",
     "stage": 3,
     "context": "青木"
   },
@@ -196,8 +196,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_29",
     "original": "「く、食らった相手の事を考えるだけで\\n　めまいがする…」",
-    "translation": "「一，一想到吃这下的那人\\n　头就开始晕了啊…」",
-    "stage": 5,
+    "translation": "「一，一想到吃到这下的那人\\n　头就开始晕了啊…」",
+    "stage": 3,
     "context": "太一"
   },
   {
@@ -224,8 +224,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_33",
     "original": "「ならアタシもいざという時のために\\n　練習するか…」",
-    "translation": "「那我为了以防万一\\n　练练吧…」",
-    "stage": 5,
+    "translation": "「那我为了以防万一\\n　也练练吧…」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -287,7 +287,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_42",
     "original": "「大体、青木も青木よ…\\n　突然あたしの男性恐怖症を直そうだなんて…」",
     "translation": "「而且，青木还是那个青木啊…\\n　突然要改掉我的男性恐惧症什么…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_43",
@@ -306,7 +306,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_45",
     "original": "「ほら図星…」",
     "translation": "「你看我猜中…」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -320,13 +320,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_47",
     "original": "「そんなつもりはまったく無いよ。\\n　オレは本気で克服して欲しいんだ」",
     "translation": "「我没想过这个。\\n　我是真的想帮你克服」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_48",
     "original": "「な、なによ…\\n　急に真面目な声になっちゃって…」",
-    "translation": "「干，干嘛啊…\\n　突然说的那么认真…」",
-    "stage": 5,
+    "translation": "「干，干嘛啊…\\n　突然说得那么认真…」",
+    "stage": 3,
     "context": "唯"
   },
   {
@@ -398,7 +398,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_59",
     "original": "（あんな姿…死んでも見たくない…）",
     "translation": "（那个样子…让我死也不想看到…）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_60",
@@ -418,7 +418,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_62",
     "original": "「ダメだ…寒気がしてきた…もう帰らないか…？」",
     "translation": "「不行…我感到一阵寒意…先回家吧…？」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
@@ -453,14 +453,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_67",
     "original": "「なら一緒に帰ろ～！\\n　と、言うか荷物を持って欲しいので～す」",
     "translation": "「那一起回去吧！\\n　想让你帮我拿包的～说」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_68",
     "original": "「俺は一刻も早く\\n　ここから離れられれば何でもいい…」",
-    "translation": "「就算只是早一分钟\\n　我也怎么样都要离开这地方…」",
-    "stage": 5,
+    "translation": "「就算只是早一分钟\\n　我也无论如何都要离开这地方…」",
+    "stage": 3,
     "context": "太一"
   },
   {
@@ -618,7 +618,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_91",
     "original": "「ああ、そんなところだ。\\n　気にせず唯と帰ってくれ」",
     "translation": "「啊啊，是这样啊。\\n　不用在意你接着陪唯回家吧」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -707,7 +707,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_104",
     "original": "「だからって四六時中張り付いてるつもりか？」",
     "translation": "「所以你打算一天到晚都守着吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -720,7 +720,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_106",
     "original": "「おまえの行動が原因で起こるかもしれないんだぞ？」",
-    "translation": "「你的行动可能就会是导致发生的原因哦？」",
+    "translation": "「你的行动可能就会是导致它发生的原因哦？」",
     "stage": 3,
     "context": "稲葉"
   },
@@ -728,7 +728,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_107",
     "original": "「そんな事はわかってる！\\n　だからって放っておけるか！」",
     "translation": "「这种事我清楚！\\n　但那是要我就这样置之不理了吗！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -775,20 +775,20 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_114",
     "original": "「さっきも言った通り\\n　阻止しようとする事がトリガーになる可能性もある」",
-    "translation": "「刚才我也说了\\n　可能就是因为你要阻止才触发了事情」",
-    "stage": 5
+    "translation": "「刚才我也说了\\n　可能就是因为你要阻止才触发了事件」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_115",
     "original": "「だから最少人数で慎重に対処するべき…」",
-    "translation": "「所以需要最少人数下慎重处理…」",
-    "stage": 5
+    "translation": "「所以需要在最少人数下慎重处理…」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_116",
     "original": "「この事はここだけの話にしておこう」",
     "translation": "「这件事就我们两个之间知道吧」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0801.bin_117",

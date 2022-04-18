@@ -38,7 +38,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1102.bin_5",
     "original": "「はぁぁ……良かったぁ。\\n　オレ、少しは唯の力になれたんだよな？」",
     "translation": "「哈啊啊……太好了啊。\\n　我有帮上唯一点忙吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -52,7 +52,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1102.bin_7",
     "original": "「それは、間違いなく青木と太一のおかげだと思う。\\n　だから……２人ともありがとう」",
     "translation": "「那也肯定是多亏了太一和青木啊。\\n　所以……谢谢你们」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1102.bin_8",
@@ -118,7 +118,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1102.bin_17",
     "original": "オレが見たいのはそういう未来じゃないんだよなぁ。\\n……ま、〈ふうせんかずら〉がオレの望む未来を\\n見せてくれるとは思ってねーけど",
     "translation": "我想看到的不是这样的未来啊。\\n……嘛，〈风船葛〉也不会\\n让我们看到想要的未来吧",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1102.bin_18",

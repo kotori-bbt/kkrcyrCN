@@ -10,7 +10,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_1",
     "original": "「そんじゃオレらも帰るか…」",
     "translation": "「那咱们也回家吧…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_2",
@@ -61,7 +61,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1601.bin_9",
     "original": "「おわ！　いてて！　いきなり引っ張らないで！」",
     "translation": "「啊哇！痛！不要这么突然拉我啊！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {

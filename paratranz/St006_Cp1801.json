@@ -17,14 +17,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_2",
     "original": "（またまた数日後…）",
     "translation": "（又过了几天…）",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_3",
     "original": "「青木がボロ雑巾になってる予知以降\\n　他の予知を見た者はいるか？」",
     "translation": "「青木变成破抹布的预知以后\\n　还有没有人看到过其他的预知？」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -52,7 +52,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_7",
     "original": "「同じく」",
     "translation": "「同上」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -80,7 +80,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_11",
     "original": "「っと言う事は青木と唯の言う通り\\n　今回の〈ふううせんかずら〉の企みは終わったって事かな？」",
     "translation": "「那就像青木和唯说的一样\\n　这次〈风船葛〉的阴谋结束了吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {
@@ -107,7 +107,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_15",
     "original": "「だとしたら今回の目的はわたしたちに予知を見せて\\n　アタフタするのを楽しんでたって事？」",
     "translation": "「那这次的目的就是给我们看预知\\n　然后对我们的慌乱感到快乐吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {
@@ -128,7 +128,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_18",
     "original": "「でもまた、いつ来るかわからないと思うがな」",
     "translation": "「但是，不知道他什么时候还会来吧」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
@@ -149,7 +149,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_21",
     "original": "「えへへ～オレは結果的に唯と手ぇ繋げたし\\n　そんなに悪い事とも思ってないけどなぁ～」",
     "translation": "「诶嘿嘿～我最后还牵到唯的手了\\n　感觉也不全是那么不好的事情～」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -197,8 +197,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_28",
     "original": "「今日は終わり！」",
-    "translation": "「今天结束！」",
-    "stage": 5,
+    "translation": "「今天的结束了！」",
+    "stage": 3,
     "context": "唯"
   },
   {
@@ -238,13 +238,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_34",
     "original": "「文研部全員で協力すれば\\n　どんな未来も何とかなる」",
     "translation": "「文研部全员齐心协力的话\\n　什么样的未来都能挺得过去」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_35",
     "original": "「ああ、そうだな」",
     "translation": "「啊啊，说的没错」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
@@ -258,7 +258,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_37",
     "original": "「いいの！　特訓はお終い！」",
     "translation": "「才不要！特训结束了！」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -327,7 +327,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1801.bin_47",
     "original": "「はい、定例会議は終了！\\n　各自文研新聞次号発行に向けて活動開始！」",
-    "translation": "「好了，定期会议结束！\\n　大家各自为了下次的文研报发行开始行动！」",
+    "translation": "「好了，定期会议结束！\\n　大家各自为了下次的文研报的发行开始行动！」",
     "stage": 3,
     "context": "稲葉"
   },

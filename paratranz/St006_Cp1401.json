@@ -31,7 +31,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_4",
     "original": "「あのさ…\\n　そっちからぶつかっといてソレはねんじゃね？」",
     "translation": "「喂喂…\\n　明明是你撞到我的怎么你还怕上了？」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良"
   },
   {
@@ -478,14 +478,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_69",
     "original": "「う、うん…！」",
     "translation": "「唔，嗯…！」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_70",
     "original": "「いい加減にしろよ！！！　コラァ！！！」",
     "translation": "「给我适可而止啊！！！喂！！！」",
-    "stage": 3,
+    "stage": 5,
     "context": "不良"
   },
   {
@@ -560,13 +560,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_81",
     "original": "「ぬが！！！」",
     "translation": "「唔嘎！！！」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_82",
     "original": "「絶対…」",
     "translation": "「绝对会…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_83",
@@ -578,7 +578,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_84",
     "original": "「ま…守る…」",
     "translation": "「保…保护好你…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_85",
@@ -624,7 +624,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_91",
     "original": "「んだよ！　今日は厄日かぁ！？」",
     "translation": "「什么啊！今天是什么倒霉日啊！？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_92",
@@ -686,7 +686,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_100",
     "original": "「だ、大丈夫…あたしは…」",
     "translation": "「没，没事…我没事…」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -713,7 +713,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_104",
     "original": "「ま、喋れるなら大事はないか…」",
     "translation": "「嘛，能说话的话那就没什么事了吧…」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -726,15 +726,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_106",
     "original": "「ほう、正確な用法だ…余裕だな？」",
-    "translation": "「哦，很正确的用法…很从容吧？」",
-    "stage": 5,
+    "translation": "「哦，很正确的用法…很从容啊？」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1401.bin_107",
     "original": "「いや…余裕は無い…」",
     "translation": "「啊不…才不从容…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   }
 ]

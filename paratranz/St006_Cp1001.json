@@ -37,7 +37,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_5",
     "original": "「でも何かの理由でこれから外出でもしたら…」",
     "translation": "「但是如果又因为什么理由要外出的话…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_6",
@@ -67,8 +67,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_10",
     "original": "唯の家の近所",
-    "translation": "唯家附近",
-    "stage": 5,
+    "translation": "唯的家附近",
+    "stage": 3,
     "context": "Location"
   },
   {
@@ -81,8 +81,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_12",
     "original": "「よう、唯、無事じゃなくて元気か？」",
-    "translation": "「哟，唯，你没事啊不是你还好吧？」",
-    "stage": 5,
+    "translation": "「哟，唯，你没事吧不是你还好吧？」",
+    "stage": 3,
     "context": "青木"
   },
   {
@@ -237,8 +237,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_35",
     "original": "（しまった～！）",
-    "translation": "（完蛋～！）",
-    "stage": 5,
+    "translation": "（完蛋了～！）",
+    "stage": 3,
     "context": "青木"
   },
   {
@@ -320,8 +320,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_47",
     "original": "「いいから来なさい。\\n　話は交番で詳しく聞くから」",
-    "translation": "「好了过来吧你。\\n　有话派出所详细说」",
-    "stage": 5,
+    "translation": "「好了过来吧你。\\n　有话到派出所详细说」",
+    "stage": 3,
     "context": "警官"
   },
   {
@@ -664,8 +664,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_98",
     "original": "「いや、本当、バカな話なんだ…\\n　唯が心配で…」",
-    "translation": "「呀，真的，这话有点傻…\\n　担心唯…」",
-    "stage": 5
+    "translation": "「呀，真的，虽然这话有点傻…\\n　但我担心唯…」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_99",
@@ -699,7 +699,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_103",
     "original": "「あんたがどれだけバカでも…\\n　そんな理由で、こんな事しない…」",
     "translation": "「你再怎么笨…\\n　也不会因为这种理由，做出这种事…」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -858,8 +858,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_127",
     "original": "「タ、タオルくらい貸してあげるから…\\n　さっさと体拭きなさいよ…！」",
-    "translation": "「毛，毛巾什么的借给你…\\n　快擦身体吧…！」",
-    "stage": 5,
+    "translation": "「毛，毛巾什么的借给你…\\n　快擦擦身体吧…！」",
+    "stage": 3,
     "context": "唯"
   },
   {
@@ -880,7 +880,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_130",
     "original": "「か、返して！！！」",
     "translation": "「还，还给我！！！」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_131",
@@ -934,21 +934,21 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_138",
     "original": "「これから出かけたりする？」",
     "translation": "「我走之后你还会出门吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_139",
     "original": "「うら若き乙女がこんな時間に雨の中出かけないわよ！！」",
     "translation": "「一个十几岁的少女怎么可能在这种时间点出去淋雨啊！！」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1001.bin_140",
     "original": "「はい、はい、は～い！！\\n　青木義文おいとましま～す！！」",
     "translation": "「是，是，是～！！\\n　那青木义文告辞了～！！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {

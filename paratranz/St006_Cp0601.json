@@ -66,7 +66,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_9",
     "original": "「最近と言うか、ここ数日来てないよな？」",
     "translation": "「倒不如说，这几天都没有来吧？」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
@@ -79,8 +79,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_11",
     "original": "「って、要するにあの日\\n　美咲ちゃんと一緒に帰らせてからずっと？」",
-    "translation": "「总之，那天\\n　让她和美咲一起回去之后就一直这样？」",
-    "stage": 5,
+    "translation": "「总之，那天\\n　让她和美咲一起回去之后就一直这样了？」",
+    "stage": 3,
     "context": "伊織"
   },
   {
@@ -143,7 +143,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_20",
     "original": "「その抜け殻、なんとかならんのか？」",
     "translation": "「那个失了魂的，有办法救吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -156,8 +156,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_22",
     "original": "「負のオーラをこれだけ撒き散らされちゃ\\n　執筆活動に支障をきたしかねん」",
-    "translation": "「负能量就这样让它扩散开来\\n　会影响杂志写作的」",
-    "stage": 5,
+    "translation": "「就这样让负能量扩散开来\\n　会影响报刊写作的」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -169,8 +169,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_24",
     "original": "「まぁまぁ、青木の気持ちもくんであげて…\\n　稲葉んだってこの状況へ促した一員でもあるんだから」",
-    "translation": "「嘛嘛，青木的心情也要体谅一下…\\n　稻叶儿也是造成这种状况的一员」",
-    "stage": 5,
+    "translation": "「嘛嘛，也要体谅一下青木的心情…\\n　稻叶儿也是造成这种状况的一员」",
+    "stage": 3,
     "context": "伊織"
   },
   {
@@ -212,21 +212,21 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_30",
     "original": "「いや、そういう訳じゃないが…\\n　久しぶりだなと…」",
     "translation": "「不，不是…\\n　好久没见到你了啊…」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_31",
     "original": "「久しぶり？」",
     "translation": "「好久没见？」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_32",
     "original": "「ああ、そういえば部室に顔出すのは…」",
     "translation": "「啊啊，这么说来好久没在在活动室露脸了…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_33",
@@ -238,7 +238,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_34",
     "original": "「えっと…やっぱマズい？」",
     "translation": "「呃…果然这样子不行吗？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_35",
@@ -360,21 +360,21 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_52",
     "original": "「でも今、美咲ちゃんって呼んでたよね～」",
     "translation": "「但是刚才，就称呼她美咲酱了呢～」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_53",
     "original": "「この短期間で、どれだけ親睦を深めたんだ？\\n　あの二人…」",
-    "translation": "「那么短时间，怎么变得这么亲近了？\\n　那两个人…」",
-    "stage": 5,
+    "translation": "「那么短的时间，怎么变得这么亲近了？\\n　那两个人…」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_54",
     "original": "「かなりのものです…」",
-    "translation": "「是相当的亲啊…」",
-    "stage": 5,
+    "translation": "「是相当得亲啊…」",
+    "stage": 3,
     "context": "青木"
   },
   {
@@ -395,7 +395,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_57",
     "original": "「毎日一緒に帰って\\n　暗くなるまで楽しく過ごしてるからです…」",
     "translation": "「每天都一起回去\\n　直到天黑之前都会在一起开心地玩」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -409,7 +409,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_59",
     "original": "「毎日、密かに尾行したからです…」",
     "translation": "「我每天，都在秘密地跟踪…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -478,7 +478,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_69",
     "original": "「おまえは唯のクラスメートな上\\n　毎日尾行していたのだろう？」",
     "translation": "「你是在作为唯的同学的情况下\\n　还每天去进行跟踪的吧？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_70",
@@ -504,14 +504,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_73",
     "original": "「いや、おまえにそれ言う資格無いから」",
     "translation": "「不是，你没有资格对他这么说吧」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_74",
     "original": "「いやぁ～うっかり、うっかり」",
     "translation": "「哎呀～不小心，不小心」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -539,13 +539,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_78",
     "original": "「はい？」",
     "translation": "「嗯？」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_79",
     "original": "「すまんがちょっと時間をくれないか？」",
-    "translation": "「抱歉能请你能抽出点时间来吗？」",
+    "translation": "「抱歉能请你抽出点时间来吗？」",
     "stage": 3,
     "context": "稲葉"
   },
@@ -560,13 +560,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_81",
     "original": "「う～ん…下で美咲ちゃんが待ってるから…」",
     "translation": "「嗯～…现在美咲酱还在等我呢…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_82",
     "original": "「申し訳ないが、そこをなんとかしてくれ。\\n　できるだけすぐに済ます…いや済まさせる」",
     "translation": "「很抱歉，请你想想办法。\\n　尽可能马上解决…不，让我们来解决」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -684,7 +684,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_99",
     "original": "「大沢さんとばっかりじゃなくて…」",
-    "translation": "「不要总只是和大泽同学…」",
+    "translation": "「不要总是只和大泽同学…」",
     "stage": 3,
     "context": "青木"
   },
@@ -692,7 +692,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_100",
     "original": "「その…オレとも遊んでくんないかな…？」",
     "translation": "「那个…也和我玩玩呗…？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_101",
@@ -705,7 +705,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_102",
     "original": "「今日、これから取材なんだよね…？\\n　一緒に行っちゃダメかな…？」",
     "translation": "「今天，现在要去取材对吧…？\\n　一起去不行吗…？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -815,8 +815,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_118",
     "original": "「もちろんだ、楽しんできてくれ。\\n　記事にも期待しているぞ」",
-    "translation": "「当然了，玩的开心啊。\\n　期待你交的稿」",
-    "stage": 5,
+    "translation": "「当然了，玩得开心啊。\\n　期待你交的稿」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -858,7 +858,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_124",
     "original": "「うぉぉぉ～久しぶりに唯と喋れた…！」",
     "translation": "「唔噢噢噢～好久没和唯说过话了…！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -911,13 +911,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_132",
     "original": "「ほめ言葉とうけとっとくぜ、伊織ちゃん！\\n　シリアスなんてガラじゃなーい！」",
     "translation": "「再多夸我两句吧，伊织酱！\\n　搞严肃什么的太不像我的风格了！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_133",
     "original": "「さっきまで漆黒のオーラをまとっていた奴のセリフか？」",
-    "translation": "「这是刚才那个还一身负能量家伙的台词吗？」",
+    "translation": "「这是刚才那个还一身负能量的家伙的台词吗？」",
     "stage": 3,
     "context": "稲葉"
   },
@@ -945,14 +945,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_137",
     "original": "「稲葉っちゃん言ってたじゃん？\\n　唯の気持ちが大切だって」",
     "translation": "「稻叶酱不是说了吗？\\n　唯的想法才是最重要的」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_138",
     "original": "「俺も唯が楽しいなら、それを邪魔なんてしたくない」",
     "translation": "「我也是只想要唯开心，那就不去打扰她了」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_139",
@@ -979,7 +979,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_142",
     "original": "「何度も出てきたセリフだが恋愛は公平であるべきだ。\\n　必ずおまえの気持ちだって伝わる」",
     "translation": "「这是我说过很多次的台词，恋爱应该是公平的。\\n　你的感情一定也能传达到」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_143",
@@ -1074,8 +1074,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_156",
     "original": "「十分だって！\\n　頼りにしてるぜ太一！」",
-    "translation": "「这样够了！\\n　拜托了啊太一！」",
-    "stage": 5,
+    "translation": "「这样就够了！\\n　拜托了啊太一！」",
+    "stage": 3,
     "context": "青木"
   },
   {
@@ -1089,7 +1089,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_158",
     "original": "「まあまあ。\\n　そんでさ、オレ、どうしたらいいと思う？」",
     "translation": "「嘛嘛。\\n　话说，那我，应该怎么办？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -1109,8 +1109,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_161",
     "original": "「将来的にどうなるかわからんが、\\n　今は仲の良い友人であることに変わりは無い。\\n　下手な詮索や介入は逆効果だな」",
-    "translation": "「我不知道将来会怎样，\\n　但现在确实是关系很好的朋友。\\n　拙劣的窥探和介入只会适得其反」",
-    "stage": 5,
+    "translation": "「我不知道将来会怎样，\\n　但现在确实是关系很好的朋友。\\n　拙劣地窥探和介入只会适得其反」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -1130,15 +1130,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_164",
     "original": "「そっか…。わかった。\\n　オレ、もう少し唯のことを見守ってみるわ」",
-    "translation": "「是吗…。知道了。\\n　我至少会观察一下唯的」",
-    "stage": 5,
+    "translation": "「是吗…。知道了。\\n　我会再观察一下唯的」",
+    "stage": 3,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_165",
     "original": "（まあ、太一たちがそう言うなら間違ってねーよな。\\n　ここで下手に動いちまう方がよっぽど危険だし、\\n　現状維持で良いってわかっただけでも収穫だよな？）",
-    "translation": "（嘛，太一他们说的没错啊。\\n　现在随便行动会更危险，\\n　只是知道维持现状最好说不定也算是有收获吧？）",
-    "stage": 5
+    "translation": "（嘛，太一他们说的没错啊。\\n　现在随便行动会更危险，\\n　只是知道维持现状是最好的说不定也算是有收获吧？）",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_166",
@@ -1178,7 +1178,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0601.bin_171",
     "original": "「いいなぁ…みんなブレてなくて…」",
     "translation": "「真好啊…大家都没变呢…」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {

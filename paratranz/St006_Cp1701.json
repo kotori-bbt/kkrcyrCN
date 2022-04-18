@@ -31,14 +31,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_4",
     "original": "（はは…ガッチガチだな、唯…）",
     "translation": "（哈哈哈…动作好僵硬啊，唯…）",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_5",
     "original": "（でもま、これってすんげぇ進歩だよな！）",
-    "translation": "（不过嘛，这也是非常有进步的啊！）",
-    "stage": 5
+    "translation": "（不过嘛，这也是非常大的进步啊！）",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_6",
@@ -57,7 +57,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_8",
     "original": "「え？　だって嬉しくってさ～\\n　唯が手ぇ繋いでくれてんだよ？」",
     "translation": "「诶？因为我很开心啊～\\n　唯不是牵着我的手了嘛？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -106,14 +106,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_15",
     "original": "「あっちから来るの、ごっさんだ…」",
     "translation": "「那边过来的，是阿后哎…」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_16",
     "original": "「本当だ…」",
     "translation": "「真的是哎…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -134,21 +134,21 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_19",
     "original": "「なんか、いい雰囲気になってます？」",
     "translation": "「感觉，好像氛围还不错啊？」",
-    "stage": 3,
+    "stage": 5,
     "context": "〈ふうせんかずら〉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_20",
     "original": "「〈ふうせんかずら〉だな？」",
     "translation": "「是〈风船葛〉对吧？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_21",
     "original": "「ええ、まぁ…そういうことです…」",
     "translation": "「嗯，嘛…是的呢…」",
-    "stage": 3,
+    "stage": 5,
     "context": "〈ふうせんかずら〉"
   },
   {
@@ -162,14 +162,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_23",
     "original": "「こんなことって…あれですか…？\\n　えーと…あの…」",
     "translation": "「这种事…是那个吗…？\\n　嗯…那个…」",
-    "stage": 3,
+    "stage": 5,
     "context": "〈ふうせんかずら〉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_24",
     "original": "「なんでしたっけ…」",
     "translation": "「是什么来着…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_25",
@@ -215,7 +215,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_31",
     "original": "「あ、半分くらいは青木さんの性格にも\\n　起因してるんですよ…？」",
     "translation": "「啊，起因有一半也是\\n　因为青木的性格吧…？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_32",
@@ -227,26 +227,26 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_33",
     "original": "「青木さんが怪我した事は僕の本意ではないと…\\n　それだけは信じてもらいたいな、と言うか信じて下さい…」",
     "translation": "「青木受伤并不是我的本意…\\n　希望你们能相信，不对是请你们相信…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_34",
     "original": "「済んじまった事はどうでもいい！\\n　これはいつまで続くんだ！？」",
     "translation": "「已经过去的事无所谓了！\\n　这个现象要持续到什么时候！？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_35",
     "original": "「ああ、ああ、ご安心を…\\n　もう起こりません…起こしません…」",
     "translation": "「啊，啊，放心吧…\\n　不会再发生了…不会发生了…」",
-    "stage": 3,
+    "stage": 5,
     "context": "〈ふうせんかずら〉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_36",
     "original": "「今回も大変に楽しませてもらいましたので…\\n　もう十分です、はい」",
-    "translation": "「这次也让我感到了非常的有趣…\\n　这已经足够了，嗯」",
+    "translation": "「这次也让我感到了非常地有趣…\\n　这已经足够了，嗯」",
     "stage": 3
   },
   {
@@ -260,7 +260,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_38",
     "original": "「はい、見ません、見えません…お終いです…」",
     "translation": "「对，看不到，看不到了…结束了…」",
-    "stage": 3,
+    "stage": 5,
     "context": "〈ふうせんかずら〉"
   },
   {
@@ -308,7 +308,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_45",
     "original": "「あれ？　なんで俺こんな所にいるの？」",
     "translation": "「嗯？为什么我会在这种地方？」",
-    "stage": 3,
+    "stage": 5,
     "context": "後藤"
   },
   {
@@ -335,7 +335,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_49",
     "original": "「お前らいいなぁ、青春かぁ？」",
     "translation": "「你们可真好啊，这就是青春吧？」",
-    "stage": 3,
+    "stage": 5,
     "context": "後藤"
   },
   {
@@ -356,13 +356,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_52",
     "original": "（ああ、それ以上言うと唯が…）",
     "translation": "（啊啊，再说下去唯就会…）",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_53",
     "original": "「アタシはそんなつもり\\n　これっぽっちもない！！」",
-    "translation": "「我对此想法\\n　是一点都没有的！！」",
+    "translation": "「我对此是一点\\n　想法都没有的！！」",
     "stage": 3,
     "context": "唯"
   },
@@ -377,7 +377,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1701.bin_55",
     "original": "「…余計な事言っちゃった？」",
     "translation": "「…说了多余的话是吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "後藤"
   },
   {

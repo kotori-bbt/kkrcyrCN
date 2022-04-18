@@ -31,7 +31,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0901.bin_4",
     "original": "「青木君と稲葉さんって\\n　ひょっとして付き合ってる？」",
     "translation": "「青木君和稻叶同学\\n　难道是在交往？」",
-    "stage": 3,
+    "stage": 5,
     "context": "大沢"
   },
   {
@@ -59,7 +59,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0901.bin_8",
     "original": "「あれ？　また変な事言った？」",
     "translation": "「啊嘞？我又说奇怪的话了？」",
-    "stage": 3,
+    "stage": 5,
     "context": "大沢"
   },
   {
@@ -73,7 +73,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0901.bin_10",
     "original": "「あれは単に青木がバカだから\\n　稲葉がシメてるだけ！」",
     "translation": "「那单纯因为青木是个笨蛋\\n　稻叶那只是在收拾他而已！」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0901.bin_11",
@@ -151,8 +151,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0901.bin_22",
     "original": "（別れた…更に警戒を強めねば…！）",
-    "translation": "（分开了…需要更警戒一下…！）",
-    "stage": 5,
+    "translation": "（分开了…更要加强警戒…！）",
+    "stage": 3,
     "context": "青木"
   },
   {

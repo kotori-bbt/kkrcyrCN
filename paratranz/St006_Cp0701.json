@@ -59,14 +59,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_8",
     "original": "「俺は無視ですか…？」",
     "translation": "「这就把我给无视了吗…？」",
-    "stage": 3,
+    "stage": 5,
     "context": "太一"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_9",
     "original": "「青木、近づきすぎだぞ」",
-    "translation": "「青木，靠的太近了哦」",
-    "stage": 5,
+    "translation": "「青木，靠得太近了哦」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -140,7 +140,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_20",
     "original": "「何それ！？　聞いてないよ、オレ！？」",
     "translation": "「那是什么！？怎么没听说过这个啊我！？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -214,14 +214,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_31",
     "original": "「あ、ああ…多分…」",
     "translation": "「啊，啊啊…大概是…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_32",
     "original": "「他に見た奴は！？」",
-    "translation": "「有其他家伙看到了吗！？」",
-    "stage": 5,
+    "translation": "「有其他人看到了吗！？」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -284,7 +284,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_41",
     "original": "「おい！　何が見えたんだ！？」",
     "translation": "「喂！看到什么了！？」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -305,14 +305,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_44",
     "original": "「それに…なんか服とか…ちょっと汚れてて…\\n　怪我も少し…あったかも…」",
     "translation": "「然后…衣服什么的…还有点脏了…\\n　伤口好像…也有…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_45",
     "original": "「ちょっと、何ソレ！？」",
-    "translation": "「等等，那个怎么回事啊！？」",
-    "stage": 5,
+    "translation": "「等等，那个是怎么回事啊！？」",
+    "stage": 3,
     "context": "唯"
   },
   {
@@ -325,15 +325,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_47",
     "original": "「いや…ごめん…一瞬だったから…\\n　あまり細かくは…」",
-    "translation": "「呀…抱歉…只是一瞬间…\\n　看的不太仔细…」",
-    "stage": 5,
+    "translation": "「呀…抱歉…只是一瞬间…\\n　看得不太仔细…」",
+    "stage": 3,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_48",
     "original": "「ええ～？　あたし転ぶって事～？」",
-    "translation": "「诶诶～？我摔了～？」",
-    "stage": 5,
+    "translation": "「诶诶～？我摔倒了～？」",
+    "stage": 3,
     "context": "唯"
   },
   {
@@ -412,8 +412,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_60",
     "original": "「何よ～そんなにしょっちゅう転びません～。\\n　一応、元体育会系なんですけど？」",
-    "translation": "「什么呀~不会经常摔倒的~。\\n　好歹我以前也是个练家子啊？」",
-    "stage": 5,
+    "translation": "「什么呀~我不会经常摔倒的~。\\n　好歹我以前也是个练家子啊？」",
+    "stage": 3,
     "context": "唯"
   },
   {
@@ -475,7 +475,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_69",
     "original": "（唯があんな事になる原因は一つしかない！）",
     "translation": "（唯会出那种事，只有一个原因了！）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_70",
@@ -487,7 +487,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_71",
     "original": "「うえ！？　な、何！？　突然！？」",
     "translation": "「唔啊！？什，什么！？突然就！？」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -522,14 +522,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_76",
     "original": "「いやぁ！　ほら！　最近大沢さんと仲がいいじゃないか！？\\n　ってかよすぎるからさ！」",
     "translation": "「不对！你想想！最近你不是和大泽同学关系很好吗！？\\n　话说是好的过头了啊！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_77",
     "original": "「そのまま百合の道になんか行っちゃったらマズいじゃ～ん」",
     "translation": "「就那样朝着百合的方向走去很糟糕的吧～」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_78",
@@ -587,7 +587,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_86",
     "original": "（予知で見た唯は男が関係している\\n　ＹＥＳなら太一に絡め）",
     "translation": "（预知里是不是看见唯和男人有什么交集？\\n　是的话就联络太一吧）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_87",
@@ -648,7 +648,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_95",
     "original": "「嫌だーーー！！\\n　唯が大沢さんと付き合うならオレは太一と付き合う！！」",
     "translation": "「不行ーーー！！\\n　唯和大泽交往的话我也要和太一交往！！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -722,7 +722,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_106",
     "original": "「そんな訳だからして…」",
     "translation": "「所以…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_107",
@@ -734,14 +734,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_108",
     "original": "「はい！？　ちょっと稲葉まで何を！？」",
     "translation": "「喂！？稻叶怎么也这样！？」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0701.bin_109",
     "original": "「副部長命令だ、多少の荒療治をしてでも\\n　さっさと直してくれ」",
-    "translation": "「这是副部长的命令，稍微粗暴一点没关系\\n　也给我改正」",
-    "stage": 5,
+    "translation": "「这是副部长的命令，稍微粗暴一点也没关系\\n　给我改正过来」",
+    "stage": 3,
     "context": "稲葉"
   },
   {

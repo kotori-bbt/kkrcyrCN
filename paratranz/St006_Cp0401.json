@@ -290,8 +290,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0401.bin_42",
     "original": "「噂をすればなんとやらだな」",
-    "translation": "「真是说曹操 曹操到」",
-    "stage": 5,
+    "translation": "「真是说曹操曹操到」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -351,8 +351,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0401.bin_51",
     "original": "「おお！　見事なまでのスリーパーホールド！\\n　これは抜けられない！　喋れない！」",
-    "translation": "「噢噢！堪称完美的裸绞！（注释）\\n　这下可逃不掉了！　话也说不了了！」",
-    "stage": 5,
+    "translation": "「噢噢！堪称完美的裸绞！\\n　这下可逃不掉了！　话也说不了了！」",
+    "stage": 3,
     "context": "太一"
   },
   {
@@ -442,8 +442,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0401.bin_64",
     "original": "「ああ、気にするな大沢。\\n　部員同士、交流を深めあっているんだ」",
-    "translation": "「啊啊，别在意大泽。\\n　就是同为部员，在深入的交流而已」",
-    "stage": 5,
+    "translation": "「啊啊，别在意大泽。\\n　就是同为部员，在深入地交流而已」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
@@ -498,7 +498,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0401.bin_72",
     "original": "「んが…！」",
     "translation": "「唔嘎…！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -512,7 +512,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0401.bin_74",
     "original": "「おっと、しまった…」",
     "translation": "「啊这，不好…」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   }
 ]

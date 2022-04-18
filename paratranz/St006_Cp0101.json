@@ -52,7 +52,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_7",
     "original": "「そんなの関係ないんじゃないかな？」",
     "translation": "「那个没关系的吧？」",
-    "stage": 3,
+    "stage": 5,
     "context": "大沢"
   },
   {
@@ -79,7 +79,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_11",
     "original": "「ゆゆゆ、唯ちゃんて……」",
     "translation": "「唯唯唯，唯酱……」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -111,13 +111,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_16",
     "original": "（声もよく聞こえなかった…）",
     "translation": "（听不太清说的是什么…）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_17",
     "original": "（でも、唯の反応からすると\\n　ただ事ではなさそうな気はする…）",
     "translation": "（但，从唯的反应看\\n　感觉好像并不是什么小事…）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_18",
@@ -153,7 +153,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_23",
     "original": "「なかなか綺麗…と言うか、かっこよかったなぁ…\\n　稲葉っちゃんとはまた別の意味でボーイッシュというか…」",
     "translation": "「还挺好看……不对，挺帅的啊…\\n　和稻叶酱不同的男孩子气吗…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_24",
@@ -165,66 +165,66 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_25",
     "original": "「悪かったな」",
     "translation": "「那真是对不起啊」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_26",
     "original": "「そう、あれさえ無ければ…」",
     "translation": "「是啊，如果没有那个…」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_27",
     "original": "「って、稲葉っちゃん！？」",
     "translation": "「哎，稻叶酱！？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_28",
     "original": "「唯がアタシのクラスメートと\\n　何やら神妙な面持ちで校舎裏に歩いて行った…」",
     "translation": "「唯和我们班的同学\\n　带着奇怪的表情到校舍后面去了…」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_29",
     "original": "「予知に関係しているのかもしれないと考え\\n　様子を見に行ったら文研部一のアホがいた」",
     "translation": "「我想这可能和预知有关，就去看了看\\n　结果却发现了个文研部第一的傻瓜」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_30",
     "original": "「ただそれだけの事だが問題でも？」",
     "translation": "「就这样，你有问题吗？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_31",
     "original": "「い、いや、待って！\\n　さっきのあれは言葉のアヤと言うか！」",
     "translation": "「不，不是，等等！\\n　刚才那个只是单纯的言辞修饰什么的！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_32",
     "original": "「いやいやいや、別に構わんぞ～…」",
     "translation": "「没事没事没事，直说也没事的～…」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_33",
     "original": "「部員の不満を素直に受け止めるのも\\n　副部長としての務めだからな…」",
-    "translation": "「坦率的接受部员的不满\\n　也是作为副部长应该做的事情嘛…」",
+    "translation": "「坦率地接受部员的不满\\n　也是作为副部长应该做的事情嘛…」",
     "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_34",
     "original": "「ちょ！　そう言いつつ何で近づいてくるの！？」",
     "translation": "「等等！为什么讲着讲着就靠近我啊！？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -251,6 +251,6 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0101.bin_38",
     "original": "「うぎゃ～～～！！！」",
     "translation": "「呜嘎～～～！！！」",
-    "stage": 3
+    "stage": 5
   }
 ]

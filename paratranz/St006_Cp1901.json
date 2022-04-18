@@ -9,14 +9,14 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1901.bin_1",
     "original": "「おめでとう青木！」",
-    "translation": "「青木恭喜啊！」",
+    "translation": "「恭喜啊青木！」",
     "stage": 3,
     "context": "太一"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1901.bin_2",
     "original": "「おめでとう唯！」",
-    "translation": "「唯恭喜你了！」",
+    "translation": "「恭喜你了唯！」",
     "stage": 3,
     "context": "稲葉"
   },
@@ -24,7 +24,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1901.bin_3",
     "original": "「いよ！　ご両人！　お似合いですよ～！」",
     "translation": "「呀！这两位！真是相配呢～！」",
-    "stage": 3,
+    "stage": 5,
     "context": "伊織"
   },
   {
@@ -59,20 +59,20 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1901.bin_8",
     "original": "（こうしてオレは、男性恐怖症を克服した唯と\\n　今日晴れて結婚した！）",
     "translation": "（就这样，我今天和克服了恐男的唯\\n　幸福地结婚了！）",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1901.bin_9",
     "original": "（あれから……、オレが唯を不良から助けたあの日から\\n　他の現象やら、なんやかんやあったけど…）",
     "translation": "（那时候……自从我把唯从不良的手中救出来的那天以后\\n　也经历过许许多多的事情…）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1901.bin_10",
     "original": "（『未来予知』なんか見なくても\\n　オレにはこのビジョンが現実化するのは\\n　最初っからわかってたんだ）",
     "translation": "（即使不看『未来预知』\\n　我也一开始就知道\\n　这个愿景将会成为现实）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp1901.bin_11",

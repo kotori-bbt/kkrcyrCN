@@ -24,13 +24,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0201.bin_3",
     "original": "「く…くく…」",
     "translation": "「呜…咿呜…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0201.bin_4",
     "original": "「あら、青木君。\\n　ゴミ出しご苦労様」",
     "translation": "「啊啦，青木君。\\n　辛苦你倒垃圾啦」",
-    "stage": 3,
+    "stage": 5,
     "context": "平田先生"
   },
   {
@@ -93,7 +93,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0201.bin_13",
     "original": "（い…稲葉っちゃんのおかげで…\\n　体中の関節が…悲鳴をあげている…）",
     "translation": "（都…都怪稻叶酱…\\n　体内的关节…在嚎叫…）",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -134,7 +134,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0201.bin_19",
     "original": "「どうしたの二人とも？　稲葉っちゃんのクラスの前で…？」",
-    "translation": "「怎么了你们两个？在稻叶酱班门前…？」",
+    "translation": "「怎么了你们两个？在稻叶酱她们班门前…？」",
     "stage": 3,
     "context": "青木"
   },
@@ -184,7 +184,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0201.bin_26",
     "original": "「何よ…いきなり…」",
     "translation": "「干嘛啊…突然就…」",
-    "stage": 3,
+    "stage": 5,
     "context": "雪菜"
   },
   {
@@ -232,15 +232,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0201.bin_33",
     "original": "「いや、な、なんでもないんだ…\\n　驚かしてゴメン…はは…」",
-    "translation": "「没，没什么…\\n　吓你一跳真抱歉…哈哈…」",
-    "stage": 5,
+    "translation": "「没，没什么…\\n　吓你一跳真是抱歉…哈哈…」",
+    "stage": 3,
     "context": "青木"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0201.bin_34",
     "original": "「唯も青木くんも変なの…\\n　じゃ、あたし部活あるから」",
     "translation": "「唯和青木君都好奇怪…\\n　算了，我还有社团活动」",
-    "stage": 3,
+    "stage": 5,
     "context": "雪菜"
   },
   {

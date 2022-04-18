@@ -99,7 +99,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_14",
     "original": "「あははは！　わたしってそんなに威圧感ある？」",
     "translation": "「啊哈哈哈！　我就真的那么有威压感吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "大沢"
   },
   {
@@ -113,7 +113,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_16",
     "original": "「そこは、ううん、全然…って言うところじゃない？」",
     "translation": "「这时候应该说，没有啊，完全…没有才对吧？」",
-    "stage": 3,
+    "stage": 5,
     "context": "大沢"
   },
   {
@@ -162,7 +162,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_23",
     "original": "「う…うん…」",
     "translation": "「唔…嗯…」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -183,21 +183,21 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_26",
     "original": "「え？　どしたの？」",
     "translation": "「诶？　怎么了？」",
-    "stage": 3,
+    "stage": 5,
     "context": "大沢"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_27",
     "original": "「大沢さんって、人心掌握の達人？」",
     "translation": "「大泽同学，是掌握人心方面的好手？」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_28",
     "original": "「じんしんしょうあく？\\n　何それ？　なんか悪そうな響きだね？」",
-    "translation": "「zhangworenxin？（注释）\\n　那是啥？听上去像是不太好的词吧？」",
-    "stage": 5,
+    "translation": "「zhangworenxin？\\n　那是啥？听上去像是不太好的词吧？」",
+    "stage": 3,
     "context": "大沢"
   },
   {
@@ -216,8 +216,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_31",
     "original": "「え？　え？　なんで笑うの？\\n　なんか変だった？」",
-    "translation": "「诶？诶？干嘛笑？\\n　有啥奇怪的吗？」",
-    "stage": 5,
+    "translation": "「诶？诶？干嘛笑啊？\\n　有啥奇怪的吗？」",
+    "stage": 3,
     "context": "大沢"
   },
   {
@@ -258,7 +258,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_37",
     "original": "「いいか、青木？\\n　おまえが唯を好きなように大沢だって唯の事が好きなんだ」",
-    "translation": "「听好了，青木？\\n　和你喜欢唯一样 大泽也喜欢唯」",
+    "translation": "「听好了，青木？\\n　和你喜欢唯一样大泽也喜欢唯」",
     "stage": 3,
     "context": "稲葉"
   },
@@ -335,7 +335,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_49",
     "original": "「さっき部室の前であたしを抱きとめてくれた時\\n　いい匂いがしたから…」",
     "translation": "「刚才在部室门前抱着我的时候\\n　你闻起来很香…」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
@@ -419,14 +419,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_61",
     "original": "「うんうん、やわらかい匂い～！」",
     "translation": "「嗯嗯，一股很温和的味道～！」",
-    "stage": 3,
+    "stage": 5,
     "context": "唯"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_62",
     "original": "「ってチョー会話もはずんじゃってるんですけど！？」",
     "translation": "「她们这不是聊得很欢吗！？」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -452,7 +452,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_66",
     "original": "「うっく…！」",
     "translation": "「唔咕…！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -464,14 +464,14 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_68",
     "original": "「今、ヘタに割り込んで唯の反感でも買おうものなら…\\n　最悪のパターンにだって発展しかねない…」",
-    "translation": "「现在，如果因为插足而引起反感的话…\\n　可能发展成最糟糕的样子…」",
+    "translation": "「现在，如果因为插足而引起反感的话…\\n　可能发展成最糟糕的情况…」",
     "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_69",
     "original": "「う、オレも唯と\\n　きゃっきゃうふふしたい…」",
-    "translation": "「我，我也想和唯\\n　唧唧我我…」",
-    "stage": 5
+    "translation": "「我，我也想和唯\\n　卿卿我我…」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_70",
@@ -498,7 +498,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_73",
     "original": "「ぬぐぐぐ…くく…！」",
     "translation": "「唔咕咕咕…咕咕…！」",
-    "stage": 3,
+    "stage": 5,
     "context": "青木"
   },
   {
@@ -522,7 +522,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0501.bin_77",
     "original": "「今日のところは帰ろう…」",
-    "translation": "「今天就到此为止回家吧…」",
+    "translation": "「今天就到此为止先回家吧…」",
     "stage": 3
   }
 ]

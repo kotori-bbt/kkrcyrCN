@@ -44,14 +44,14 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_6",
     "original": "「どうした？　調子悪いのか？」",
     "translation": "「怎么了？身体不舒服吗？」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_7",
     "original": "「まさか…！　予知を見たのか！？」",
     "translation": "「该不会是…！见到预知了！？」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_8",
@@ -70,7 +70,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_10",
     "original": "「こんな状況下で妙な態度をとるな。\\n　心配するだろうが」",
-    "translation": "「这种状况下的你态度又那么微妙。\\n　挺担心的」",
+    "translation": "「这种状况下你的态度还那么微妙。\\n　很担心啊」",
     "stage": 3
   },
   {
@@ -83,7 +83,7 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_12",
     "original": "「お前の事だ、おおかた朝まで\\n　マンガでも読んでいたんだろう？」",
-    "translation": "「你多半是因为\\n　读漫画一直读到早上的吧？」",
+    "translation": "「你多半是因为\\n　一直读漫画读到早上的吧？」",
     "stage": 3,
     "context": "稲葉"
   },
@@ -118,7 +118,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_17",
     "original": "「ふ、それくらいの元気があれば大丈夫だろ。\\n　じゃあな」",
     "translation": "「呼，看你还有精神的话那就没事了。\\n　那再见啦」",
-    "stage": 3,
+    "stage": 5,
     "context": "稲葉"
   },
   {
@@ -221,13 +221,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_32",
     "original": "（おいおい、なんで校舎裏に行くんだ？　二人して？）",
     "translation": "（喂喂，为什么要到校舍后面啊？而且是两个人？）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_33",
     "original": "（ま、まさか！？　イジメ！？　その呼出し！？\\n　集団が待ち構えてるとか！？）",
     "translation": "（难，难道！？是霸凌！？叫她过去！？\\n　说不定还有一群人在等着！？）",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_34",
@@ -263,7 +263,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_39",
     "original": "「ゆ…」",
     "translation": "「唯…」",
-    "stage": 3
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St006_Cp0001.bin_40",
