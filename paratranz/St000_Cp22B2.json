@@ -1,77 +1,35 @@
 [
   {
-    "id": 111702811,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:54:55.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22B2.bin_0",
     "original": "休み時間",
     "translation": "休息时间",
-    "file": 385925,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111702812,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:54:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22B2.bin_1",
     "original": "校庭",
     "translation": "运动场",
-    "file": 385925,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111702813,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:55:03.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22B2.bin_2",
     "original": "「ふむ……崩れてきそうな建物となると、\\n　気になるのは、コレくらいだな」",
     "translation": "「唔……要说会塌掉的建筑物，\\n　需要注意的，大概就这些吧」",
-    "file": 385925,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "稲葉",
-    "words": 2
+    "context": "稲葉"
   },
   {
-    "id": 111702814,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:55:08.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22B2.bin_3",
     "original": "「老朽化した建物だが、\\n　校庭の片隅にひっそりと建っているだけで\\n　問題はなさそうだが……」",
     "translation": "「虽然老化了，\\n　但都建在运动场的偏僻角落里，\\n　感觉不会出什么问题吧……」",
-    "file": 385925,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111702815,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:55:14.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22B2.bin_4",
     "original": "「いや、楽観視は良くないな。\\n　どこかの建物が崩れるのはわかっているんだ。\\n　全てを疑って見ないと、見落としてしまうな……」",
     "translation": "「等等，太乐观可不好。\\n　某个地方的建筑物会崩塌，这是已知的。\\n　如果不时刻保持怀疑，是会看漏的啊……」",
-    "file": 385925,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   }
 ]

@@ -418,8 +418,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St002_Cp0701.bin_60",
     "original": "（押し倒して動きを封じる！）",
-    "translation": "「压倒在地动弹不得！」",
-    "stage": 5,
+    "translation": "「把他按在地上不让他动弹！」",
+    "stage": 3,
     "context": "Choice"
   },
   {

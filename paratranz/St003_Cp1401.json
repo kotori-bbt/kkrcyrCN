@@ -415,8 +415,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1401.bin_64",
     "original": "「こうして一日中ベッドの上に居ると、\\n　考える時間がいっぱいあるんだ」",
-    "translation": "「这样整天躺在床上,\\n　我有很多时间来考虑」",
-    "stage": 5,
+    "translation": "「这样整天躺在床上，\\n　我有很多时间来考虑」",
+    "stage": 3,
     "context": "太一"
   },
   {

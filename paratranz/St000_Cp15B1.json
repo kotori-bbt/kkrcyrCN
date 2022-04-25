@@ -98,8 +98,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp15B1.bin_14",
     "original": "「ま、説明する手間が省けていい。\\n　それで？　お前の方はどうなんだ？」",
-    "translation": "「嘛，省了说明的时间也好。\\n　然后呢？　你那边怎么样？」·",
-    "stage": 5,
+    "translation": "「嘛，省了说明的时间也好。\\n　然后呢？　你那边怎么样？」",
+    "stage": 3,
     "context": "稲葉"
   },
   {

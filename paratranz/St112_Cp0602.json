@@ -1,257 +1,112 @@
 [
   {
-    "id": 122770212,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:47:55.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_0",
     "original": "「俺から？」",
     "translation": "「从我开始？」",
-    "file": 422402,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 122770213,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:47:57.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_1",
     "original": "（一体なんだろう……？）",
     "translation": "（到底是什么啊……？）",
-    "file": 422402,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 122770214,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:47:58.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_2",
     "original": "「これは……」",
     "translation": "「这是……」",
-    "file": 422402,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 122770215,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:00.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_3",
     "original": "「『のど飴』です」",
     "translation": "「『润喉糖』」",
-    "file": 422402,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "千尋",
-    "words": 1
+    "context": "千尋"
   },
   {
-    "id": 122770216,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:08.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_4",
     "original": "「太一先輩の声は、国宝……いえ、\\n　天然記念物……いえ、世界遺産なんですっ」",
     "translation": "「太一前辈的声音，简直是国宝……不对，\\n　是天然纪念物……也不对，是世界遗产」",
-    "file": 422402,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "紫乃",
-    "words": 2
+    "context": "紫乃"
   },
   {
-    "id": 122770217,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:09.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_5",
     "original": "「それを守るためにも、のど飴は欠かせませんっ」",
     "translation": "「为了守护这个声音，润喉糖是不可或缺的」",
-    "file": 422402,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 122770218,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:13.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_6",
     "original": "「そうか……」",
     "translation": "「是吗……」",
-    "file": 422402,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 122770219,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:22.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_7",
     "original": "「ちなみに味は\\n　『ウルトラハイパー岩塩ミント味』です」",
     "translation": "「顺带一提，\\n　口味是『激爽岩盐薄荷味』」",
-    "file": 422402,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "千尋",
-    "words": 2
+    "context": "千尋"
   },
   {
-    "id": 122770220,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:23.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_8",
     "original": "「ウル……え！？」",
     "translation": "「激……诶！？」",
-    "file": 422402,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 122770221,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_9",
     "original": "（そんな訳分からない味、舐めて大丈夫なのか？）",
     "translation": "（这种听都没听过的口味，吃起来真的没事吗？）",
-    "file": 422402,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 122770222,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:33.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_10",
     "original": "「のどにとってもいい味……らしいですから、\\n　期待してくださいっ」",
     "translation": "「这可是对喉咙非常好的口味……据说，\\n　所以请期待一下吧」",
-    "file": 422402,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "紫乃",
-    "words": 2
+    "context": "紫乃"
   },
   {
-    "id": 122770223,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:34.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_11",
     "original": "「あ、ああ……」",
     "translation": "「啊，啊啊……」",
-    "file": 422402,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 122770224,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:36.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_12",
     "original": "（円城寺の笑顔を見たら断れないし……）",
     "translation": "「看到圆城寺的笑脸也不好拒绝……」",
-    "file": 422402,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 122770225,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:38.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_13",
     "original": "（…………よしっ）",
     "translation": "（…………好）",
-    "file": 422402,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 122770226,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:40.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_14",
     "original": "（い、家に帰ってから舐めよう）",
     "translation": "（回，回家后尝尝吧）",
-    "file": 422402,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 5
   },
   {
-    "id": 122770227,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-05T02:48:42.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_15",
     "original": "その後、稲葉達、他の３人も\\n円城寺と千尋からプレゼントをもらい、\\nそれぞれが、大いに喜んでいた。",
     "translation": "之后，稻叶她们三个人，\\n也都拿到了圆城寺和千寻给的礼物，\\n她们每个人都非常开心。",
-    "file": 422402,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 122770228,
-    "createdAt": "2021-12-03T14:49:46.000Z",
-    "updatedAt": "2021-12-09T12:53:27.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St112_Cp0602.bin_16",
     "original": "そして……。",
     "translation": "然后……",
-    "file": 422402,
-    "stage": 3,
-    "project": 3318,
-    "uid": 20131,
-    "extra": null,
-    "context": "",
-    "words": 1
+    "stage": 3
   }
 ]

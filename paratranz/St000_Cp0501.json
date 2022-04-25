@@ -229,8 +229,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0501.bin_33",
     "original": "「ダメに決まってるでしょ！\\n　そんな記事書いたら、もう口利かないから！」",
-    "translation": "「肯定不行吧!\\n　如果真要是写了那个，我就再也不理你了！」",
-    "stage": 5,
+    "translation": "「肯定不行吧！\\n　如果真要是写了那个，我就再也不理你了！」",
+    "stage": 3,
     "context": "唯"
   },
   {
@@ -271,15 +271,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0501.bin_39",
     "original": "「そろそろ本題を話すべきだと思うんだが」",
-    "translation": "「我也觉得是时候应该说正题了」",
-    "stage": 5,
+    "translation": "「我也觉得应该是时候说正题了」",
+    "stage": 3,
     "context": "Choice"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0501.bin_40",
     "original": "「脱線して悪かったよ」",
-    "translation": "「跑题真的抱歉了啊」",
-    "stage": 5
+    "translation": "「抱歉刚跑题了」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0501.bin_41",

@@ -17,8 +17,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_2",
     "original": "「下手な抵抗はやめるべきだね」",
     "translation": "「停止无谓的抵抗比较好哦」",
-    "stage": 5,
-    "context": ""
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_3",
@@ -108,8 +107,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_15",
     "original": "「は、はい、なんでしょうか？」",
     "translation": "「可，可以。有什么事呢？」",
-    "stage": 3,
-    "context": ""
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_16",
@@ -136,8 +134,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_19",
     "original": "「は、はい、なんでしょうか？」",
     "translation": "「可，可以。有什么事呢？」",
-    "stage": 3,
-    "context": ""
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_20",
@@ -220,8 +217,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_31",
     "original": "「ちょっと興味ないかな～……」",
     "translation": "「我没什么兴趣呢～……」",
-    "stage": 5,
-    "context": ""
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_32",
@@ -262,8 +258,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_37",
     "original": "「ちょっと興味ないかな～……なんて……\\n　思ったりしちゃうわけですよ、はい」",
     "translation": "「一点都没兴趣~……呢……\\n　就是这么想的，没错」",
-    "stage": 5,
-    "context": ""
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_38",
@@ -318,8 +313,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_45",
     "original": "「今日は早く家に帰りたいんです」",
     "translation": "「今天想早点回家了」",
-    "stage": 3,
-    "context": ""
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_46",
@@ -332,15 +326,13 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_47",
     "original": "「だから、早く会議を終わらせて帰りたいな～って\\n　思ってるんだけど……ダメかな？」",
     "translation": "「所以，想早点结束会议回家\\n　的说……不行吗？」",
-    "stage": 5,
-    "context": ""
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_48",
     "original": "「余計なお世話だよ！\\n　わたしのことは放っといてよ！」",
     "translation": "「多管闲事！\\n　别管我！」",
-    "stage": 5,
-    "context": ""
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_49",
@@ -374,8 +366,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_53",
     "original": "「恋愛講座はまたいつか、時間がある時にするわ。\\n　もちろん、永瀬さんたちが必要としてくれたら、ね」",
     "translation": "「恋爱的讲座有时间再办吧。\\n　当然，永濑同学你们有需要的话，呢。」",
-    "stage": 5,
-    "context": ""
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_54",
@@ -430,8 +421,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_61",
     "original": "「いいこと、文研部の皆さん。これから私が\\n　恋愛というものの重要性について、\\n　丁寧に講義してあげるからよくお聞きなさい」",
     "translation": "「听好喽，文研部的大家。接下来我\\n　将会就名为恋爱的事物的重要性这点，\\n　仔细地给你们上堂课，所以请好好听讲」",
-    "stage": 5,
-    "context": ""
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_62",
@@ -451,8 +441,7 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_64",
     "original": "「だけど、同性間の恋愛はまだまだ市民権を得ているとは\\n　言い難い。でも、案ずることはないわ」",
     "translation": "「但是，很难说同性之间的恋爱得到广泛的承认。\\n　但是，不用担心哦」",
-    "stage": 5,
-    "context": ""
+    "stage": 5
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10C1.bin_65",

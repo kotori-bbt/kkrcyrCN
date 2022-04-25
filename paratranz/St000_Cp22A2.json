@@ -1,107 +1,48 @@
 [
   {
-    "id": 111702804,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:53:45.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22A2.bin_0",
     "original": "「俺も中庭に行こう。\\n　時間もないし、急がないとな」",
     "translation": "「我也去中庭吧。\\n　时间不多了，得抓紧了」",
-    "file": 385924,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "context": "太一"
   },
   {
-    "id": 111702805,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:53:46.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22A2.bin_1",
     "original": "休み時間",
     "translation": "休息时间",
-    "file": 385924,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111702806,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:53:47.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22A2.bin_2",
     "original": "中庭",
     "translation": "中庭",
-    "file": 385924,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111702807,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:53:50.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22A2.bin_3",
     "original": "「うーん、\\n　この辺りはあまり問題なさそうだな」",
     "translation": "「嗯——，\\n　这边好像没什么问题」",
-    "file": 385924,
     "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "context": "太一"
   },
   {
-    "id": 111702808,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:54:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22A2.bin_4",
     "original": "「いや、あの非常階段の辺りは古くて危険だな。\\n　もしかしたらコレが崩れてくるかもしれないし……」",
     "translation": "「等等，消防楼梯那边很老旧了，感觉会有危险。\\n　说不定就是这里会塌掉……」",
-    "file": 385924,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111702809,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:54:28.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22A2.bin_5",
     "original": "「……よし。他にも怪しいところは\\n　携帯で撮っていこう」",
     "translation": "「……好了。其他可疑的地方\\n　也用手机拍下来吧」",
-    "file": 385924,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   },
   {
-    "id": 111702810,
-    "createdAt": "2021-10-18T09:16:56.000Z",
-    "updatedAt": "2021-11-23T09:54:48.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp22A2.bin_6",
     "original": "「とは言え、休み時間の内に戻らないといけないからな。\\n　あと２、３枚撮ったら戻るとするか」",
     "translation": "「话是这么说，得在休息时间内回去才行。\\n　再拍个两三张就回去吧」",
-    "file": 385924,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24291,
-    "extra": null,
-    "context": "",
-    "words": 2
+    "stage": 5
   }
 ]

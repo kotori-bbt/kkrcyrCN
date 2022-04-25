@@ -403,15 +403,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1301.bin_61",
     "original": "「そうだよ。\\n　どんなに分が悪くても決して諦めない！\\n　負けを認めない！」",
-    "translation": "「对。\\n　不管发生什么都不会放弃!\\n　不会认输！」",
-    "stage": 5,
+    "translation": "「对。\\n　不管发生什么都不会放弃！\\n　不会认输！」",
+    "stage": 3,
     "context": "伊織"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1301.bin_62",
     "original": "「それがっ、\\n　それこそが稲葉姫子でしょ！？」",
-    "translation": "「那就是,\\n　那才是稻叶姬子你吧！？」",
-    "stage": 5
+    "translation": "「那就是，\\n　那才是稻叶姬子你吧！？」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St003_Cp1301.bin_63",

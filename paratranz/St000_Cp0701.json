@@ -399,8 +399,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0701.bin_58",
     "original": "「文研部のみんなの未来かな」",
-    "translation": "「文研部大家的未来吧」",
-    "stage": 5,
+    "translation": "「文研部的大家的未来吧」",
+    "stage": 1,
     "context": "Choice"
   },
   {
@@ -412,8 +412,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp0701.bin_60",
     "original": "「文研部のみんなの未来かな」",
-    "translation": "「文研部大家的未来吧」",
-    "stage": 5,
+    "translation": "「文研部的大家的未来吧」",
+    "stage": 1,
     "context": "太一"
   },
   {

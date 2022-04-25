@@ -1,227 +1,107 @@
 [
   {
-    "id": 111715338,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:28:56.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_0",
     "original": "「なっ！？」",
     "translation": "「什！？」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111715339,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_1",
     "original": "「ちょっ！？\\n　い、今のは…！　た、太一っっっ！！」",
     "translation": "「等！？\\n　刚，刚才那是…！　太，太一！！」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "青木",
-    "words": 3
+    "context": "青木"
   },
   {
-    "id": 111715340,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:10.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_2",
     "original": "「ば、バカ青木！\\n　そんなに喜んだら、稲葉に怒られ……」",
     "translation": "「笨，笨蛋青木！\\n　那么兴奋的话，会被稻叶骂……」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "太一",
-    "words": 2
+    "context": "太一"
   },
   {
-    "id": 111715341,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:12.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_3",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111715342,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:34:03.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_4",
     "original": "「……るぞ？」",
     "translation": "「……的啊？」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111715343,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:33:41.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_5",
     "original": "「そ、そうだよな。\\n　ここは、大人しく脳内再生を繰り返して……」",
     "translation": "「是，是啊。\\n　现在，还是先老老实实重新回忆一遍……」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "青木",
-    "words": 2
+    "context": "青木"
   },
   {
-    "id": 111715344,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:18.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_6",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "唯",
-    "words": 1
+    "context": "唯"
   },
   {
-    "id": 111715345,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:33:44.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_7",
     "original": "「……って、なんか静かだな？」",
     "translation": "「……怎么这么安静啊？」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "青木",
-    "words": 1
+    "context": "青木"
   },
   {
-    "id": 111715346,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:34:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_8",
     "original": "「ああ……」",
     "translation": "「啊啊……」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111715347,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:20.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_9",
     "original": "「…………」",
     "translation": "「…………」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "伊織",
-    "words": 1
+    "context": "伊織"
   },
   {
-    "id": 111715348,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-14T12:55:05.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_10",
     "original": "「伊織、唯、集合……」",
     "translation": "「伊织、唯、集合……」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24520,
-    "extra": null,
-    "context": "稲葉",
-    "words": 1
+    "context": "稲葉"
   },
   {
-    "id": 111715349,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:25.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_11",
     "original": "「うん……」",
     "translation": "「嗯……」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "伊織",
-    "words": 1
+    "context": "伊織"
   },
   {
-    "id": 111715350,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:26.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_12",
     "original": "「あ、うん」",
     "translation": "「啊，嗯」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "唯",
-    "words": 1
+    "context": "唯"
   },
   {
-    "id": 111715351,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:27.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_13",
     "original": "「……？」",
     "translation": "「……？」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "太一",
-    "words": 1
+    "context": "太一"
   },
   {
-    "id": 111715352,
-    "createdAt": "2021-10-18T09:18:38.000Z",
-    "updatedAt": "2021-11-11T14:29:28.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St106_Cp0101.bin_14",
     "original": "「……？」",
     "translation": "「……？」",
-    "file": 386171,
     "stage": 5,
-    "project": 3318,
-    "uid": 24293,
-    "extra": null,
-    "context": "青木",
-    "words": 1
+    "context": "青木"
   }
 ]

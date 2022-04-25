@@ -1,92 +1,41 @@
 [
   {
-    "id": 111701782,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:39:38.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C3.bin_0",
     "original": "朝",
     "translation": "早上",
-    "file": 385904,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Time",
-    "words": 1
+    "context": "Time"
   },
   {
-    "id": 111701783,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:39:40.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C3.bin_1",
     "original": "伊織の部屋",
     "translation": "伊织的房间",
-    "file": 385904,
     "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "Location",
-    "words": 1
+    "context": "Location"
   },
   {
-    "id": 111701784,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2022-02-04T14:28:32.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C3.bin_2",
     "original": "（死んじゃうなんて未来は極端だとしても、\\n　事故とか事件とか、そんなの見ちゃっても怖いよね……）",
     "translation": "（死掉什么的未来虽然是很极端，\\n　但看见那种事件或者事故还是很恐怖啊……）",
-    "file": 385904,
     "stage": 3,
-    "project": 3318,
-    "uid": 26752,
-    "extra": null,
-    "context": "伊織",
-    "words": 2
+    "context": "伊織"
   },
   {
-    "id": 111701785,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:40:29.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C3.bin_3",
     "original": "（でも、もしそんな未来が見えるのなら、\\n　むしろ怖いのは自分が被害者じゃなくて\\n　加害者になってたりする方が断然怖い……）",
     "translation": "（但是，如果看见了那种未来的话，\\n　与其自己成为被害者\\n　不如说变成凶手才更恐怖吧……）",
-    "file": 385904,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111701786,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:41:04.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C3.bin_4",
     "original": "（しかも、その相手が太一とか稲葉んだったりしたら……\\n　しばらく学校に行かない方がいいのかな？\\n　でも、それで本当に回避できるのかな？）",
     "translation": "（更何况，如果对方是太一或稻叶儿的话……\\n　暂时不去学校会比较好吧？\\n　但是，这样真的就可以回避了吗？）",
-    "file": 385904,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   },
   {
-    "id": 111701787,
-    "createdAt": "2021-10-18T09:16:49.000Z",
-    "updatedAt": "2021-11-19T15:41:55.000Z",
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp14C3.bin_5",
     "original": "（稲葉んは何か見たら報告しろって言ったけど、\\n　怖い未来が見えちゃったら、\\n　相談なんてとてもできない……）",
     "translation": "（虽然稻叶儿说看见什么的话就要报告，\\n　但要是看见恐怖的未来的话，\\n　要我怎么和他们商量啊……）",
-    "file": 385904,
-    "stage": 5,
-    "project": 3318,
-    "uid": 24816,
-    "extra": null,
-    "context": "",
-    "words": 3
+    "stage": 5
   }
 ]
