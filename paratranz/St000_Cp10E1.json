@@ -303,8 +303,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10E1.bin_44",
     "original": "「オレってそんなに逸材なの？」",
-    "translation": "「我是这么有才的人么？」",
-    "stage": 5,
+    "translation": "「我是这么有才的人吗？」",
+    "stage": 3,
     "context": "Choice"
   },
   {

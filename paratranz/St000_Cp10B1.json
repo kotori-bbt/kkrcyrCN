@@ -85,8 +85,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10B1.bin_12",
     "original": "「いつ来てもお前の話には興味がないがな」",
-    "translation": "「虽说一直以来都对你的话都不感兴趣呢」",
-    "stage": 5
+    "translation": "「虽说一直以来都对你的话不感兴趣呢」",
+    "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10B1.bin_13",
