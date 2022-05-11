@@ -237,8 +237,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1801.bin_34",
     "original": "「荒療治するわ。一泊旅行ね？」",
-    "translation": "「死马当活马医啊。外宿旅行？」",
-    "stage": 5,
+    "translation": "「死马当活马医吧。外宿旅行？」",
+    "stage": 1,
     "context": "Choice"
   },
   {
@@ -250,8 +250,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St005_Cp1801.bin_36",
     "original": "「荒療治するわ。一泊旅行ね？」",
-    "translation": "「死马当活马医啊。外宿旅行？」",
-    "stage": 5,
+    "translation": "「死马当活马医吧。外宿旅行？」",
+    "stage": 1,
     "context": "唯"
   },
   {
