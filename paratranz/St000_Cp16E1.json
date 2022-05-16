@@ -29,15 +29,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp16E1.bin_4",
     "original": "「身に覚えはないよな？」",
-    "translation": "「好像没什么印象啊！」",
-    "stage": 5,
+    "translation": "「好像没什么印象啊？」",
+    "stage": 3,
     "context": "Choice"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp16E1.bin_5",
     "original": "「よくわかんねーけど、逃げろ！」",
-    "translation": "「虽然不明白什么情况，先逃吧！」",
-    "stage": 3
+    "translation": "「虽然不明白是什么情况，先逃吧！」",
+    "stage": 1
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp16E1.bin_6",
@@ -142,8 +142,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp16E1.bin_21",
     "original": "「よくわかんねーけど、逃げろ！」",
-    "translation": "「虽然不明白什么情况，先逃吧！」",
-    "stage": 3
+    "translation": "「虽然不明白是什么情况，先逃吧！」",
+    "stage": 1
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp16E1.bin_22",
