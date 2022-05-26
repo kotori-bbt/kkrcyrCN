@@ -36,15 +36,15 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_5",
     "original": "「相手は藤島だ。\\n　未来が見えたくらいで期待なんてしてねえよ」",
-    "translation": "「对手可是藤岛。\\n　我已经看到未来了所以一点也没对你抱有什么期待呢。」",
-    "stage": 5,
+    "translation": "「对手可是藤岛。\\n　看到未来的我对你可没抱有任何期待。」",
+    "stage": 3,
     "context": "稲葉"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_6",
     "original": "「少しくらい期待してくれよ」",
-    "translation": "「稍微也给我点期待呀」",
-    "stage": 5,
+    "translation": "「稍微还是抱点期待呀」",
+    "stage": 3,
     "context": "太一"
   },
   {
@@ -64,8 +64,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_9",
     "original": "「失礼します……あら、全員揃っているじゃない。\\n　返事がないからいないかと思ったわ」",
-    "translation": "「打扰了……哎呀，这不全员都在嘛。\\n　因为没回应我还以为没有人在呢」",
-    "stage": 5,
+    "translation": "「打扰了……哎呀，这不全都在嘛。\\n　因为没回应我还以为一个都不在呢」",
+    "stage": 3,
     "context": "藤島"
   },
   {
@@ -113,13 +113,13 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_16",
     "original": "「すまん、そろそろ会議に戻りたいんだが」",
-    "translation": "「抱歉，差不多该重新开始会议了，所以……」",
+    "translation": "「抱歉，差不多该继续开会了，所以……」",
     "stage": 3
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_17",
     "original": "「すまん、そろそろ会議に戻りたいんだが」",
-    "translation": "「抱歉，差不多该重新开始会议了，所以……」",
+    "translation": "「抱歉，差不多该继续开会了，所以……」",
     "stage": 3,
     "context": "太一"
   },
@@ -127,28 +127,28 @@
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_18",
     "original": "「人に物を訊ねておいて、その途中で退散するなんて、\\n　八重樫君って割と酷い人ね」",
     "translation": "「刚才还在问我有什么事情，突然又要赶我走，\\n　八重㭴同学意外地是个很过分的人呢」",
-    "stage": 3,
+    "stage": 5,
     "context": "藤島"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_19",
     "original": "「いや、そんなつもりはなかったんだが、\\n　でも、俺達もちょっと取り込み中なのは事実なんだよ」",
-    "translation": "「不是的，　虽然我没有那个打算的，\\n　但是，我们有点忙也是事实呢」",
+    "translation": "「不是的，虽然我是没这个打算，\\n　但我们也确实有点事要忙呢」",
     "stage": 3,
     "context": "太一"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_20",
     "original": "「へえ、何か困ったことでもあったのかしら？\\n　場合によっては力になってあげてもいいわよ」",
-    "translation": "「欸，是不是有什么麻烦的事情？\\n　看情况我也可以帮帮你们的哦」",
-    "stage": 5,
+    "translation": "「欸，是不是有什么困扰？\\n　看情况我也可以帮帮你们的哦」",
+    "stage": 3,
     "context": "藤島"
   },
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10A1.bin_21",
     "original": "「なにか重大なことなのか？\\n　俺達も暇じゃないから時間が惜しいんだが」",
-    "translation": "「有什么重要的事情吗？\\n　我们也不是很闲所以时间很宝贵」",
-    "stage": 5,
+    "translation": "「有什么重要的事情吗？\\n　我们还有事要忙所以时间很宝贵」",
+    "stage": 3,
     "context": "太一"
   },
   {
