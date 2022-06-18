@@ -316,8 +316,8 @@
   {
     "key": "$PSP_GAME\\USRDIR\\St000\\St000_Cp10E1.bin_46",
     "original": "「オレってそんなに逸材なの？\\n　普通に唯が好きなだけなんだけど」",
-    "translation": "「我是这么有才的人么？\\n　我只是很普通地喜欢唯而已」",
-    "stage": 5,
+    "translation": "「我是这么有才的人吗？\\n　我只是很普通地喜欢唯而已」",
+    "stage": 3,
     "context": "青木"
   },
   {
