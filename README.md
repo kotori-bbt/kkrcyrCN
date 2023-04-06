@@ -7,7 +7,7 @@ If you'd like to help with translating the game to chinese, please to [Paratranz
 
 ## Acknowledgements
 
-[Darkness-TX's helheim](https://github.com/Yggdrasill-Moe/Helheim/tree/master/)
+[Yggdrasill's helheim](https://github.com/Yggdrasill-Moe/Helheim/tree/master/%E5%BF%83%E8%BF%9E%E6%83%85%E7%BB%93) authored by [Darkness-Tx](https://github.com/Darkness-TX)
 
 [S-KPT](https://github.com/SpudManTwo/KPT)
 
