@@ -7,9 +7,11 @@ If you'd like to help with translating the game to chinese, please to [Paratranz
 
 ## Acknowledgements
 
-[Darkness-TX](https://github.com/Yggdrasill-Moe/Niflheim)
+[Darkness-TX's helheim](https://github.com/Yggdrasill-Moe/Helheim/tree/master/)
 
 [S-KPT](https://github.com/SpudManTwo/KPT)
+
+[FwBCN](https://github.com/ponytranz/FwBCN)
 
 ## Patch downloads and other descriptions
 [【山星高校文研部汉化组】心连情结（AKA恋爱随意链接） 随机预知 PSP 汉化版 ](https://www.bilibili.com/video/BV1914y1J7WJ)
